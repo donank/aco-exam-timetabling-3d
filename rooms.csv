@@ -1,35 +1,35 @@
-﻿room_code,capacity
-Kelvin Hall,500
-Bute,230
-Randolph,85
-Senate,80
-Hunter West,195
-Hunter East,195
-Fore,64
-Kelvin Gallery,230
-WILTF,60
-WILT 112,50
-OTC,110
-St Andrews Gym Hall,110
-Sir Charles Wilson,60
-James Watt Design Studio A,54
-James Watt Design Studio B,69
-Rankine 629,53
-Rankine 630,55
-Rankine 601,37
-St Andrews Rm 234,40
-St Andrews Rm 237,30
-St Andrews Rm 227 ,50
-Joseph Black A504,25
-Joseph Black C407 (no lift),25
-59 Oakfield Ave Rm 302 (no lift),10
-Gilbert Scott Conf Suite Rm 250,40
-Gilbert Scott Conf Suite Rm 251,15
-Gilbert Scott Conf Suite Rm 355 (no lift),30
-Gilbert Scott Conf Suite Rm 253,40
-Gilbert Scott Conf Suite Rm 356,40
-Adam Smith 915,26
-John McIntyre Rm 201,100
-John McIntyre Rm 208,40
-Kelvin Blg Rm 220,50
-Kelvin Blg Rm 323/324,50
+﻿room_code,capacity,disabled_suitability
+59 Oakfield Ave Rm 302 (no lift),10,FALSE
+Gilbert Scott Conf Suite Rm 251,15,TRUE
+Joseph Black A504,25,TRUE
+Joseph Black C407 (no lift),25,FALSE
+Adam Smith 915,26,TRUE
+St Andrews Rm 237,30,TRUE
+Gilbert Scott Conf Suite Rm 355 (no lift),30,FALSE
+Rankine 601,37,TRUE
+St Andrews Rm 234,40,TRUE
+Gilbert Scott Conf Suite Rm 250,40,TRUE
+Gilbert Scott Conf Suite Rm 253,40,TRUE
+Gilbert Scott Conf Suite Rm 356,40,TRUE
+John McIntyre Rm 208,40,TRUE
+WILT 112,50,TRUE
+St Andrews Rm 227 ,50,TRUE
+Kelvin Blg Rm 220,50,TRUE
+Kelvin Blg Rm 323/324,50,TRUE
+Rankine 629,53,TRUE
+James Watt Design Studio A,54,TRUE
+Rankine 630,55,TRUE
+WILTF,60,TRUE
+Sir Charles Wilson,60,TRUE
+Fore,64,TRUE
+James Watt Design Studio B,69,TRUE
+Senate,80,TRUE
+Randolph,85,TRUE
+John McIntyre Rm 201,100,TRUE
+OTC,110,TRUE
+St Andrews Gym Hall,110,TRUE
+Hunter West,195,TRUE
+Hunter East,195,TRUE
+Bute,230,TRUE
+Kelvin Gallery,230,TRUE
+Kelvin Hall,500,TRUE

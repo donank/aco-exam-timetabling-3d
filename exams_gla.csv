@@ -1,0 +1,420 @@
+code,duration
+MATHS1017_1 - Mathematics 1,90
+ECON1001_1 - Economics 1A,120
+STATS1002_1 - Statistics 1Y,120
+LAW5015_1 - Corporate Governance,120
+LAW5197_1 - Corporate Finance,120
+LAW5042_1 - International Financial Reg,120
+COMPSCI1016_1 - Computing Science _ 1CT,120
+ASTRO1003_1 - Exploring the Cosmos 1X,120
+ECON5012_1 - Financial Services,120
+MGT5182_1 - Intl Strategic Mgmt,120
+ENG4179_1 - Thermal Engineering 4,120
+ENG5096_1 - Advanced Manufacture,120
+ENG5053_1 - Mech of Solids & Structures,120
+MGT5263_1 - Entrepreneurial Fin for SMEs,90
+COMPSCI5100_1 - Machine Learning & AI for DS,90
+ENG5062_1 - Navigation Systems M,120
+ENG5022_1 - Control M,120
+ENG5292_1 - Power Electronics and Drives M,120
+MED4042_1 - Immunology (intercal),60
+MED4039_1 - Core Course (intercal),120
+DENT3021_1 - Dental Stats (intercal),120
+CHEM1001_1 - Chemistry 1,120
+BIOL1001_1 - Biology 1A,90
+ENG5302_1 - Ultrasound Technology and Apps,90
+ENG5049_1 - Lasers,120
+LAW5014_1 - Internat Capital Markets Law,120
+ECON5002_1 - Basic Econometrics,120
+"ECON5009_1 - Fin Markets, Sec/Derivatives",90
+BUS5002_1 - Financial Information&Analysis,60
+COMPSCI5076_1 - Database Theory and App (M),90
+COMPSCI4043_1 - Systems And Networks,120
+COMPSCI4039_1 - Programming,120
+COMPSCI5077_1 - Enterprise Cyber Security (M),120
+ENG5319_1 - Ultrasonic Eng Tech and App,90
+MED2006_1 - MBChB 2 Written Paper 1,60
+ACCFIN1004_1 - Financial Accounting 1,90
+MGT1005_1 - Introduction to Management,60
+ACCFIN1007_1 - Mgmt Acc:Bus Decision Emphasis,90
+POLITIC2001_1 - Politics 2A: Hist of Pol Thght,120
+SOCIO2020_1 - Sociology 2A,90
+MATHS2001_1 - Maths 2A,90
+MATHS2004_1 - Maths 2B,90
+GREEK1001_1 - Greek 1A,120
+MED5029_1 - Introduction to Statistical,120
+ENG3059_1 - Aircraft Performance 3,120
+ENG3042_1 - Propulsion and Turbomach 3,120
+ENG3081_1 - Aircraft Structures and Mat 3,120
+ENG3039_1 - Dynamics 3,120
+ENG3036_1 - Simulation of Eng Systems 3,90
+BIOL2040_1 - Cntemprary Issues in Biol 2Y,120
+BIOL2039_1 - Fundamental Topics in Biol 2X,120
+MED1005_1 - MBChB 1 Written Paper 1,60
+ECON1012_1 - Introductory Maths for Econ,120
+ECON2001_1 - Economics 2A,90
+CEES2010_1 - CEES 2A,90
+PSYCH5033_1 - Social Psychology (PGT Conv),90
+EDUC5842_1 - DevPsych(PGT Conv),60
+ENG4195_1 - Control Sys Analysis & Des 4,90
+ENG4191_1 - Signal Proc of Biosignatures 4,90
+ENG1063_1 - Engineering Mathematics 1 Pr1,120
+ENG1002_1 - Aerospace Engineering 1,120
+ENG1065_1 - Statics 1,120
+ENG1033_1 - Materials 1,120
+ENG1003_1 - Analogue Electronics 1,120
+ENG1061_1 - Civil Engineering 1,60
+PHIL1010_1 - Philosophy 1A,90
+PSYCH1001_1 - Psychology 1A,120
+INFOST1001_1 - Digital Media & Info Studs 1A,90
+PSYCH5067_1 - Human Development PGT Conv,90
+COMPSCI4014_1 - Interactive Systems (H),90
+COMPSCI4009_1 - Algorithmics I (H),90
+CHEM1002_1 - Science Fundamentals 1X,120
+ENG2086_1 - Engineering Mathematics 2,120
+ENG2081_1 - Mechanics of Structures 2A,120
+ENG2085_1 - Fluid Mechanics 2,90
+ENG5314_1 - Control Sys Analysis & Des M,90
+ENG5082_1 - Space Flight Dynamics M,120
+ENG5013_1 - Flight Dynamics M,120
+ENG5091_1 - Physics of Fluids M,120
+ENG5076_1 - Simulation of Aero Systems,120
+ENG3046_1 - Structural Design 3,120
+ENG3086_1 - Transport Engineering 3,120
+ENG3037_1 - Mechanics of Solids 3,120
+ENG3085_1 - Hydraulic Engineering 3,120
+ASTRO1001_1 - Astronomy 1,60
+LAW1028_1 - (CL) System and Method,90
+LAW1026_1 - Criminal Law Englnd&Wales (CL),120
+LAW1027_1 - (CL) Law of Contract,120
+ENG2045_1 - Power Electronics 2,120
+ENG2023_1 - Electrical Circuits 2,120
+ENG2020_1 - Digital Electronics 2,120
+ECON5082_1 - Quantitative Methods _ Maths,120
+ECON5082_2 - Quantitative Methods _ Stats,90
+ECON4049_1 - Behavioural Econ: Theory & App,90
+ECON4072_1 - Economics of Poverty,120
+ECON4011_1 - Environmental Economics,90
+SOCIO1009_1 - Sociology 1A: Self & Society,90
+CHEM2016_1 - Chemistry 2X single Class Test,60
+COMPSCI1001_1 - Computing Science 1P Class Tst,90
+COMPSCI1006_1 - CS1F _ Computing Fundamentals,90
+BIOL4234_1 - Neuroscience 3A,60
+COMPSCI2003_1 - Algorithmic Foundations 2,90
+COMPSCI2001_1 - Java Programming 2,60
+COMPSCI2024_1 - Networks & Op Systems Ess 2,90
+ENG2048_1 - Structural Design 2,120
+ENG5027_1 - Digital Signal Processing,120
+ENG5092_1 - VLSI Design M,120
+THEATRE2001_1 - Thtre St 2:Clsscal To Mdrn,90
+LAW2007_1 - Jurisprudence,120
+LAW2011_1 - Property Law,90
+LAW2010_1 - Law and Government,120
+LAW1021_1 - Obligations 1A,120
+LAW1003_1 - Criminal Law and Evidence 1,120
+LAW1020_1 - Introduction to Legal Study,90
+HISTART1002_1 - History of Art 1A,90
+ENG3026_1 - Electronic System Design 3,120
+ENG3043_1 - Real Time Computer Systems 3,120
+ENG3014_1 - Communication Systems 3,90
+ENG3025_1 - Electronic Devices 3,120
+ACCFIN5205_1 - Corporate Fin,90
+ECON5024_1 - Monetary Pol/Role Cent Banks,120
+ECON5008_1 - Fin Institutions/Market Dev CS,90
+ECON4012_1 - Fin. Mkts. & Asset Pricing,60
+"ECON4020_1 - Micro Anal: Cons,Pro&Gen Equi",120
+ECON4003_1 - Econometrics 1,120
+HIST2016_1 - History 2A: Soc Cult Hist,90
+ECON4048_1 - History of Economic Thought,120
+ENG1031_1 - Intro to Biomed Engineering 1,90
+LAW5037_1 - International Competition Law,120
+LAW5034_1 - IP Law and the Market,120
+HIST1008_1 - Hist 1A Scotland's Millennium,90
+BIOL4051_2 - Genetics 3A_Data Handling,120
+BIOL4051_1 - Genetics 3A_Essay,180
+LAW1038_1 - Obligations 1A (FR),120
+LAW1036_1 - Criminal Law & Evidence 1 (FR),120
+LAW1033_1 - Legal Skills for Graduates,90
+LAW1040_1 - (CL) System & Method for Grads,90
+COMPSCI4038_1 - Prof Skills & Issues (H),60
+ENG4025_1 - Finite Element Analysis 4,120
+ENG3053_1 - Thermodynamics of Engines 3,90
+ENG1021_1 - Electronic Engineering 1X,120
+PSYCH4036_1 - Social Psychology 3H,90
+ARCH1001_1 - Arch 1A: Arch of Scotland,90
+GEOG1001_1 - Geography 1,90
+LAW2038_1 - Land Law,120
+COMPLIT1001_1 - Comparative Literature 1A,90
+PSYCH2010_1 - Psychology 2A Paper 1,120
+PSYCH2010_2 - Psychology 2A Paper 2,60
+THEATRE1001_1 - Theatre Studies 1:  Reading,60
+CEES1015_1 - CEES 1A,90
+PUBPOL2010_1 - Social & Public Policy 2A,120
+PHYS4017_1 - Physics 3: Class Test,180
+PHYS5012_1 - Problem Solving Workshop,90
+PUBPOL1010_1 - Social and Public Policy 1A,120
+POLITIC4020_1 - Politics of the EU,120
+POLITIC4002_1 - British Prime Ministers,120
+"POLITIC4140_1 - War, Peace & World Orders",120
+BIOL5283_1 - Fundamentals of Neuroscience,120
+GEOG4013_1 - Geographic Thought,90
+HISTART2004_1 - History of Art 2A,90
+MGT2012_1 - Operations Management,60
+BIOL4056_1 - Immunology 3A Problem Paper,90
+CHEM5070_1 - Catalyst structure & function,120
+CHEM5074_1 - Catalyst preparation,120
+CHEM5068_1 - Catalyst deactivation resit,120
+CHEM5069_1 - Catalyst testing resit,120
+CHEM3015_1 - Physical Chemistry 3 Half,90
+CHEM3013_1 - Organic Chemistry 3 Half,90
+CHEM3011_1 - Inorganic Chemistry 3 Half,90
+LAW5159_1 - Int Law and Int Econ Gov,120
+COMPLIT2001_1 - Comparative Literature 2A,90
+SCOTLIT1013_1 - Scottish Literature 1A,90
+MFL1012_1 - Japanese Intnl Mob 1,60
+GEOG5019_1 - Principles of GIS,90
+STATS3002_1 - Stats For Biomedical Eng 3,90
+ENG3084_1 - Biomechanics 3,120
+ENG3038_1 - Microscopy and Optics 3,120
+ENG3011_1 - Biological Fluid Mechanics 3,120
+STATS5025_1 - Regression Models,90
+STATS5016_1 - Big Data Analytics M,90
+STATS5098_1 - Advanced Predictive Models,90
+STATS5028_1 - Statistical Inference,90
+STATS5024_1 - Probability Level M,90
+STATS5099_1 - Data Mining,90
+STATS5014_1 - Bayesian Statistics (Level M),120
+ACCFIN4016_1 - Managmt Acc in Organ & Society,90
+MGT4003_1 - Global Business,90
+COMPSCI5092_1 - Research Professional Skills M,45
+COMPSCI5089_1 - Data Science and Systems,120
+EARTH1001_1 - Earth Science 1A,90
+ENG4098_1 - Microelec in Consumer Prods 4,90
+NURSING2013_1 - Biomedical Life Sciences 2,90
+GEOG2001_1 - Geography 2,120
+EDUC2111P_1 - Curriculum Enquiry 2A,120
+BIOL4228_1 - Human Biology 3A,60
+ACCFIN1016_1 - Introduction to Fin Inv & Inst,120
+STATS5100_1 - Bayesian Stats Level M _Summer,120
+MATHS1015_1 - Maths 1C,120
+ENG4173_1 - Renewable & Sustn Energy 4,120
+ECON5032_1 - Theory & Principles Of Sustain,120
+ENG4053_1 - Digital Signal Processing 4,120
+ENG4042_1 - Control 4,120
+ECON5030_1 - Econ of Inequality/Deprivation,120
+PHIL2010_1 - Philosophy 2A: What am I?,90
+ENG4124_1 - Adv Steel & Concrete Design 4,120
+ENG4183_1 - Transportation Systems Eng 4,120
+ENG4070_1 - Geotechnical Engineering 4,120
+ENG5308_1 - Biophysics of Cells and Syst M,90
+STATS2002_1 - Statistics 2R,90
+MATHS2032_1 - Maths 2C,90
+STATS2003_1 - Statistics 2S,90
+ACCFIN5203_1 - Foundations of ICF,120
+ENG5287_1 - Biomechanics M,120
+ENG5289_1 - Microscopy and Optics M,120
+ENG5286_1 - Biological Fluid Mechanics M,120
+TRS1006_1 - TRS1:Creation To Apocalypse,90
+POLITIC4162_1 - Intergroup Conflct & Rconcltn,120
+POLITIC4128_1 - Political Social Movements,90
+PUBPOL4028_1 - Disability and Society,120
+PUBPOL4031_1 - Ideological Concepts & Values,60
+ENG4193_1 - Ultrasound Technology & Apps 4,90
+ENG4187_1 - Power Electronics and Drives 4,120
+CELTCIV1001_1 - Celtic Civilisation 1A,90
+ACCFIN4010_1 - Capital Markets & Portfolio Mg,120
+ACCFIN4007_1 - Adv Financial Accounting,90
+DUMF2037_1 - Research Methods for SocSci,60
+DUMF2010_1 - Issues in Contemporary Socie,90
+MED4044_1 - Public Health (intercal),60
+PHYS4003_1 - Physics 3: Class Test,180
+PHYS4031_1 - Physics 3: Class Test,180
+PHYS4011_1 - Physics 3: Class Test,180
+EARTH4085_1 - Basin Resources & Sust Futures,120
+EARTH4089_1 - Hydrogeology,90
+LAW5040_1 - International Trade Law,120
+MFL1059_1 - French Intnl Mob 1,60
+ECON4078_1 - Financial Crises,120
+ENG4181_1 - Biophys of Cells & Sys 4,90
+ECON5121_1 - Microeconometrics,90
+LAW5041_1 - International Finance Law,120
+MFL1074_1 - Spanish Intnl Mob 1,60
+PHYS4049_1 - Mathematical Methods 2 Dec Ex,90
+PHYS4061_1 - Hons Physics Lab (Dec Exam),90
+PHYS4052_1 - Solid State Physics Dec Exam,90
+PHYS4050_1 - Nuclear & Particle Phys Dec Ex,90
+PHYS4051_1 - Quantum Theory Dec Exam,90
+ECON4009_1 - Economics of Industry,60
+LAW3031_1 - Criminal Justice 1 (Sem1 Only),60
+LAW3028_1 - Children's Rights (Sem1 Only),90
+LAW2006_1 - International Private Law,120
+ACCFIN1006_1 - Intro to Mgmt Acc & Control,120
+MED4058_1 - Emergency Medicine (Intercal),60
+MED4048_1 - Statistics (intercalated),120
+PSYCH4037_1 - Statistcl & Scientfc Models 3H,120
+PSYCH4006_1 - Human Development 3H,90
+EARTH2010_1 - Earth Science 2A,120
+PUBPOL4034_1 - Remaking Cities,90
+ESH2001_1 - ESH 2A,120
+ACCFIN2018_1 - Statistical Analysis and Metho,90
+ACCFIN2003_1 - Financial Accounting 2,90
+LAW1001_1 - Business Law,120
+MFL1028_1 - Portuguese Intnl Mob 1,60
+MATHS2027_1 - MATHEMATICS 2P,90
+LAW2031_1 - ADVANCED INTERNATIONAL LAW,120
+POLITIC4013_1 - Latin American Politics,120
+BIOL4009_2 - Biochemistry 3A_Data Handling,120
+BIOL4009_1 - Biochemistry 3A_Essay,180
+CHEM2002_1 - Chemistry 2Y Class Test,60
+CHEM2001_1 - Chemistry 2X Class Test,60
+ENG4184_1 - Navigation Systems 4,120
+ENG4138_1 - VLSI Design 4,120
+MFL1072_1 - Russian Intnl Mob 1,60
+ECON4007_1 - Economics of Business 1,90
+POLITIC4176_1 - IR Concepts,120
+NURSING1011_1 - Biomedical & Social Sciences 1,90
+ACCFIN5218_1 - Corporate Finance & Investment,90
+MFL1051_1 - Arabic Intnl Mob 1,60
+LAW2046_1 - Jurisprudence (Common Law_FR),120
+LAW2048_1 - Law and Gov't (Common Law_FR),120
+LATIN1001_1 - Latin 1A: Basic Latin 1,120
+ACCFIN4015_1 - Internat Financial Mgt,90
+INFOST2001_1 - Digital Media & Info Studs 2A,90
+ENGLANG1001_1 - English Language&Linguistic 1A,60
+STATS5015_1 - Biostatistics (Level M),120
+ECON5021_1 - Microeconomics with App in Fin,90
+ECON5013_1 - FDI and Development,120
+ENG4121_1 - Space Flight Dynamics 4,120
+ENG4094_1 - Mech of Solids 4,120
+ACCFIN4008_1 - Adv Theory & Practice Taxation,90
+SPS4001_1 - The Scottish Enlightenment,90
+LAW5170_1 - Patents and Innovation,120
+ACCFIN5242_1 - Financial Information Managemt,60
+ACCFIN5240_1 - Fin Info Mgt (EBG),60
+ACCFIN5241_1 - Fin Info Mgt (HR),60
+CHEM3014_1 - Physical Chemistry 3,90
+CHEM3012_1 - Organic Chemistry 3,90
+CHEM3010_1 - Inorganic Chemistry 3,90
+PSYCH2014_1 - Adv Intro Indvd Diff & Dev Psy,90
+BIOL3001_1 - Animal Biology 3A,120
+ENGLANG2004_1 - English Language&Linguistc 2A,120
+BIOL4074_2 - Molecr&Celur Bio3A_Data Hndlng,120
+BIOL4074_1 - Molecular&Cellular Bio3A_Essay,180
+MFL1063_1 - French Intnl Mob 3 Sem 1,60
+MFL1078_1 - Spanish Intnl Mob 3 Sem 1,60
+GEOG4098_1 - Cartographic Design,60
+VETSCI3009_1 - Molecular Biology of Cancer 3,90
+VETSCI3004_1 - Princ Infc Dis & Immun 3,120
+BIOL4236_1 - Pharmacology 3A,60
+ACCFIN5017_1 - Int Capital Markets,120
+GEOG5023_1 - Land Survey 2,90
+GEOG5008_1 - Fund of Geomatics (comb),120
+GEOG5020_1 - Land Survey 1,90
+ACCFIN4040_1 - Derivative Securities,120
+ENG4067_1 - Flight Dynamics 4,120
+ENG4102_1 - Physics of Fluids 4,120
+LAW4122_1 - Financial Law,60
+STATS5101_1 - Environ Stats M,90
+BIOL4137_1 - Zoology 3A,120
+VETSCI1006_1 - DPM_1,90
+PHYS4007_1 - PHYSICS 4 GENERAL WORKSHOP,90
+PSYCH4080_1 - Analysis of Psychomtrc Data 4H,90
+BIOL4065_1 - Marine & Freshwater Biology 3A,120
+NURSING3030_1 - Human Disease & Pathology,120
+NURSING3024_1 - Nursing 3,120
+CHEM2017_1 - Chemistry 2Y single Class Test,60
+CHEM3028_1 - Phys Chem for Chemical Studies,60
+CHEM3027_1 - Org Chem for Chemical Studies,60
+CHEM3026_1 - Inorg Chem for Chem Studies,60
+MFL1069_1 - German Intnl Mob 3 Sem 1,60
+ENG5276_1 - Advanced Manufacture 5,120
+MFL1057_1 - Chinese Intnl Mob 1,60
+MFL1055_1 - Catalan Intnl Mob 1,60
+MED4041_1 - Global Health (intercal),60
+BIOL4238_1 - Physiology 3A,60
+ENG5294_1 - Finite Element Analysis M,120
+ECON5020_1 - Mathematical Finance,120
+ACCFIN5045_1 - International Corporate Gov,90
+COMPLIT2010_1 - Comp Lit 2C,90
+TRS2021_1 - Religion Culture Controversy,90
+ECON3023_1 - Contemporary Topics in Econ,90
+ARCH2004_1 - Arch 2A: 20 Thngs Chgd World,60
+LAW5130_1 - International Law&Int Security,120
+DUMF3045_1 - Health&Soc Policy Contemp Ctxt,90
+CELTCIV2001_1 - Celtic Civilisation 2A,90
+SCOTLIT2001_1 - Scottish Literature 2A,90
+EDUC1033_1 - Theology in Education 1,120
+MFL1009_1 - Italian Intnl Mob 1,60
+MED4035_1 - Critical Care Med (intercal),60
+GEOG5018_1 - Principles of Carto Design,90
+EDUC2060_1 - Theology In Education 2,120
+LAW5026_1 - Foundations Of Int Law,120
+ENG5291_1 - Signal Proc of Biosignatures M,90
+LAW5039_1 - Adv Intro to Intl Criminal Law,120
+PSYCH1010_1 - Intro to Applied Psych,90
+DUMF1013_1 - Maths _ Theory and Pedagogy 1,90
+EARTH4072_1 - Igneous Geology,120
+EARTH4071_1 - Sedimentary Geology,120
+MFL1014_1 - Japanese Intnl Mob 3 Sem 1,60
+ACCFIN5219_1 - Corporate Finance & Valuation,90
+ACCFIN5039_1 - Principes of FE,120
+ECON4086_1 - Econ. of Industry 1 (Exchange),60
+MFL1066_1 - German Intnl Mob 1,60
+PHYS2002_1 - Physics 2 (Half),120
+ACCFIN4041_1 - Issues Accountancy Profession,120
+MED4045_1 - Psych. Med. (intercal),60
+STATS5017_1 - Design of Experiments (Lvl M),120
+ACCFIN4029_1 - Corporate Insolvency,90
+LAW2047_1 - Jurisprudence (FR),120
+LAW2050_1 - Property Law (FR),90
+LAW2049_1 - Law and Government (FR),120
+MED4037_1 - Cancer Studies (intercal),60
+MED4049_1 - Women&Child Health (intercal),60
+LAW4151_1 - Legal History (Sem 1),90
+MFL1053_1 - Arabic Intnl Mob 3 Sem 1,60
+DUMF1064_1 - Philosophy 1,90
+LAW3030_1 - Princ of Healthcare Law S1Only,60
+LATIN4003_1 - Basic Latin for Honours 1,120
+LAW3034_1 - Anti_Discrimination Law S1Only,60
+DUMF3033_1 - Rural Tourism & Stewardship,90
+LAW4139_1 - Company Law (Sem 1 Only),120
+LAW4146_1 - Wrongful Conviction Sem 1 Only,60
+MGT5350_1 - Operational & Strategic HRM,90
+INFOST2003_1 - Dig Media&Info Studs 2A_Online,90
+MED4057_1 - Otolaryngology (ENT) Intercal,60
+ENG4088_1 - Laser & Electro_Optic Systs 4,120
+BIOL4230_1 - Anatomy 3A,60
+VETSCI4024_1 - Vet Public Health & Epi 4,90
+VETSCI4023_1 - Animal Welfare & Conservation4,60
+LATIN2001_1 - Latin 2A: Intermed Latin 1,120
+MED4047_1 - Sports Medicine (intercal),60
+MED4038_1 - Cardiovascular (intercal),60
+LAW4140_1 - Issues in Healthcare Law S1,60
+ECON5085_1 - Advanced Math for Economics,90
+ECON4093_1 - International Trade (Exchange),90
+GEOG2016_1 - Geography 2 (Half Course),120
+ASTRO1002_1 - Astronomy 1 (Half),60
+DUMF1043_1 - Earth System Science,60
+LATIN4001_1 - Intermed Latin for Honours 1,120
+LAW4137_1 - Competition Law (Sem1 Only),60
+MED4036_1 - Clin Neuroscience (intercal),60
+ECON5095_1 - Topics in Micro Theory 1,90
+PHYS4047_1 - Energy & Environment Dec Exam,90
+STATS5102_1 - Spatial Statistics (Level M) _,120
+BIOL3027_1 - Human Life Sciences 3A,60
+GREEK5003_1 - Basic Greek for Postgrads 1,120
+LATIN5003_1 - Basic Latin for Postgrads 1,120
+GREEK4003_1 - Basic Greek for Honours 1,120
+GEOG1007_1 - Geography 1 (Half Course),90
+DUMF3082_1 - Leading Change,90
+PHYS5063_1 - Nuclear Reactors (Dec Exam),90
+BIOL3005_2 - Biomlcular Sci3A_Data Handling,120
+BIOL3005_1 - Biomolecular Sci 3A_Essay,180
+LAW4143_1 - Human Reproduction &the Law S1,60
+CHEM2007_1 - Organic Chem for Visit Studs 1,120
+PHYS5051_1 - Groups & Symmetries Dec Exam,90
+GREEK4001_1 - Advanced Greek for Honours 1,120
+GREEK2001_1 - Greek 2A,120
+PSYCH3008_1 - Social Psychology_ Psy Studies,90
+PSYCH3006_1 - Human Development_PsyStud,90
+LATIN5001_1 - Intermediate Latin For PGT 1,120
