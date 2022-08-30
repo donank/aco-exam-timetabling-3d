@@ -1,801 +1,801 @@
-,0,1,2,3,4,5,6
-0,AA2016E1,27,Friday,Evening,01:30,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-1,AA3008E1,14,Monday,Afternoon,03:00,31,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-2,AAA011E1,27,Friday,Evening,01:30,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-3,AAA013E1,2,Wednesday,Afternoon,02:00,55,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-4,AAA022E1,27,Friday,Evening,01:30,28,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-5,AAA024E1,14,Monday,Afternoon,01:30,31,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-6,AAA033E1,27,Friday,Evening,01:30,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-7,AAA034E1,17,Tuesday,Afternoon,01:30,26,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-8,AAB025E1,14,Monday,Afternoon,03:00,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-9,AAB058E1,27,Friday,Evening,01:00,7,['59 Oakfield Ave Rm 302 (no lift)']
-10,B11101E1,14,Monday,Afternoon,03:00,27,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-11,B11102E1,17,Tuesday,Afternoon,02:00,110,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-12,B12301E1,14,Monday,Afternoon,02:00,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-13,B12302E1,5,Thursday,Afternoon,02:00,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-14,B12303E1,17,Tuesday,Afternoon,02:00,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-15,B12320E1,1,Wednesday,Morning,02:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-16,B13103E1,14,Monday,Afternoon,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-17,B31101E1,14,Monday,Afternoon,02:00,107,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-18,B31103E1,2,Wednesday,Afternoon,02:00,107,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-19,B31105E1,27,Friday,Evening,01:00,107,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-20,B31107E1,7,Friday,Morning,02:00,108,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-21,B32321E1,27,Friday,Evening,01:00,119,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-22,B32322E1,24,Thursday,Evening,01:00,110,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-23,B32325E1,7,Friday,Morning,02:00,110,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-24,B32326E1,11,Saturday,Afternoon,01:00,110,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-25,B32327E1,14,Monday,Afternoon,02:00,110,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-26,B33541E1,27,Friday,Evening,01:00,93,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-27,B33544E1,18,Tuesday,Evening,01:00,93,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-28,B33545E1,14,Monday,Afternoon,02:00,93,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-29,B33548E1,21,Wednesday,Evening,01:00,93,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-30,B33549E1,7,Friday,Morning,02:00,93,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-31,B33563E1,24,Thursday,Evening,01:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-32,C11101E1,22,Thursday,Morning,02:00,145,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-33,C11105E1,26,Friday,Afternoon,02:00,163,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)', 'Joseph Black A504']"
-34,C12321E1,11,Saturday,Afternoon,02:00,68,['Kelvin Hall']
-35,C12324E1,5,Thursday,Afternoon,02:00,63,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-36,C12325E1,24,Thursday,Evening,01:30,62,['Kelvin Hall']
-37,C12327E1,2,Wednesday,Afternoon,02:00,58,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-38,C12328E1,27,Friday,Evening,01:30,32,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-39,C12329E1,14,Monday,Afternoon,01:30,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-40,C12331E1,8,Friday,Afternoon,01:30,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-41,C12332E1,14,Monday,Afternoon,03:00,48,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-42,C12333E1,18,Tuesday,Evening,01:30,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-43,C12338E1,17,Tuesday,Afternoon,02:00,57,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-44,C13562E1,14,Monday,Afternoon,03:00,33,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-45,C13563E1,1,Wednesday,Morning,03:00,7,['59 Oakfield Ave Rm 302 (no lift)']
-46,C13564E1,17,Tuesday,Afternoon,03:00,39,['Kelvin Hall']
-47,C13565E1,14,Monday,Afternoon,03:00,19,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-48,C13567E1,14,Monday,Afternoon,03:00,17,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-49,C13569E1,7,Friday,Morning,03:00,19,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-50,C13571E1,27,Friday,Evening,01:30,8,['59 Oakfield Ave Rm 302 (no lift)']
-51,C13572E1,1,Wednesday,Morning,01:30,7,['59 Oakfield Ave Rm 302 (no lift)']
-52,C13573E1,2,Wednesday,Afternoon,03:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-53,C1P001E1,14,Monday,Afternoon,02:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-54,C41101E1,8,Friday,Afternoon,02:00,102,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-55,C42304E1,20,Wednesday,Afternoon,02:00,63,['Kelvin Hall']
-56,C42306E1,22,Thursday,Morning,02:00,62,['Kelvin Hall']
-57,C42307E1,26,Friday,Afternoon,02:00,37,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-58,C43511E1,20,Wednesday,Afternoon,03:00,38,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-59,C43512E1,14,Monday,Afternoon,03:00,24,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-60,C52303E1,17,Tuesday,Afternoon,02:00,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-61,C71101E1,11,Saturday,Afternoon,02:00,205,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)', 'Joseph Black A504', 'Gilbert Scott Conf Suite Rm 251', '59 Oakfield Ave Rm 302 (no lift)']"
-62,C72303E1,17,Tuesday,Afternoon,03:00,50,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-63,C73507E1,17,Tuesday,Afternoon,03:00,40,['Kelvin Hall']
-64,C81HAAE1,27,Friday,Evening,01:00,23,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-65,C81HBAE1,19,Wednesday,Morning,01:00,121,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-66,C81HCAE1,5,Thursday,Afternoon,01:00,126,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-67,C81HDAE1,11,Saturday,Afternoon,01:00,121,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-68,C81IAAE1,24,Thursday,Evening,01:00,67,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-69,C81IBAE1,5,Thursday,Afternoon,01:00,25,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-70,C81ICAE1,27,Friday,Evening,01:00,50,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-71,C81IDAE1,21,Wednesday,Evening,01:00,54,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-72,C81J1AE1,27,Friday,Evening,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-73,C81J1AE2,14,Monday,Afternoon,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-74,C81J2AE1,27,Friday,Evening,01:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-75,C81J2AE2,17,Tuesday,Afternoon,01:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-76,C81J3AE1,14,Monday,Afternoon,01:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-77,C81J3AE2,1,Wednesday,Morning,01:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-78,C81J4AE1,27,Friday,Evening,01:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-79,C81J4AE2,14,Monday,Afternoon,01:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-80,C81J5AE1,27,Friday,Evening,01:00,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-81,C81J5AE2,14,Monday,Afternoon,01:00,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-82,C81JIAE1,27,Friday,Evening,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-83,C81JIAE2,14,Monday,Afternoon,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-84,C81MJAE1,27,Friday,Evening,01:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-85,C81MSAE1,1,Wednesday,Morning,01:00,113,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-86,C82BCSE1,27,Friday,Evening,01:00,4,['59 Oakfield Ave Rm 302 (no lift)']
-87,C82BUAE1,20,Wednesday,Afternoon,02:00,97,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-88,C82CUAE1,16,Tuesday,Morning,02:00,95,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-89,C82DUAE1,3,Wednesday,Evening,01:00,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-90,C82HUAE1,27,Friday,Evening,01:00,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-91,C82MCPE1,6,Thursday,Evening,01:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-92,C82MHAE1,13,Monday,Morning,02:00,75,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-93,C82MJAE1,23,Thursday,Afternoon,02:00,42,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-94,C82OUAE1,27,Friday,Evening,01:00,3,['Kelvin Hall']
-95,C82SUAE1,10,Saturday,Morning,01:00,16,['Kelvin Hall']
-96,C83XWHE1,17,Tuesday,Afternoon,02:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-97,C8COUAE1,23,Thursday,Afternoon,02:00,37,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-98,C8CXCEE1,14,Monday,Afternoon,02:00,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-99,C8CXCHE1,14,Monday,Afternoon,02:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-100,C8CXDLE1,1,Wednesday,Morning,02:00,5,['59 Oakfield Ave Rm 302 (no lift)']
-101,C8CXESE1,10,Saturday,Morning,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-102,C8CXPAE1,6,Thursday,Evening,01:30,19,['Kelvin Hall']
-103,C8P001E1,2,Wednesday,Afternoon,03:00,22,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-104,C8P002E1,8,Friday,Afternoon,03:00,22,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-105,D21102E1,27,Friday,Evening,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-106,D22227E1,14,Monday,Afternoon,02:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-107,D23315E1,14,Monday,Afternoon,02:00,4,['59 Oakfield Ave Rm 302 (no lift)']
-108,D23336E1,1,Wednesday,Morning,02:00,7,['59 Oakfield Ave Rm 302 (no lift)']
-109,D23342E1,14,Monday,Afternoon,02:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-110,D23360E1,1,Wednesday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-111,EN00C1E1,14,Monday,Afternoon,02:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-112,EN00P1E1,5,Thursday,Afternoon,02:00,21,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-113,EN00P3E1,17,Tuesday,Afternoon,02:00,25,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-114,EN00P5E1,22,Thursday,Morning,02:00,26,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-115,EN00P7E1,10,Saturday,Morning,02:00,22,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-116,F11I01E1,14,Monday,Afternoon,01:00,109,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-117,F11I02E1,8,Friday,Afternoon,02:00,110,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-118,F11O01E1,2,Wednesday,Afternoon,01:00,108,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-119,F11O02E1,14,Monday,Afternoon,02:00,112,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-120,F11P01E1,20,Wednesday,Afternoon,01:00,88,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-121,F11P02E1,19,Wednesday,Morning,02:00,129,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-122,F12I01E1,27,Friday,Evening,01:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-123,F12I02E1,7,Friday,Morning,02:00,122,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-124,F12O01E1,14,Monday,Afternoon,02:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-125,F12O02E1,1,Wednesday,Morning,02:00,114,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-126,F12P01E1,2,Wednesday,Afternoon,01:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-127,F12P02E1,25,Friday,Morning,02:00,122,['Kelvin Hall']
-128,F12P03E1,14,Monday,Afternoon,02:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-129,F12X02E1,16,Tuesday,Morning,02:00,65,['Kelvin Hall']
-130,F12X04E1,1,Wednesday,Morning,01:30,9,['59 Oakfield Ave Rm 302 (no lift)']
-131,F12X04E2,19,Wednesday,Morning,01:30,9,['Kelvin Hall']
-132,F12X04E3,23,Thursday,Afternoon,01:30,9,['Kelvin Hall']
-133,F12X05E1,1,Wednesday,Morning,02:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-134,F13I01E1,27,Friday,Evening,01:00,30,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-135,F13I02E1,16,Tuesday,Morning,02:00,103,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-136,F13I03E1,14,Monday,Afternoon,01:00,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-137,F13I05E1,27,Friday,Evening,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-138,F13I06E1,1,Wednesday,Morning,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-139,F13O01E1,14,Monday,Afternoon,02:00,29,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-140,F13O02E1,8,Friday,Afternoon,02:00,103,['Kelvin Hall']
-141,F13O03E1,5,Thursday,Afternoon,01:00,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-142,F13O06E1,27,Friday,Evening,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-143,F13P01E1,23,Thursday,Afternoon,02:00,111,['Kelvin Hall']
-144,F13P02E1,14,Monday,Afternoon,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-145,F13P03E1,9,Friday,Evening,01:00,44,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-146,F13P05E1,27,Friday,Evening,01:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-147,F13X01E1,4,Thursday,Morning,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-148,F13X03E1,19,Wednesday,Morning,01:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-149,F13X04E1,5,Thursday,Afternoon,02:00,86,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-150,F311A1E1,11,Saturday,Afternoon,01:00,52,['Kelvin Hall']
-151,F311B1E1,18,Tuesday,Evening,01:00,43,['Kelvin Hall']
-152,F311E1E1,23,Thursday,Afternoon,01:00,106,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-153,F311M0E1,1,Wednesday,Morning,01:00,103,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-154,F311M1E1,21,Wednesday,Evening,01:00,161,['Kelvin Hall']
-155,F311Q1E1,16,Tuesday,Morning,01:00,157,['Kelvin Hall']
-156,F311T1E1,25,Friday,Morning,01:00,175,['Kelvin Hall']
-157,F311V1E1,7,Friday,Morning,01:00,47,['Kelvin Hall']
-158,F311X1E1,3,Wednesday,Evening,01:00,37,['Kelvin Hall']
-159,F311X2E1,4,Thursday,Morning,01:00,25,['Kelvin Hall']
-160,F311X4E1,13,Monday,Morning,01:00,67,['Kelvin Hall']
-161,F311Z1E1,10,Saturday,Morning,01:00,144,['Kelvin Hall']
-162,F321C6E1,14,Monday,Afternoon,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-163,F321E4E1,27,Friday,Evening,01:00,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-164,F321M1E1,10,Saturday,Morning,02:00,94,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-165,F321Q2E1,1,Wednesday,Morning,02:00,98,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-166,F321Q6E1,7,Friday,Morning,02:00,18,['Kelvin Hall']
-167,F321Q9E1,14,Monday,Afternoon,02:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-168,F321S6E1,11,Saturday,Afternoon,02:00,18,['Kelvin Hall']
-169,F321T2E1,17,Tuesday,Afternoon,02:00,95,['Kelvin Hall']
-170,F321T6E1,4,Thursday,Morning,02:00,18,['Kelvin Hall']
-171,F321Z3E1,11,Saturday,Afternoon,02:00,106,['Kelvin Hall']
-172,F331M9E1,14,Monday,Afternoon,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-173,F331N3E1,14,Monday,Afternoon,02:00,65,['Kelvin Hall']
-174,F331N6E1,2,Wednesday,Afternoon,02:00,22,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-175,F331O6E1,26,Friday,Afternoon,02:00,26,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-176,F331Q3E1,8,Friday,Afternoon,02:00,82,['Kelvin Hall']
-177,F331S2E1,10,Saturday,Morning,02:00,82,['Kelvin Hall']
-178,F331S9E1,23,Thursday,Afternoon,02:00,22,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-179,F331X3E1,4,Thursday,Morning,02:00,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-180,F331X5E1,14,Monday,Afternoon,01:00,5,['59 Oakfield Ave Rm 302 (no lift)']
-181,F331Z4E1,20,Wednesday,Afternoon,02:00,66,['Kelvin Hall']
-182,F331Z8E1,7,Friday,Morning,02:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-183,F3B1B3E1,25,Friday,Morning,02:00,40,['Kelvin Hall']
-184,F3B1X4E1,5,Thursday,Afternoon,02:00,78,['Kelvin Hall']
-185,G111ACE1,2,Wednesday,Afternoon,02:00,34,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-186,G111CCE1,27,Friday,Evening,01:00,59,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-187,G111DGE1,2,Wednesday,Afternoon,02:00,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-188,G111GAE1,4,Thursday,Morning,02:00,71,['Kelvin Hall']
-189,G111GBE1,26,Friday,Afternoon,02:00,222,['Kelvin Hall']
-190,G111MCE1,14,Monday,Afternoon,01:30,3,['Kelvin Hall']
-191,G111VAE1,8,Friday,Afternoon,02:00,165,['Kelvin Hall']
-192,G111VBE1,5,Thursday,Afternoon,02:00,24,['Kelvin Hall']
-193,G11AS1E1,22,Thursday,Morning,02:00,69,['Kelvin Hall']
-194,G11MA1E1,23,Thursday,Afternoon,03:00,172,['Kelvin Hall']
-195,G11MA2E1,14,Monday,Afternoon,02:00,40,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-196,G11PR1E1,20,Wednesday,Afternoon,02:00,165,['Kelvin Hall']
-197,G12AL1E1,1,Wednesday,Morning,02:00,109,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-198,G12AN1E1,17,Tuesday,Afternoon,02:00,103,['Kelvin Hall']
-199,G12ME1E1,26,Friday,Afternoon,02:00,108,['Kelvin Hall']
-200,G12MM1E1,2,Wednesday,Afternoon,02:00,109,['Kelvin Hall']
-201,G12PR1E1,8,Friday,Afternoon,02:00,115,['Kelvin Hall']
-202,G12ST1E1,13,Monday,Morning,02:00,112,['Kelvin Hall']
-203,G13AL4E1,16,Tuesday,Morning,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-204,G13AN4E1,1,Wednesday,Morning,02:00,7,['59 Oakfield Ave Rm 302 (no lift)']
-205,G13AS5E1,14,Monday,Afternoon,02:00,19,['Kelvin Hall']
-206,G13CM2E1,11,Saturday,Afternoon,02:00,45,['Kelvin Hall']
-207,G13CS2E1,22,Thursday,Morning,02:00,10,['Kelvin Hall']
-208,G13LA1E1,22,Thursday,Morning,02:00,4,['Kelvin Hall']
-209,G13LO1E1,4,Thursday,Morning,02:00,47,['Kelvin Hall']
-210,G13MM2E1,7,Friday,Morning,02:00,29,['Kelvin Hall']
-211,G13PR2E1,23,Thursday,Afternoon,02:00,7,['Kelvin Hall']
-212,G13QT1E1,19,Wednesday,Morning,02:00,31,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-213,G13RE1E1,25,Friday,Morning,02:00,7,['Kelvin Hall']
-214,G13RE2E1,17,Tuesday,Afternoon,02:00,34,['Kelvin Hall']
-215,G13SP2E1,27,Friday,Evening,02:00,23,['Kelvin Hall']
-216,G13ST3E1,22,Thursday,Morning,02:00,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-217,G13ST6E1,10,Saturday,Morning,02:00,39,['Kelvin Hall']
-218,G51DSDE1,17,Tuesday,Afternoon,01:45,55,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-219,G51HOCE1,14,Monday,Afternoon,02:00,28,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-220,G51MC1E1,10,Saturday,Morning,02:00,65,['Kelvin Hall']
-221,G52ALGE1,11,Saturday,Afternoon,02:00,62,['Kelvin Hall']
-222,G52OBJE1,19,Wednesday,Morning,02:00,61,['Kelvin Hall']
-223,G53FSPE1,26,Friday,Afternoon,01:45,49,['Kelvin Hall']
-224,G53LCTE1,14,Monday,Afternoon,01:45,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-225,G53RDBE1,17,Tuesday,Afternoon,02:00,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-226,G53VIPE1,23,Thursday,Afternoon,01:45,25,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-227,G5ABELE1,20,Wednesday,Afternoon,01:45,28,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-228,G5BAIPE1,25,Friday,Morning,01:45,31,['Kelvin Hall']
-229,G5BCCNE1,4,Thursday,Morning,02:00,81,['Kelvin Hall']
-230,G5BDBSE1,7,Friday,Morning,02:00,61,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-231,G5BGRAE1,1,Wednesday,Morning,01:45,53,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-232,G5BSBBE1,14,Monday,Afternoon,01:45,9,['Kelvin Hall']
-233,G5P002E1,14,Monday,Afternoon,02:00,49,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-234,G5P005E1,22,Thursday,Morning,02:00,56,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-235,H21B00E1,5,Thursday,Afternoon,02:00,90,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-236,H21H01E1,8,Friday,Afternoon,02:00,80,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-237,H21M01E1,22,Thursday,Morning,02:00,92,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-238,H22C20E1,20,Wednesday,Afternoon,02:00,63,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-239,H22G06E1,14,Monday,Afternoon,02:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-240,H22M02E1,14,Monday,Afternoon,02:00,76,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-241,H22S02E1,17,Tuesday,Afternoon,02:00,75,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-242,H22V02E1,2,Wednesday,Afternoon,02:00,75,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-243,H23C20E1,19,Wednesday,Morning,02:00,47,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-244,H23CEOE1,14,Monday,Afternoon,02:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-245,H24C20E1,14,Monday,Afternoon,02:00,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-246,H2CG03E1,11,Saturday,Afternoon,02:00,43,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-247,H2CH04E1,7,Friday,Morning,02:00,17,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-248,H2CH05E1,22,Thursday,Morning,02:00,92,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-249,H2CM04E1,2,Wednesday,Afternoon,02:00,81,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-250,H2CP01E1,26,Friday,Afternoon,02:00,71,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-251,H2CS05E1,17,Tuesday,Afternoon,02:00,39,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-252,H2CS06E1,4,Thursday,Morning,02:00,50,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-253,H2CT01E1,1,Wednesday,Morning,02:00,95,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-254,H2CV03E1,23,Thursday,Afternoon,02:00,16,['Kelvin Hall']
-255,H31BDAE1,7,Friday,Morning,02:00,127,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-256,H31DM1E1,10,Saturday,Morning,02:00,125,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-257,H31ENCE1,27,Friday,Evening,01:30,97,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-258,H33CONE1,5,Thursday,Afternoon,02:00,78,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-259,H33MI2E1,8,Friday,Afternoon,02:00,75,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-260,H3AFM1E1,17,Tuesday,Afternoon,02:00,102,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-261,H3BDM3E1,20,Wednesday,Afternoon,02:00,118,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-262,H3BFM2E1,27,Friday,Evening,01:00,65,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-263,H3BFM2E2,23,Thursday,Afternoon,01:00,65,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-264,H3BMDYE1,14,Monday,Afternoon,02:00,106,['Kelvin Hall']
-265,H3BMS2E1,1,Wednesday,Morning,02:00,124,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-266,H3CDMSE1,14,Monday,Afternoon,03:00,49,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-267,H3CENIE1,20,Wednesday,Afternoon,02:00,42,['Kelvin Hall']
-268,H3CFM3E1,1,Wednesday,Morning,03:00,4,['59 Oakfield Ave Rm 302 (no lift)']
-269,H3CFRCE1,17,Tuesday,Afternoon,02:00,42,['Kelvin Hall']
-270,H3CMECE1,11,Saturday,Afternoon,02:00,23,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-271,H3CNUEE1,26,Friday,Afternoon,02:00,33,['Kelvin Hall']
-272,H3CPOEE1,23,Thursday,Afternoon,02:00,38,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-273,H3CTSEE1,2,Wednesday,Afternoon,03:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-274,H51100E1,11,Saturday,Afternoon,02:00,114,['Kelvin Hall']
-275,H51140E1,27,Friday,Evening,01:00,101,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-276,H51200E1,7,Friday,Morning,02:00,71,['Kelvin Hall']
-277,H52110E1,19,Wednesday,Morning,02:00,90,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-278,H53171E1,4,Thursday,Morning,02:00,105,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-279,H5C112E1,14,Monday,Afternoon,02:00,26,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-280,H5C113E1,20,Wednesday,Afternoon,02:00,57,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-281,H5C142E1,25,Friday,Morning,02:00,31,['Kelvin Hall']
-282,H61120E1,20,Wednesday,Afternoon,02:00,115,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-283,H62131E1,16,Tuesday,Morning,02:00,97,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-284,H62160E1,22,Thursday,Morning,02:00,99,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-285,H63122E1,11,Saturday,Afternoon,02:00,97,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-286,H6C133E1,14,Monday,Afternoon,02:00,34,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-287,H6C152E1,17,Tuesday,Afternoon,01:00,44,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-288,H6C162E1,1,Wednesday,Morning,02:00,60,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-289,H6P001E1,4,Thursday,Morning,02:00,4,['Kelvin Hall']
-290,H6P002E1,8,Friday,Afternoon,02:00,25,['Kelvin Hall']
-291,H71EMPE1,20,Wednesday,Afternoon,02:00,61,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-292,H71IWEE1,7,Friday,Morning,02:00,97,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-293,H71MIPE1,4,Thursday,Morning,02:00,87,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-294,H71MS1E1,14,Monday,Afternoon,02:00,28,['Kelvin Hall']
-295,H72ENTE1,8,Friday,Afternoon,03:00,17,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-296,H72IRNE1,17,Tuesday,Afternoon,02:00,68,['Kelvin Hall']
-297,H72LOGE1,14,Monday,Afternoon,02:00,23,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-298,H72NNSE1,13,Monday,Morning,02:00,65,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-299,H7ACS1E1,27,Friday,Evening,01:30,92,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-300,H7BEGDE1,25,Friday,Morning,02:00,65,['Kelvin Hall']
-301,H7BMACE1,2,Wednesday,Afternoon,02:00,24,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-302,H7BMOQE1,10,Saturday,Morning,02:00,120,['Kelvin Hall']
-303,H7CAMFE1,5,Thursday,Afternoon,02:00,30,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-304,H7CCNGE1,14,Monday,Afternoon,02:00,25,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-305,H7CEPDE1,27,Friday,Evening,02:00,21,['Kelvin Hall']
-306,H7CFAME1,20,Wednesday,Afternoon,02:00,43,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-307,H7CFOOE1,11,Saturday,Afternoon,02:00,41,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-308,H7CHCME1,7,Friday,Morning,02:00,25,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-309,H7CLASE1,17,Tuesday,Afternoon,02:00,9,['Kelvin Hall']
-310,H7CMSGE1,1,Wednesday,Morning,02:00,66,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-311,H7CORGE1,17,Tuesday,Afternoon,02:00,22,['Kelvin Hall']
-312,H7CSERE1,20,Wednesday,Afternoon,02:00,20,['Kelvin Hall']
-313,H7CSIME1,8,Friday,Afternoon,02:00,12,['Kelvin Hall']
-314,H7CSURE1,25,Friday,Morning,02:00,17,['Kelvin Hall']
-315,H81022E1,20,Wednesday,Afternoon,02:00,64,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-316,H81050E1,27,Friday,Evening,01:00,62,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-317,H82006E1,20,Wednesday,Afternoon,02:00,61,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-318,H82024E1,4,Thursday,Morning,02:00,60,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-319,H82029E1,13,Monday,Morning,02:00,63,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-320,H82046E1,7,Friday,Morning,02:00,63,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-321,H83024E1,5,Thursday,Afternoon,02:00,67,['Kelvin Hall']
-322,H8A009E1,14,Monday,Afternoon,02:00,42,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-323,H8A011E1,13,Monday,Morning,02:00,63,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-324,H8B040E1,14,Monday,Afternoon,02:00,68,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-325,H8B045E1,10,Saturday,Morning,02:00,63,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-326,H8C001E1,19,Wednesday,Morning,02:00,32,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-327,H8C002E1,5,Thursday,Afternoon,02:00,33,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-328,H8C019E1,2,Wednesday,Afternoon,02:00,58,['Kelvin Hall']
-329,H8C039E1,22,Thursday,Morning,02:00,69,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-330,H8C043E1,8,Friday,Afternoon,02:00,34,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-331,HG1EM0E1,1,Wednesday,Morning,02:00,58,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-332,HG1J1AE1,14,Monday,Afternoon,02:00,23,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-333,HG1J1BE1,4,Thursday,Morning,02:00,24,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-334,HG1S1CE1,23,Thursday,Afternoon,02:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-335,HG2J3AE1,10,Saturday,Morning,02:00,29,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-336,HG2J3BE1,7,Friday,Morning,02:00,29,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-337,HG2J3DE1,25,Friday,Morning,02:00,27,['Kelvin Hall']
-338,HG2J4AE1,2,Wednesday,Afternoon,02:00,28,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-339,HG2S3EE1,17,Tuesday,Afternoon,02:00,23,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-340,HG3J5AE1,7,Friday,Morning,02:30,15,['Kelvin Hall']
-341,HG3J5BE1,23,Thursday,Afternoon,02:00,14,['Kelvin Hall']
-342,HG3J5GE1,5,Thursday,Afternoon,02:00,8,['Kelvin Hall']
-343,HG3S5EE1,17,Tuesday,Afternoon,02:30,19,['Kelvin Hall']
-344,HG3S5FE1,13,Monday,Morning,02:30,11,['Kelvin Hall']
-345,HGAEM2E1,9,Friday,Evening,02:00,542,"['Kelvin Hall', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-346,HGBEM3E1,8,Friday,Afternoon,02:00,340,['Kelvin Hall']
-347,HGBEM4E1,5,Thursday,Afternoon,02:00,17,['Kelvin Hall']
-348,HGCEMAE1,25,Friday,Morning,02:00,2,['59 Oakfield Ave Rm 302 (no lift)']
-349,HGCEMBE1,2,Wednesday,Afternoon,02:00,38,['Kelvin Hall']
-350,HGCEMCE1,26,Friday,Afternoon,02:00,6,['Kelvin Hall']
-351,HGCEMME1,16,Tuesday,Morning,02:00,90,['Kelvin Hall']
-352,J1A102E1,14,Monday,Afternoon,02:00,45,['Kelvin Hall']
-353,J1A110E1,20,Wednesday,Afternoon,02:00,43,['Kelvin Hall']
-354,J1A111E1,4,Thursday,Morning,02:00,44,['Kelvin Hall']
-355,J1A112E1,5,Thursday,Afternoon,02:00,11,['Kelvin Hall']
-356,J1A202E1,25,Friday,Morning,02:00,44,['Kelvin Hall']
-357,J1A203E1,27,Friday,Evening,01:30,48,['Kelvin Hall']
-358,J1B109E1,20,Wednesday,Afternoon,02:00,47,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-359,J1B111E1,23,Thursday,Afternoon,02:00,56,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-360,J1B113E1,17,Tuesday,Afternoon,02:00,47,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-361,J1B115E1,14,Monday,Afternoon,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-362,J1B116E1,5,Thursday,Afternoon,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-363,J1B117E1,26,Friday,Afternoon,02:00,59,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-364,J1B203E1,20,Wednesday,Afternoon,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-365,J1C106E1,14,Monday,Afternoon,02:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-366,J1C111E1,11,Saturday,Afternoon,02:00,35,['Kelvin Hall']
-367,J1C112E1,5,Thursday,Afternoon,02:00,37,['Kelvin Hall']
-368,J1C116E1,1,Wednesday,Morning,02:00,10,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-369,J1C119E1,17,Tuesday,Afternoon,02:00,40,['Kelvin Hall']
-370,J1C122E1,17,Tuesday,Afternoon,02:00,10,['Kelvin Hall']
-371,J1C125E1,4,Thursday,Morning,03:00,11,['Kelvin Hall']
-372,J1C205E1,11,Saturday,Afternoon,02:00,11,['Kelvin Hall']
-373,J1C227E1,20,Wednesday,Afternoon,02:00,17,['Kelvin Hall']
-374,J51IMAE1,5,Thursday,Afternoon,02:00,47,['Kelvin Hall']
-375,J51R01E1,26,Friday,Afternoon,02:00,104,['Kelvin Hall']
-376,J52EMME1,16,Tuesday,Morning,02:00,36,['Kelvin Hall']
-377,J5BORME1,25,Friday,Morning,02:00,12,['Kelvin Hall']
-378,J5BSMAE1,19,Wednesday,Morning,02:00,14,['Kelvin Hall']
-379,J5BSTME1,4,Thursday,Morning,02:00,42,['Kelvin Hall']
-380,J5CCCEE1,8,Friday,Afternoon,02:00,29,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-381,J5CCRME1,7,Friday,Morning,02:00,25,['Kelvin Hall']
-382,J5CMUSE1,10,Saturday,Morning,02:00,46,['Kelvin Hall']
-383,K1AEU1E1,23,Thursday,Afternoon,02:00,53,['Kelvin Hall']
-384,K1AHRSE1,19,Wednesday,Morning,02:00,53,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-385,K1AHWAE2,27,Friday,Evening,00:50,58,['Kelvin Hall']
-386,K1APADE1,11,Saturday,Afternoon,02:00,59,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-387,K1ATS1E1,4,Thursday,Morning,02:00,54,['Kelvin Hall']
-388,K1BACOE1,20,Wednesday,Afternoon,02:00,52,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-389,K1BBS1E1,20,Wednesday,Afternoon,02:00,48,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-390,K1BCSTE1,23,Thursday,Afternoon,02:00,48,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-391,K1BTMSE1,7,Friday,Morning,02:00,51,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-392,K41110E1,27,Friday,Evening,01:30,31,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-393,K41210E1,8,Friday,Afternoon,01:30,30,['Kelvin Hall']
-394,K42120E1,27,Friday,Evening,01:30,31,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-395,K43100E1,14,Monday,Afternoon,01:30,28,['Kelvin Hall']
-396,K4C110E1,27,Friday,Evening,01:30,42,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-397,K4C120E1,10,Saturday,Morning,01:30,42,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-398,K4C140E1,7,Friday,Morning,01:30,43,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-399,K4C280E1,14,Monday,Afternoon,02:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-400,K4C290E1,14,Monday,Afternoon,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-401,K4P100E1,14,Monday,Afternoon,01:30,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-402,K4P300E1,17,Tuesday,Afternoon,02:00,21,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-403,L11100E1,1,Wednesday,Morning,03:00,160,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-404,L11101E1,11,Saturday,Afternoon,01:30,126,['Kelvin Hall']
-405,L11102E1,13,Monday,Morning,01:30,63,['Kelvin Hall']
-406,L11110E1,17,Tuesday,Afternoon,02:00,25,['Kelvin Hall']
-407,L11111E1,19,Wednesday,Morning,02:00,32,['Kelvin Hall']
-408,L11120E1,14,Monday,Afternoon,01:30,89,['Kelvin Hall']
-409,L11130E1,27,Friday,Evening,01:30,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-410,L11140E1,11,Saturday,Afternoon,01:30,32,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-411,L11150E1,7,Friday,Morning,01:30,56,['Kelvin Hall']
-412,L12302E1,1,Wednesday,Morning,02:00,107,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-413,L12303E1,23,Thursday,Afternoon,01:00,137,['Kelvin Hall']
-414,L12310E1,20,Wednesday,Afternoon,02:00,21,['Kelvin Hall']
-415,L12320E1,8,Friday,Afternoon,03:00,31,['Kelvin Hall']
-416,L12330E1,14,Monday,Afternoon,02:00,35,['Kelvin Hall']
-417,L12404E1,11,Saturday,Afternoon,01:00,105,['Kelvin Hall']
-418,L13502E1,27,Friday,Evening,01:30,58,['Kelvin Hall']
-419,L13503E1,14,Monday,Afternoon,02:00,42,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-420,L13504E1,17,Tuesday,Afternoon,01:30,46,['Kelvin Hall']
-421,L13505E1,22,Thursday,Morning,02:00,68,['Kelvin Hall']
-422,L13507E1,19,Wednesday,Morning,01:30,64,['Kelvin Hall']
-423,L13508E1,1,Wednesday,Morning,01:30,52,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-424,L13509E1,4,Thursday,Morning,01:30,33,['Kelvin Hall']
-425,L13510E1,11,Saturday,Afternoon,02:00,11,['Kelvin Hall']
-426,L13511E1,8,Friday,Afternoon,02:00,8,['Kelvin Hall']
-427,L13516E1,7,Friday,Morning,01:30,20,['Kelvin Hall']
-428,L13520E1,14,Monday,Afternoon,02:00,15,['Kelvin Hall']
-429,L13521E1,10,Saturday,Morning,02:00,20,['Kelvin Hall']
-430,L31004E1,8,Friday,Afternoon,02:00,88,['Kelvin Hall']
-431,L31005E1,7,Friday,Morning,02:00,68,['Kelvin Hall']
-432,L31013E1,11,Saturday,Afternoon,02:00,59,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-433,L31073E1,14,Monday,Afternoon,02:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-434,L31097E1,23,Thursday,Afternoon,02:00,62,['Kelvin Hall']
-435,L31107E1,16,Tuesday,Morning,02:00,48,['Kelvin Hall']
-436,L31109E1,19,Wednesday,Morning,02:00,52,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-437,L3B015E1,14,Monday,Afternoon,02:00,34,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-438,L3B021E1,17,Tuesday,Afternoon,02:00,30,['Kelvin Hall']
-439,L3B026E1,2,Wednesday,Afternoon,02:00,26,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-440,L3B030E1,27,Friday,Evening,01:30,27,['Kelvin Hall']
-441,L3B032E1,10,Saturday,Morning,02:00,48,['Kelvin Hall']
-442,L3B036E1,14,Monday,Afternoon,02:00,25,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-443,L3B046E1,8,Friday,Afternoon,01:30,21,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-444,L3B049E1,20,Wednesday,Afternoon,01:30,35,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-445,L3B090E1,4,Thursday,Morning,02:00,32,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-446,L3B100E1,27,Friday,Evening,01:30,21,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-447,L3C064E1,14,Monday,Afternoon,02:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-448,L3C086E1,25,Friday,Morning,02:00,50,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-449,L81112E1,18,Tuesday,Evening,02:00,89,['Kelvin Hall']
-450,L81122E1,6,Thursday,Evening,02:00,104,['Kelvin Hall']
-451,L82111E1,11,Saturday,Afternoon,02:00,70,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-452,L82113E1,5,Thursday,Afternoon,01:30,75,['Kelvin Hall']
-453,L82120E1,17,Tuesday,Afternoon,01:30,46,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-454,L82121E1,24,Thursday,Evening,01:30,26,['Kelvin Hall']
-455,L82124E1,27,Friday,Evening,01:30,1,['59 Oakfield Ave Rm 302 (no lift)']
-456,L82125E1,20,Wednesday,Afternoon,02:00,83,['Kelvin Hall']
-457,L82132E1,22,Thursday,Morning,01:30,36,['Kelvin Hall']
-458,L83112E1,14,Monday,Afternoon,02:00,42,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-459,L83115E1,5,Thursday,Afternoon,02:00,52,['Kelvin Hall']
-460,L83118E1,10,Saturday,Morning,02:00,24,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-461,L83120E1,19,Wednesday,Morning,02:00,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-462,L83121E1,22,Thursday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-463,L83122E1,23,Thursday,Afternoon,02:00,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-464,L83123E1,14,Monday,Afternoon,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-465,L83160E1,1,Wednesday,Morning,03:00,82,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237']"
-466,LK10FAE1,22,Thursday,Morning,01:00,44,['Kelvin Hall']
-467,LK10GAE1,3,Wednesday,Evening,01:00,50,['Kelvin Hall']
-468,LK10IAE1,10,Saturday,Morning,01:00,53,['Kelvin Hall']
-469,LK10JAE1,3,Wednesday,Evening,01:00,58,['Kelvin Hall']
-470,LK10KBE1,27,Friday,Evening,01:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-471,LK10RAE1,16,Tuesday,Morning,01:00,16,['Kelvin Hall']
-472,LK10SAE1,3,Wednesday,Evening,01:00,74,['Kelvin Hall']
-473,LK44FAE1,25,Friday,Morning,03:00,32,['Kelvin Hall']
-474,LK44GAE1,11,Saturday,Afternoon,03:00,11,['Kelvin Hall']
-475,LK44SAE1,8,Friday,Afternoon,03:00,9,['Kelvin Hall']
-476,LKA1FAE1,15,Monday,Evening,02:00,141,['Kelvin Hall']
-477,LKA1GAE1,3,Wednesday,Evening,02:00,48,['Kelvin Hall']
-478,LKA1IAE1,11,Saturday,Afternoon,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-479,LKA1JAE1,5,Thursday,Afternoon,02:00,6,['Kelvin Hall']
-480,LKA1RAE1,2,Wednesday,Afternoon,02:00,9,['Kelvin Hall']
-481,LKA1SAE1,2,Wednesday,Afternoon,02:00,21,['Kelvin Hall']
-482,LKB2FAE1,6,Thursday,Evening,01:00,50,['Kelvin Hall']
-483,LKB2GAE1,24,Thursday,Evening,01:00,24,['Kelvin Hall']
-484,LKB2JAE1,17,Tuesday,Afternoon,01:00,5,['Kelvin Hall']
-485,LKB2SAE1,3,Wednesday,Evening,01:00,9,['Kelvin Hall']
-486,LKC3FAE1,24,Thursday,Evening,03:00,51,['Kelvin Hall']
-487,LKC3GAE1,2,Wednesday,Afternoon,03:00,22,['Kelvin Hall']
-488,LKC3RAE1,14,Monday,Afternoon,03:00,1,['Kelvin Hall']
-489,LKC3SAE1,1,Wednesday,Morning,03:00,3,['59 Oakfield Ave Rm 302 (no lift)']
-490,M11341E1,14,Monday,Afternoon,01:30,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-491,M11343E1,4,Thursday,Morning,01:30,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-492,M11345E1,6,Thursday,Evening,01:30,72,['Kelvin Hall']
-493,M11347E1,20,Wednesday,Afternoon,01:30,80,['Kelvin Hall']
-494,M11351E1,4,Thursday,Morning,02:00,38,['Kelvin Hall']
-495,M11451E1,17,Tuesday,Afternoon,02:00,40,['Kelvin Hall']
-496,M12353E1,11,Saturday,Afternoon,02:00,64,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-497,M12365E1,1,Wednesday,Morning,02:00,41,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-498,M13367E1,14,Monday,Afternoon,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-499,M13369E1,17,Tuesday,Afternoon,02:00,41,['Kelvin Hall']
-500,M13468E1,14,Monday,Afternoon,02:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-501,M1B351E1,27,Friday,Evening,01:30,11,['Kelvin Hall']
-502,M1B355E1,20,Wednesday,Afternoon,02:00,29,['Kelvin Hall']
-503,M1B357E1,13,Monday,Morning,01:30,22,['Kelvin Hall']
-504,M1B359E1,2,Wednesday,Afternoon,02:00,22,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-505,M1B363E1,22,Thursday,Morning,02:00,37,['Kelvin Hall']
-506,M1B372E1,4,Thursday,Morning,02:00,33,['Kelvin Hall']
-507,M1B373E1,5,Thursday,Afternoon,02:00,34,['Kelvin Hall']
-508,M1B374E1,25,Friday,Morning,02:00,15,['Kelvin Hall']
-509,M1B380E1,18,Tuesday,Evening,01:30,17,['Kelvin Hall']
-510,M1B382E1,8,Friday,Afternoon,02:00,13,['Kelvin Hall']
-511,M31001E1,11,Saturday,Afternoon,02:00,171,['Kelvin Hall']
-512,M31006E1,25,Friday,Morning,02:00,82,['Kelvin Hall']
-513,M31012E1,17,Tuesday,Afternoon,02:00,168,['Kelvin Hall']
-514,M33036E1,1,Wednesday,Morning,02:00,10,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-515,M33042E1,17,Tuesday,Afternoon,02:00,97,['Kelvin Hall']
-516,M33053E1,11,Saturday,Afternoon,02:00,28,['Kelvin Hall']
-517,M33059E1,14,Monday,Afternoon,03:00,30,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-518,M33060E1,20,Wednesday,Afternoon,02:00,82,['Kelvin Hall']
-519,M33064E1,22,Thursday,Morning,02:00,29,['Kelvin Hall']
-520,M33074E1,8,Friday,Afternoon,02:00,48,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-521,M3A002E1,8,Friday,Afternoon,02:00,155,['Kelvin Hall']
-522,M3A010E1,27,Friday,Evening,01:30,187,['Kelvin Hall']
-523,M3A015E1,16,Tuesday,Morning,01:30,176,['Kelvin Hall']
-524,M3A019E1,4,Thursday,Morning,01:30,42,['Kelvin Hall']
-525,M3B030E1,25,Friday,Morning,02:00,184,['Kelvin Hall']
-526,M3B031E1,19,Wednesday,Morning,02:00,58,['Kelvin Hall']
-527,M3B034E1,8,Friday,Afternoon,02:00,21,['Kelvin Hall']
-528,M3B043E1,5,Thursday,Afternoon,02:00,51,['Kelvin Hall']
-529,M3B049E1,14,Monday,Afternoon,02:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-530,M3B055E1,13,Monday,Morning,02:00,63,['Kelvin Hall']
-531,M3B057E1,2,Wednesday,Afternoon,02:00,28,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-532,M3B062E1,11,Saturday,Afternoon,02:00,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-533,M3B066E1,23,Thursday,Afternoon,02:00,76,['Kelvin Hall']
-534,N11102E1,19,Wednesday,Morning,02:00,155,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915', 'Joseph Black C407 (no lift)']"
-535,N11103E1,24,Thursday,Evening,02:00,90,['Kelvin Hall']
-536,N12203E1,27,Friday,Evening,01:30,102,['Kelvin Hall']
-537,N12403E1,13,Monday,Morning,02:00,81,['Kelvin Hall']
-538,N13301E1,25,Friday,Morning,02:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-539,N13302E1,1,Wednesday,Morning,02:00,17,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-540,N13303E1,21,Wednesday,Evening,01:30,67,['Kelvin Hall']
-541,N13304E1,2,Wednesday,Afternoon,01:30,125,['Kelvin Hall']
-542,N13305E1,16,Tuesday,Morning,02:10,28,['Kelvin Hall']
-543,N1A104E1,25,Friday,Morning,01:30,62,['Kelvin Hall']
-544,N1A110E1,9,Friday,Evening,01:30,83,['Kelvin Hall']
-545,N1A402E1,27,Friday,Evening,02:00,83,['Kelvin Hall']
-546,N1B201E1,21,Wednesday,Evening,01:30,120,['Kelvin Hall']
-547,N1B202E1,14,Monday,Afternoon,01:30,123,['Kelvin Hall']
-548,N1B404E1,19,Wednesday,Morning,02:00,30,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-549,N1B405E1,19,Wednesday,Morning,02:00,45,['Kelvin Hall']
-550,N1B406E1,16,Tuesday,Morning,01:30,48,['Kelvin Hall']
-551,N1B407E1,10,Saturday,Morning,02:00,38,['Kelvin Hall']
-552,N1B408E1,26,Friday,Afternoon,02:00,14,['Kelvin Hall']
-553,N1B409E1,4,Thursday,Morning,02:00,31,['Kelvin Hall']
-554,N1B410E1,6,Thursday,Evening,01:30,114,['Kelvin Hall']
-555,N1B420E1,10,Saturday,Morning,01:30,19,['Kelvin Hall']
-556,N1B422E1,7,Friday,Morning,02:00,25,['Kelvin Hall']
-557,Q13013E1,27,Friday,Evening,01:30,1,['59 Oakfield Ave Rm 302 (no lift)']
-558,Q13017E1,14,Monday,Afternoon,01:30,2,['59 Oakfield Ave Rm 302 (no lift)']
-559,Q31301E1,22,Thursday,Morning,02:00,78,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-560,Q32302E1,6,Thursday,Evening,01:30,45,['Kelvin Hall']
-561,Q33211E1,22,Thursday,Morning,01:30,56,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-562,Q33307E1,5,Thursday,Afternoon,02:00,51,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-563,Q33308E1,1,Wednesday,Morning,03:00,48,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-564,Q3A201E1,1,Wednesday,Morning,02:00,64,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)']"
-565,Q3A301E1,14,Monday,Afternoon,02:00,2,['59 Oakfield Ave Rm 302 (no lift)']
-566,Q3A303E1,14,Monday,Afternoon,01:30,10,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-567,Q3A307E1,26,Friday,Afternoon,02:00,26,['Kelvin Hall']
-568,Q3A308E1,19,Wednesday,Morning,03:00,26,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-569,Q3B201E1,10,Saturday,Morning,01:30,17,['Kelvin Hall']
-570,Q3B211E1,14,Monday,Afternoon,01:30,6,['59 Oakfield Ave Rm 302 (no lift)']
-571,Q4A101E1,23,Thursday,Afternoon,03:00,49,['Kelvin Hall']
-572,Q4A106E1,26,Friday,Afternoon,03:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-573,Q4A210E1,25,Friday,Morning,03:00,39,['Kelvin Hall']
-574,Q4A219E1,7,Friday,Morning,03:00,7,['59 Oakfield Ave Rm 302 (no lift)']
-575,Q4B102E1,17,Tuesday,Afternoon,03:00,22,['Kelvin Hall']
-576,Q4B104E1,11,Saturday,Afternoon,02:00,14,['Kelvin Hall']
-577,Q81001E1,13,Monday,Morning,02:00,100,['Kelvin Hall']
-578,Q81003E1,7,Friday,Morning,02:00,47,['Kelvin Hall']
-579,Q81009E1,16,Tuesday,Morning,01:00,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-580,Q81011E1,27,Friday,Evening,01:00,2,['59 Oakfield Ave Rm 302 (no lift)']
-581,Q81016E1,20,Wednesday,Afternoon,01:00,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-582,Q82024E1,27,Friday,Evening,01:30,5,['59 Oakfield Ave Rm 302 (no lift)']
-583,Q82028E1,27,Friday,Evening,01:30,6,['59 Oakfield Ave Rm 302 (no lift)']
-584,Q82031E1,27,Friday,Evening,01:00,3,['59 Oakfield Ave Rm 302 (no lift)']
-585,Q83108E1,27,Friday,Evening,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-586,Q83110E1,27,Friday,Evening,01:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-587,Q83142E1,14,Monday,Afternoon,02:00,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-588,Q83144E1,14,Monday,Afternoon,01:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-589,Q83168E1,14,Monday,Afternoon,01:00,5,['59 Oakfield Ave Rm 302 (no lift)']
-590,Q83170E1,1,Wednesday,Morning,01:00,2,['59 Oakfield Ave Rm 302 (no lift)']
-591,Q83172E1,18,Tuesday,Evening,01:00,3,['59 Oakfield Ave Rm 302 (no lift)']
-592,Q83184E1,4,Thursday,Morning,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-593,Q83186E1,27,Friday,Evening,01:00,2,['59 Oakfield Ave Rm 302 (no lift)']
-594,Q83198E1,14,Monday,Afternoon,02:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-595,Q8A310E1,24,Thursday,Evening,02:00,52,['Kelvin Hall']
-596,Q8B043E1,11,Saturday,Afternoon,02:00,26,['Kelvin Hall']
-597,Q8B044E1,14,Monday,Afternoon,01:00,3,['59 Oakfield Ave Rm 302 (no lift)']
-598,Q8B045E1,14,Monday,Afternoon,02:00,14,['Kelvin Hall']
-599,Q8B056E1,8,Friday,Afternoon,01:00,87,['Kelvin Hall']
-600,Q8B063E1,1,Wednesday,Morning,02:00,40,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-601,Q8B074E1,11,Saturday,Afternoon,01:00,8,['Kelvin Hall']
-602,Q8B075E1,1,Wednesday,Morning,02:00,5,['59 Oakfield Ave Rm 302 (no lift)']
-603,Q8B076E1,7,Friday,Morning,02:00,5,['59 Oakfield Ave Rm 302 (no lift)']
-604,Q8B094E1,22,Thursday,Morning,02:00,42,['Kelvin Hall']
-605,Q8B096E1,14,Monday,Afternoon,02:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-606,Q8B341E1,4,Thursday,Morning,02:00,7,['Kelvin Hall']
-607,Q8P010E1,14,Monday,Afternoon,02:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-608,R11001E1,15,Monday,Evening,01:00,191,['Kelvin Hall']
-609,R11002E1,22,Thursday,Morning,01:30,89,['Kelvin Hall']
-610,R11003E1,7,Friday,Morning,02:00,109,['Kelvin Hall']
-611,R11004E1,8,Friday,Afternoon,01:00,138,['Kelvin Hall']
-612,R12001E1,1,Wednesday,Morning,01:30,129,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234', 'Gilbert Scott Conf Suite Rm 355 (no lift)', 'St Andrews Rm 237', 'Adam Smith 915']"
-613,R12002E1,24,Thursday,Evening,01:30,54,['Kelvin Hall']
-614,R12005E1,7,Friday,Morning,02:00,26,['Kelvin Hall']
-615,R12008E1,19,Wednesday,Morning,02:00,35,['Kelvin Hall']
-616,R12024E1,27,Friday,Evening,01:30,5,['Kelvin Hall']
-617,R12025E1,14,Monday,Afternoon,02:00,16,['Kelvin Hall']
-618,R12026E1,22,Thursday,Morning,02:00,15,['Kelvin Hall']
-619,R13001E1,27,Friday,Evening,01:30,36,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-620,R13003E1,24,Thursday,Evening,01:30,28,['Kelvin Hall']
-621,R13005E1,13,Monday,Morning,01:30,27,['Kelvin Hall']
-622,R13006E1,17,Tuesday,Afternoon,02:00,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-623,R13007E1,5,Thursday,Afternoon,02:00,20,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-624,R13009E1,27,Friday,Evening,01:30,6,['59 Oakfield Ave Rm 302 (no lift)']
-625,R13011E1,2,Wednesday,Afternoon,02:00,21,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-626,R13012E1,17,Tuesday,Afternoon,01:30,26,['Kelvin Hall']
-627,R13014E1,8,Friday,Afternoon,01:30,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-628,R13015E1,22,Thursday,Morning,02:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-629,R13016E1,20,Wednesday,Afternoon,02:00,19,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-630,R13017E1,14,Monday,Afternoon,02:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-631,R13021E1,7,Friday,Morning,01:30,26,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-632,R13022E1,10,Saturday,Morning,01:30,19,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-633,R13023E1,22,Thursday,Morning,01:30,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-634,R13044E1,19,Wednesday,Morning,02:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-635,R13101E1,14,Monday,Afternoon,02:00,2,['59 Oakfield Ave Rm 302 (no lift)']
-636,R21101E1,9,Friday,Evening,01:30,96,['Kelvin Hall']
-637,R21104E1,19,Wednesday,Morning,01:00,41,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-638,R21206E1,1,Wednesday,Morning,01:30,43,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-639,R22101E1,5,Thursday,Afternoon,01:30,66,['Kelvin Hall']
-640,R22102E1,10,Saturday,Morning,01:00,24,['Kelvin Hall']
-641,R22110E1,4,Thursday,Morning,01:30,28,['Kelvin Hall']
-642,R22112E1,7,Friday,Morning,01:30,14,['Kelvin Hall']
-643,R22203E1,2,Wednesday,Afternoon,01:30,20,['Kelvin Hall']
-644,R22204E1,24,Thursday,Evening,01:30,8,['Kelvin Hall']
-645,R22212E1,18,Tuesday,Evening,01:30,25,['Kelvin Hall']
-646,R23009E1,14,Monday,Afternoon,01:30,10,['Kelvin Hall']
-647,R23102E1,17,Tuesday,Afternoon,02:00,18,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-648,R23104E1,11,Saturday,Afternoon,02:00,32,['Kelvin Hall']
-649,R23105E1,27,Friday,Evening,01:30,7,['59 Oakfield Ave Rm 302 (no lift)']
-650,R23106E1,1,Wednesday,Morning,01:30,7,['59 Oakfield Ave Rm 302 (no lift)']
-651,R23107E1,6,Thursday,Evening,01:30,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-652,R23111E1,24,Thursday,Evening,01:30,22,['Kelvin Hall']
-653,R23117E1,20,Wednesday,Afternoon,01:30,24,['Kelvin Hall']
-654,R23209E1,8,Friday,Afternoon,01:30,17,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-655,R23216E1,27,Friday,Evening,01:30,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-656,R42103E1,16,Tuesday,Morning,01:30,36,['Kelvin Hall']
-657,R42217E1,18,Tuesday,Evening,01:30,20,['Kelvin Hall']
-658,R43146E1,22,Thursday,Morning,02:00,4,['59 Oakfield Ave Rm 302 (no lift)']
-659,R43148E1,14,Monday,Afternoon,02:00,1,['Kelvin Hall']
-660,R43149E1,25,Friday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-661,R43152E1,1,Wednesday,Morning,02:00,4,['59 Oakfield Ave Rm 302 (no lift)']
-662,R43153E1,1,Wednesday,Morning,02:00,2,['59 Oakfield Ave Rm 302 (no lift)']
-663,R43204E1,5,Thursday,Afternoon,01:45,15,['Kelvin Hall']
-664,R4A101E1,13,Monday,Morning,01:30,68,['Kelvin Hall']
-665,R4A117E1,27,Friday,Evening,01:30,34,['Kelvin Hall']
-666,R4A119E1,1,Wednesday,Morning,01:30,8,['59 Oakfield Ave Rm 302 (no lift)']
-667,R4A210E1,22,Thursday,Morning,01:30,18,['Kelvin Hall']
-668,R4A215E1,10,Saturday,Morning,01:30,19,['Kelvin Hall']
-669,R4B107E1,9,Friday,Evening,01:30,11,['Kelvin Hall']
-670,R4B209E1,1,Wednesday,Morning,02:00,1,['59 Oakfield Ave Rm 302 (no lift)']
-671,R81003E1,4,Thursday,Morning,01:30,28,['Kelvin Hall']
-672,R81015E1,1,Wednesday,Morning,02:00,19,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-673,R81022E1,11,Saturday,Afternoon,01:00,33,['Kelvin Hall']
-674,R82022E1,21,Wednesday,Evening,01:00,18,['Kelvin Hall']
-675,R82025E1,17,Tuesday,Afternoon,01:30,25,['Kelvin Hall']
-676,R82027E1,27,Friday,Evening,01:30,7,['Kelvin Hall']
-677,R82028E1,19,Wednesday,Morning,01:30,10,['Kelvin Hall']
-678,R83036E1,14,Monday,Afternoon,03:00,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-679,R83038E1,1,Wednesday,Morning,02:00,32,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-680,R83043E1,4,Thursday,Morning,02:00,25,['Kelvin Hall']
-681,R83044E1,17,Tuesday,Afternoon,02:00,9,['Kelvin Hall']
-682,R83046E1,23,Thursday,Afternoon,01:30,18,['Kelvin Hall']
-683,R83051E1,6,Thursday,Evening,01:00,11,['Kelvin Hall']
-684,R83052E1,11,Saturday,Afternoon,01:00,23,['Kelvin Hall']
-685,R83054E1,27,Friday,Evening,01:00,2,['Kelvin Hall']
-686,R83056E1,27,Friday,Evening,01:00,1,['Kelvin Hall']
-687,R8A011E1,18,Tuesday,Evening,01:00,8,['Kelvin Hall']
-688,R8A013E1,14,Monday,Afternoon,01:00,4,['59 Oakfield Ave Rm 302 (no lift)']
-689,R8B032E1,14,Monday,Afternoon,01:00,4,['59 Oakfield Ave Rm 302 (no lift)']
-690,V11103E1,17,Tuesday,Afternoon,01:30,55,['Kelvin Hall']
-691,V11105E1,10,Saturday,Morning,01:30,66,['Kelvin Hall']
-692,V11107E1,4,Thursday,Morning,01:30,64,['Kelvin Hall']
-693,V11109E1,2,Wednesday,Afternoon,01:30,73,['Kelvin Hall']
-694,V11111E1,27,Friday,Evening,01:30,114,['Kelvin Hall']
-695,V12115E1,20,Wednesday,Afternoon,01:30,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-696,V12116E1,27,Friday,Evening,01:00,11,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-697,V12119E1,6,Thursday,Evening,01:30,16,['Kelvin Hall']
-698,V12121E1,8,Friday,Afternoon,01:30,14,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-699,V12123E1,24,Thursday,Evening,01:30,32,['Kelvin Hall']
-700,V12127E1,25,Friday,Morning,01:00,17,['Kelvin Hall']
-701,V12129E1,1,Wednesday,Morning,01:30,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-702,V12131E1,27,Friday,Evening,01:30,21,['Kelvin Hall']
-703,V12135E1,10,Saturday,Morning,01:30,28,['Kelvin Hall']
-704,V12139E1,21,Wednesday,Evening,01:30,9,['Kelvin Hall']
-705,V12143E1,16,Tuesday,Morning,01:30,36,['Kelvin Hall']
-706,V12148E1,11,Saturday,Afternoon,01:30,24,['Kelvin Hall']
-707,V13101E1,27,Friday,Evening,01:30,6,['59 Oakfield Ave Rm 302 (no lift)']
-708,V13103E1,27,Friday,Evening,01:30,12,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-709,V13104E1,14,Monday,Afternoon,01:30,6,['59 Oakfield Ave Rm 302 (no lift)']
-710,V13105E1,1,Wednesday,Morning,01:30,8,['59 Oakfield Ave Rm 302 (no lift)']
-711,V13108E1,27,Friday,Evening,01:30,11,['Kelvin Hall']
-712,V13111E1,17,Tuesday,Afternoon,01:00,13,['Kelvin Hall']
-713,V13119E1,17,Tuesday,Afternoon,02:00,20,['Kelvin Hall']
-714,V13125E1,14,Monday,Afternoon,01:30,4,['59 Oakfield Ave Rm 302 (no lift)']
-715,V13152E1,27,Friday,Evening,01:30,4,['59 Oakfield Ave Rm 302 (no lift)']
-716,V13155E1,14,Monday,Afternoon,02:00,3,['59 Oakfield Ave Rm 302 (no lift)']
-717,V13159E1,14,Monday,Afternoon,02:00,10,['Kelvin Hall']
-718,V13163E1,14,Monday,Afternoon,02:00,3,['Kelvin Hall']
-719,V13169E1,1,Wednesday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)']
-720,V13173E1,14,Monday,Afternoon,02:00,4,['59 Oakfield Ave Rm 302 (no lift)']
-721,V13177E1,7,Friday,Morning,02:00,10,['Kelvin Hall']
-722,V13181E1,14,Monday,Afternoon,02:00,5,['59 Oakfield Ave Rm 302 (no lift)']
-723,V13185E1,11,Saturday,Afternoon,03:00,13,['Kelvin Hall']
-724,V13197E1,7,Friday,Morning,02:00,9,['Kelvin Hall']
-725,V13214E1,22,Thursday,Morning,02:00,16,['Kelvin Hall']
-726,V13296E1,21,Wednesday,Evening,01:30,14,['Kelvin Hall']
-727,V41103E1,21,Wednesday,Evening,01:00,10,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-728,V41112E1,7,Friday,Morning,01:00,19,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-729,V41124E1,3,Wednesday,Evening,01:00,13,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-730,V41133E1,17,Tuesday,Afternoon,01:30,19,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-731,V41142E1,27,Friday,Evening,01:00,65,['Kelvin Hall']
-732,V41143E1,27,Friday,Evening,01:00,9,['59 Oakfield Ave Rm 302 (no lift)']
-733,V42103E1,13,Monday,Morning,01:00,15,['Kelvin Hall']
-734,V42112E1,22,Thursday,Morning,02:00,28,['Kelvin Hall']
-735,V42117E1,1,Wednesday,Morning,02:00,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-736,V42124E1,14,Monday,Afternoon,02:00,28,['Kelvin Hall']
-737,V42133E1,26,Friday,Afternoon,01:00,34,['Kelvin Hall']
-738,V42143E1,24,Thursday,Evening,01:00,10,['Kelvin Hall']
-739,V43103E1,14,Monday,Afternoon,01:00,15,['Kelvin Hall']
-740,V43112E1,16,Tuesday,Morning,02:00,16,['Kelvin Hall']
-741,V43117E1,1,Wednesday,Morning,02:00,6,['59 Oakfield Ave Rm 302 (no lift)']
-742,V43124E1,4,Thursday,Morning,02:00,28,['Kelvin Hall']
-743,V43125E1,26,Friday,Afternoon,02:00,10,['Kelvin Hall']
-744,V43133E1,11,Saturday,Afternoon,01:00,22,['Kelvin Hall']
-745,V43143E1,22,Thursday,Morning,01:00,17,['Kelvin Hall']
-746,V43239E1,19,Wednesday,Morning,01:00,17,['Kelvin Hall']
-747,V61110E1,25,Friday,Morning,01:30,62,['Kelvin Hall']
-748,V61120E1,16,Tuesday,Morning,01:30,60,['Kelvin Hall']
-749,V62200E1,25,Friday,Morning,01:30,37,['Kelvin Hall']
-750,V6A100E1,26,Friday,Afternoon,01:30,96,['Kelvin Hall']
-751,V6B302E1,24,Thursday,Evening,01:30,43,['Kelvin Hall']
-752,V6B306E1,14,Monday,Afternoon,01:30,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-753,V6B307E1,19,Wednesday,Morning,01:30,15,['Kelvin Hall']
-754,V6B308E1,27,Friday,Evening,01:30,18,['Kelvin Hall']
-755,V6B310E1,27,Friday,Evening,01:30,1,['59 Oakfield Ave Rm 302 (no lift)']
-756,V6B313E1,1,Wednesday,Morning,01:30,5,['59 Oakfield Ave Rm 302 (no lift)']
-757,V6B329E1,18,Tuesday,Evening,01:30,17,['Kelvin Hall']
-758,V6B333E1,1,Wednesday,Morning,01:30,5,['59 Oakfield Ave Rm 302 (no lift)']
-759,V6B335E1,27,Friday,Evening,01:30,1,['59 Oakfield Ave Rm 302 (no lift)']
-760,V6B336E1,6,Thursday,Evening,01:30,24,['Kelvin Hall']
-761,V71101E1,27,Friday,Evening,01:30,1,['Kelvin Hall']
-762,V72119E1,16,Tuesday,Morning,01:30,19,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-763,V72121E1,19,Wednesday,Morning,01:30,42,['Kelvin Hall']
-764,V72AINE1,21,Wednesday,Evening,01:30,33,['Kelvin Hall']
-765,V73127E1,23,Thursday,Afternoon,03:00,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-766,V73128E1,20,Wednesday,Afternoon,01:30,16,['Kelvin Hall']
-767,V73232E1,7,Friday,Morning,03:00,29,['Kelvin Hall']
-768,V73233E1,14,Monday,Afternoon,03:00,7,['59 Oakfield Ave Rm 302 (no lift)']
-769,V73MD1E1,9,Friday,Evening,01:30,29,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-770,V7A101E1,2,Wednesday,Afternoon,01:30,52,['Kelvin Hall']
-771,V7A105E1,18,Tuesday,Evening,01:30,40,['Kelvin Hall']
-772,V7A107E1,14,Monday,Afternoon,01:30,67,['Kelvin Hall']
-773,V7A109E1,15,Monday,Evening,01:30,46,['Kelvin Hall']
-774,V7A117E1,6,Thursday,Evening,01:30,31,['Kelvin Hall']
-775,V7A204E1,27,Friday,Evening,01:30,65,['Kelvin Hall']
-776,V7A211E1,27,Friday,Evening,01:30,53,['Kelvin Hall']
-777,V7A214E1,1,Wednesday,Morning,01:30,25,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-778,V7A216E1,22,Thursday,Morning,01:30,31,['Kelvin Hall']
-779,V81101E1,8,Friday,Afternoon,01:30,32,['Kelvin Hall']
-780,V81103E1,27,Friday,Evening,01:30,4,['59 Oakfield Ave Rm 302 (no lift)']
-781,V81105E1,11,Saturday,Afternoon,01:30,21,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-782,V81107E1,10,Saturday,Morning,01:30,38,['Kelvin Hall']
-783,V81109E1,9,Friday,Evening,01:30,56,['Kelvin Hall']
-784,V81C17E1,1,Wednesday,Morning,02:00,3,['59 Oakfield Ave Rm 302 (no lift)']
-785,V82110E1,9,Friday,Evening,01:30,50,['Kelvin Hall']
-786,V82111E1,11,Saturday,Afternoon,01:30,21,['Kelvin Hall']
-787,V82113E1,16,Tuesday,Morning,01:30,43,['Kelvin Hall']
-788,V82115E1,23,Thursday,Afternoon,01:30,50,['Kelvin Hall']
-789,V82C01E1,4,Thursday,Morning,02:00,17,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-790,V83119E1,16,Tuesday,Morning,01:30,16,['Kelvin Hall']
-791,V83123E1,13,Monday,Morning,01:30,20,['Kelvin Hall']
-792,V83138E1,9,Friday,Evening,01:30,11,['Kelvin Hall']
-793,V83143E1,27,Friday,Evening,01:30,10,['Kelvin Hall']
-794,W31A12E1,7,Friday,Morning,01:30,24,['Kelvin Hall']
-795,W32C10E1,20,Wednesday,Afternoon,01:30,16,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-796,W32F10E1,23,Thursday,Afternoon,01:30,15,"['59 Oakfield Ave Rm 302 (no lift)', 'St Andrews Rm 234']"
-797,W32H10E1,1,Wednesday,Morning,01:30,6,['59 Oakfield Ave Rm 302 (no lift)']
-798,W32H14E1,8,Friday,Afternoon,01:30,12,['Kelvin Hall']
-799,W32H16E1,17,Tuesday,Afternoon,01:30,13,['Kelvin Hall']
+,0,1,2,3,4,5,6,7
+0,AA2016E1,27,Friday,Evening,01:30,20,['Kelvin Hall'],[500]
+1,AA3008E1,27,Friday,Evening,03:00,31,['Kelvin Hall'],[500]
+2,AAA011E1,27,Friday,Evening,01:30,14,['Kelvin Hall'],[500]
+3,AAA013E1,19,Wednesday,Morning,02:00,55,['James Watt Design Studio B'],[69]
+4,AAA022E1,27,Friday,Evening,01:30,28,['Kelvin Hall'],[500]
+5,AAA024E1,14,Monday,Afternoon,01:30,31,['Kelvin Blg Rm 323/324'],[50]
+6,AAA033E1,27,Friday,Evening,01:30,12,['Kelvin Hall'],[500]
+7,AAA034E1,17,Tuesday,Afternoon,01:30,26,['St Andrews Rm 234'],[40]
+8,AAB025E1,27,Friday,Evening,03:00,15,['Kelvin Hall'],[500]
+9,AAB058E1,27,Friday,Evening,01:00,7,['Kelvin Hall'],[500]
+10,B11101E1,27,Friday,Evening,03:00,27,['Kelvin Hall'],[500]
+11,B11102E1,24,Thursday,Evening,02:00,110,['Kelvin Hall'],[500]
+12,B12301E1,27,Friday,Evening,02:00,16,['Kelvin Hall'],[500]
+13,B12302E1,14,Monday,Afternoon,02:00,16,['Kelvin Blg Rm 323/324'],[50]
+14,B12303E1,5,Thursday,Afternoon,02:00,16,['Gilbert Scott Conf Suite Rm 356'],[40]
+15,B12320E1,1,Wednesday,Morning,02:00,6,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+16,B13103E1,27,Friday,Evening,02:00,8,['Kelvin Hall'],[500]
+17,B31101E1,27,Friday,Evening,02:00,107,['Kelvin Hall'],[500]
+18,B31103E1,24,Thursday,Evening,02:00,107,['Hunter East'],[195]
+19,B31105E1,20,Wednesday,Afternoon,01:00,107,['St Andrews Gym Hall'],[110]
+20,B31107E1,15,Monday,Evening,02:00,108,['St Andrews Gym Hall'],[110]
+21,B32321E1,27,Friday,Evening,01:00,119,['Kelvin Hall'],[500]
+22,B32322E1,24,Thursday,Evening,01:00,110,['Hunter East'],[195]
+23,B32325E1,20,Wednesday,Afternoon,02:00,110,['St Andrews Gym Hall'],[110]
+24,B32326E1,15,Monday,Evening,01:00,110,['St Andrews Gym Hall'],[110]
+25,B32327E1,7,Friday,Morning,02:00,110,['OTC'],[110]
+26,B33541E1,27,Friday,Evening,01:00,93,['Kelvin Hall'],[500]
+27,B33544E1,18,Tuesday,Evening,01:00,93,['St Andrews Gym Hall'],[110]
+28,B33545E1,10,Saturday,Morning,02:00,93,['OTC'],[110]
+29,B33548E1,5,Thursday,Afternoon,01:00,93,['Hunter West'],[195]
+30,B33549E1,21,Wednesday,Evening,02:00,93,['Kelvin Gallery'],[230]
+31,B33563E1,14,Monday,Afternoon,01:00,18,['Kelvin Blg Rm 323/324'],[50]
+32,C11101E1,7,Friday,Morning,02:00,145,['Kelvin Gallery'],[230]
+33,C11105E1,19,Wednesday,Morning,02:00,163,['Hunter East'],[195]
+34,C12321E1,20,Wednesday,Afternoon,02:00,68,['Kelvin Gallery'],[230]
+35,C12324E1,6,Thursday,Evening,02:00,63,['Fore'],[64]
+36,C12325E1,11,Saturday,Afternoon,01:30,62,['James Watt Design Studio B'],[69]
+37,C12327E1,27,Friday,Evening,02:00,58,['Kelvin Hall'],[500]
+38,C12328E1,14,Monday,Afternoon,01:30,32,['Kelvin Blg Rm 323/324'],[50]
+39,C12329E1,17,Tuesday,Afternoon,01:30,11,['St Andrews Rm 234'],[40]
+40,C12331E1,3,Wednesday,Evening,01:30,14,['Kelvin Blg Rm 323/324'],[50]
+41,C12332E1,23,Thursday,Afternoon,03:00,48,['James Watt Design Studio B'],[69]
+42,C12333E1,17,Tuesday,Afternoon,01:30,15,['St Andrews Rm 234'],[40]
+43,C12338E1,8,Friday,Afternoon,02:00,57,['Randolph'],[85]
+44,C13562E1,27,Friday,Evening,03:00,33,['Kelvin Hall'],[500]
+45,C13563E1,14,Monday,Afternoon,03:00,7,['Kelvin Blg Rm 323/324'],[50]
+46,C13564E1,18,Tuesday,Evening,03:00,39,['St Andrews Rm 234'],[40]
+47,C13565E1,27,Friday,Evening,03:00,19,['Kelvin Hall'],[500]
+48,C13567E1,27,Friday,Evening,03:00,17,['Kelvin Hall'],[500]
+49,C13569E1,14,Monday,Afternoon,03:00,19,['Kelvin Blg Rm 323/324'],[50]
+50,C13571E1,14,Monday,Afternoon,01:30,8,['Kelvin Blg Rm 323/324'],[50]
+51,C13572E1,1,Wednesday,Morning,01:30,7,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+52,C13573E1,14,Monday,Afternoon,03:00,20,['Kelvin Blg Rm 323/324'],[50]
+53,C1P001E1,27,Friday,Evening,02:00,6,['Kelvin Hall'],[500]
+54,C41101E1,14,Monday,Afternoon,02:00,102,['Hunter East'],[195]
+55,C42304E1,1,Wednesday,Morning,02:00,63,['Fore'],[64]
+56,C42306E1,25,Friday,Morning,02:00,62,['Hunter East'],[195]
+57,C42307E1,14,Monday,Afternoon,02:00,37,['Kelvin Blg Rm 323/324'],[50]
+58,C43511E1,7,Friday,Morning,03:00,38,['Gilbert Scott Conf Suite Rm 253'],[40]
+59,C43512E1,27,Friday,Evening,03:00,24,['Kelvin Hall'],[500]
+60,C52303E1,14,Monday,Afternoon,02:00,12,['Kelvin Blg Rm 323/324'],[50]
+61,C71101E1,2,Wednesday,Afternoon,02:00,205,['Bute'],[230]
+62,C72303E1,6,Thursday,Evening,03:00,50,['St Andrews Rm 227 '],[50]
+63,C73507E1,18,Tuesday,Evening,03:00,40,['St Andrews Rm 234'],[40]
+64,C81HAAE1,27,Friday,Evening,01:00,23,['Kelvin Hall'],[500]
+65,C81HBAE1,10,Saturday,Morning,01:00,121,['Hunter East'],[195]
+66,C81HCAE1,4,Thursday,Morning,01:00,126,['Bute'],[230]
+67,C81HDAE1,1,Wednesday,Morning,01:00,121,['Hunter West'],[195]
+68,C81IAAE1,22,Thursday,Morning,01:00,67,['Kelvin Gallery'],[230]
+69,C81IBAE1,10,Saturday,Morning,01:00,25,['James Watt Design Studio B'],[69]
+70,C81ICAE1,27,Friday,Evening,01:00,50,['Kelvin Hall'],[500]
+71,C81IDAE1,17,Tuesday,Afternoon,01:00,54,['Kelvin Hall'],[500]
+72,C81J1AE1,27,Friday,Evening,01:00,1,['Kelvin Hall'],[500]
+73,C81J1AE2,14,Monday,Afternoon,01:00,1,['Kelvin Blg Rm 323/324'],[50]
+74,C81J2AE1,14,Monday,Afternoon,01:00,18,['Kelvin Blg Rm 323/324'],[50]
+75,C81J2AE2,5,Thursday,Afternoon,01:00,18,['Kelvin Hall'],[500]
+76,C81J3AE1,14,Monday,Afternoon,01:00,6,['Kelvin Blg Rm 323/324'],[50]
+77,C81J3AE2,1,Wednesday,Morning,01:00,6,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+78,C81J4AE1,27,Friday,Evening,01:00,9,['Kelvin Hall'],[500]
+79,C81J4AE2,14,Monday,Afternoon,01:00,9,['Kelvin Blg Rm 323/324'],[50]
+80,C81J5AE1,27,Friday,Evening,01:00,13,['Kelvin Hall'],[500]
+81,C81J5AE2,14,Monday,Afternoon,01:00,13,['Kelvin Blg Rm 323/324'],[50]
+82,C81JIAE1,27,Friday,Evening,01:00,1,['Kelvin Hall'],[500]
+83,C81JIAE2,14,Monday,Afternoon,01:00,1,['Kelvin Blg Rm 323/324'],[50]
+84,C81MJAE1,27,Friday,Evening,01:00,6,['Kelvin Hall'],[500]
+85,C81MSAE1,16,Tuesday,Morning,01:00,113,['Kelvin Hall'],[500]
+86,C82BCSE1,27,Friday,Evening,01:00,4,['Kelvin Hall'],[500]
+87,C82BUAE1,17,Tuesday,Afternoon,02:00,97,['Kelvin Hall'],[500]
+88,C82CUAE1,6,Thursday,Evening,02:00,95,['Kelvin Gallery'],[230]
+89,C82DUAE1,14,Monday,Afternoon,01:00,12,['Kelvin Blg Rm 323/324'],[50]
+90,C82HUAE1,27,Friday,Evening,01:00,12,['Kelvin Hall'],[500]
+91,C82MCPE1,20,Wednesday,Afternoon,01:00,11,['WILTF'],[60]
+92,C82MHAE1,3,Wednesday,Evening,02:00,75,['Senate'],[80]
+93,C82MJAE1,3,Wednesday,Evening,02:00,42,['Senate'],[80]
+94,C82OUAE1,27,Friday,Evening,01:00,3,['Kelvin Hall'],[500]
+95,C82SUAE1,23,Thursday,Afternoon,01:00,16,['Hunter West'],[195]
+96,C83XWHE1,27,Friday,Evening,02:00,20,['Kelvin Hall'],[500]
+97,C8COUAE1,10,Saturday,Morning,02:00,37,['Rankine 601'],[37]
+98,C8CXCEE1,27,Friday,Evening,02:00,16,['Kelvin Hall'],[500]
+99,C8CXCHE1,17,Tuesday,Afternoon,02:00,20,['Adam Smith 915'],[26]
+100,C8CXDLE1,14,Monday,Afternoon,02:00,5,['Kelvin Blg Rm 323/324'],[50]
+101,C8CXESE1,17,Tuesday,Afternoon,02:00,11,['St Andrews Rm 234'],[40]
+102,C8CXPAE1,3,Wednesday,Evening,01:30,19,['OTC'],[110]
+103,C8P001E1,14,Monday,Afternoon,03:00,22,['Kelvin Blg Rm 323/324'],[50]
+104,C8P002E1,20,Wednesday,Afternoon,03:00,22,['Kelvin Gallery'],[230]
+105,D21102E1,27,Friday,Evening,01:00,1,['Kelvin Hall'],[500]
+106,D22227E1,27,Friday,Evening,02:00,1,['Kelvin Hall'],[500]
+107,D23315E1,27,Friday,Evening,02:00,4,['Kelvin Hall'],[500]
+108,D23336E1,14,Monday,Afternoon,02:00,7,['Kelvin Blg Rm 323/324'],[50]
+109,D23342E1,14,Monday,Afternoon,02:00,1,['Kelvin Blg Rm 323/324'],[50]
+110,D23360E1,1,Wednesday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+111,EN00C1E1,27,Friday,Evening,02:00,18,['Kelvin Hall'],[500]
+112,EN00P1E1,14,Monday,Afternoon,02:00,21,['Kelvin Blg Rm 323/324'],[50]
+113,EN00P3E1,5,Thursday,Afternoon,02:00,25,['Gilbert Scott Conf Suite Rm 356'],[40]
+114,EN00P5E1,19,Wednesday,Morning,02:00,26,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30]
+115,EN00P7E1,22,Thursday,Morning,02:00,22,['St Andrews Rm 227 '],[50]
+116,F11I01E1,10,Saturday,Morning,01:00,109,['OTC'],[110]
+117,F11I02E1,10,Saturday,Morning,02:00,110,['Hunter East'],[195]
+118,F11O01E1,4,Thursday,Morning,01:00,108,['OTC'],[110]
+119,F11O02E1,7,Friday,Morning,02:00,112,['Kelvin Gallery'],[230]
+120,F11P01E1,17,Tuesday,Afternoon,01:00,88,['OTC'],[110]
+121,F11P02E1,13,Monday,Morning,02:00,129,['Hunter East'],[195]
+122,F12I01E1,27,Friday,Evening,01:00,20,['Kelvin Hall'],[500]
+123,F12I02E1,27,Friday,Evening,02:00,122,['Kelvin Hall'],[500]
+124,F12O01E1,14,Monday,Afternoon,02:00,20,['Kelvin Blg Rm 323/324'],[50]
+125,F12O02E1,4,Thursday,Morning,02:00,114,['Kelvin Hall'],[500]
+126,F12P01E1,17,Tuesday,Afternoon,01:00,20,['St Andrews Rm 237'],[30]
+127,F12P02E1,1,Wednesday,Morning,02:00,122,['Kelvin Gallery'],[230]
+128,F12P03E1,27,Friday,Evening,02:00,9,['Kelvin Hall'],[500]
+129,F12X02E1,17,Tuesday,Afternoon,02:00,65,['Hunter East'],[195]
+130,F12X04E1,14,Monday,Afternoon,01:30,9,['Kelvin Blg Rm 323/324'],[50]
+131,F12X04E2,1,Wednesday,Morning,01:30,9,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+132,F12X04E3,9,Friday,Evening,01:30,9,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+133,F12X05E1,14,Monday,Afternoon,02:00,9,['Kelvin Blg Rm 323/324'],[50]
+134,F13I01E1,27,Friday,Evening,01:00,30,['Kelvin Hall'],[500]
+135,F13I02E1,27,Friday,Evening,02:00,103,['Kelvin Hall'],[500]
+136,F13I03E1,14,Monday,Afternoon,01:00,15,['Kelvin Blg Rm 323/324'],[50]
+137,F13I05E1,14,Monday,Afternoon,01:00,1,['Kelvin Blg Rm 323/324'],[50]
+138,F13I06E1,1,Wednesday,Morning,01:00,1,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+139,F13O01E1,14,Monday,Afternoon,02:00,29,['Kelvin Blg Rm 323/324'],[50]
+140,F13O02E1,19,Wednesday,Morning,02:00,103,['Kelvin Gallery'],[230]
+141,F13O03E1,5,Thursday,Afternoon,01:00,15,['Fore'],[64]
+142,F13O06E1,27,Friday,Evening,01:00,1,['Kelvin Hall'],[500]
+143,F13P01E1,24,Thursday,Evening,02:00,111,['Kelvin Gallery'],[230]
+144,F13P02E1,27,Friday,Evening,02:00,11,['Kelvin Hall'],[500]
+145,F13P03E1,9,Friday,Evening,01:00,44,['Sir Charles Wilson'],[60]
+146,F13P05E1,27,Friday,Evening,01:00,8,['Kelvin Hall'],[500]
+147,F13X01E1,14,Monday,Afternoon,02:00,11,['Kelvin Blg Rm 323/324'],[50]
+148,F13X03E1,2,Wednesday,Afternoon,01:00,18,['Joseph Black C407 (no lift)'],[25]
+149,F13X04E1,4,Thursday,Morning,02:00,86,['John McIntyre Rm 201'],[100]
+150,F311A1E1,17,Tuesday,Afternoon,01:00,52,['Rankine 629'],[53]
+151,F311B1E1,14,Monday,Afternoon,01:00,43,['Kelvin Blg Rm 323/324'],[50]
+152,F311E1E1,23,Thursday,Afternoon,01:00,106,['Hunter East'],[195]
+153,F311M0E1,7,Friday,Morning,01:00,103,['St Andrews Gym Hall'],[110]
+154,F311M1E1,20,Wednesday,Afternoon,01:00,161,['Hunter West'],[195]
+155,F311Q1E1,1,Wednesday,Morning,01:00,157,['Hunter East'],[195]
+156,F311T1E1,25,Friday,Morning,01:00,175,['Kelvin Gallery'],[230]
+157,F311V1E1,11,Saturday,Afternoon,01:00,47,['Kelvin Gallery'],[230]
+158,F311X1E1,3,Wednesday,Evening,01:00,37,['Hunter East'],[195]
+159,F311X2E1,21,Wednesday,Evening,01:00,25,['St Andrews Rm 237'],[30]
+160,F311X4E1,13,Monday,Morning,01:00,67,['Hunter West'],[195]
+161,F311Z1E1,16,Tuesday,Morning,01:00,144,['Kelvin Hall'],[500]
+162,F321C6E1,27,Friday,Evening,02:00,11,['Kelvin Hall'],[500]
+163,F321E4E1,14,Monday,Afternoon,01:00,13,['Kelvin Blg Rm 323/324'],[50]
+164,F321M1E1,9,Friday,Evening,02:00,94,['Hunter West'],[195]
+165,F321Q2E1,6,Thursday,Evening,02:00,98,['Hunter East'],[195]
+166,F321Q6E1,18,Tuesday,Evening,02:00,18,['James Watt Design Studio A'],[54]
+167,F321Q9E1,27,Friday,Evening,02:00,9,['Kelvin Hall'],[500]
+168,F321S6E1,22,Thursday,Morning,02:00,18,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30]
+169,F321T2E1,20,Wednesday,Afternoon,02:00,95,['Kelvin Gallery'],[230]
+170,F321T6E1,5,Thursday,Afternoon,02:00,18,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30]
+171,F321Z3E1,25,Friday,Morning,02:00,106,['Kelvin Gallery'],[230]
+172,F331M9E1,27,Friday,Evening,02:00,8,['Kelvin Hall'],[500]
+173,F331N3E1,18,Tuesday,Evening,02:00,65,['Bute'],[230]
+174,F331N6E1,27,Friday,Evening,02:00,22,['Kelvin Hall'],[500]
+175,F331O6E1,17,Tuesday,Afternoon,02:00,26,['Kelvin Hall'],[500]
+176,F331Q3E1,9,Friday,Evening,02:00,82,['Randolph'],[85]
+177,F331S2E1,15,Monday,Evening,02:00,82,['OTC'],[110]
+178,F331S9E1,22,Thursday,Morning,02:00,22,['John McIntyre Rm 208'],[40]
+179,F331X3E1,5,Thursday,Afternoon,02:00,14,['St Andrews Rm 237'],[30]
+180,F331X5E1,14,Monday,Afternoon,01:00,5,['Kelvin Blg Rm 323/324'],[50]
+181,F331Z4E1,1,Wednesday,Morning,02:00,66,['Hunter East'],[195]
+182,F331Z8E1,1,Wednesday,Morning,02:00,9,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+183,F3B1B3E1,13,Monday,Morning,02:00,40,['WILTF'],[60]
+184,F3B1X4E1,4,Thursday,Morning,02:00,78,['Hunter West'],[195]
+185,G111ACE1,2,Wednesday,Afternoon,02:00,34,['Bute'],[230]
+186,G111CCE1,18,Tuesday,Evening,01:00,59,['Hunter West'],[195]
+187,G111DGE1,27,Friday,Evening,02:00,15,['Kelvin Hall'],[500]
+188,G111GAE1,19,Wednesday,Morning,02:00,71,['Kelvin Hall'],[500]
+189,G111GBE1,19,Wednesday,Morning,02:00,222,['Bute'],[230]
+190,G111MCE1,13,Monday,Morning,01:30,3,['Kelvin Blg Rm 323/324'],[50]
+191,G111VAE1,8,Friday,Afternoon,02:00,165,['Hunter East'],[195]
+192,G111VBE1,14,Monday,Afternoon,02:00,24,['Kelvin Blg Rm 323/324'],[50]
+193,G11AS1E1,21,Wednesday,Evening,02:00,69,['Randolph'],[85]
+194,G11MA1E1,24,Thursday,Evening,03:00,172,['Kelvin Hall'],[500]
+195,G11MA2E1,27,Friday,Evening,02:00,40,['Kelvin Hall'],[500]
+196,G11PR1E1,7,Friday,Morning,02:00,165,['Bute'],[230]
+197,G12AL1E1,9,Friday,Evening,02:00,109,['St Andrews Gym Hall'],[110]
+198,G12AN1E1,27,Friday,Evening,02:00,103,['Kelvin Hall'],[500]
+199,G12ME1E1,13,Monday,Morning,02:00,108,['Kelvin Gallery'],[230]
+200,G12MM1E1,1,Wednesday,Morning,02:00,109,['Kelvin Hall'],[500]
+201,G12PR1E1,23,Thursday,Afternoon,02:00,115,['Kelvin Gallery'],[230]
+202,G12ST1E1,15,Monday,Evening,02:00,112,['Bute'],[230]
+203,G13AL4E1,27,Friday,Evening,02:00,11,['Kelvin Hall'],[500]
+204,G13AN4E1,14,Monday,Afternoon,02:00,7,['Kelvin Blg Rm 323/324'],[50]
+205,G13AS5E1,27,Friday,Evening,02:00,19,['Kelvin Hall'],[500]
+206,G13CM2E1,3,Wednesday,Evening,02:00,45,['Kelvin Hall'],[500]
+207,G13CS2E1,18,Tuesday,Evening,02:00,10,['Rankine 629'],[53]
+208,G13LA1E1,18,Tuesday,Evening,02:00,4,['Rankine 629'],[53]
+209,G13LO1E1,21,Wednesday,Evening,02:00,47,['WILT 112'],[50]
+210,G13MM2E1,10,Saturday,Morning,02:00,29,['Randolph'],[85]
+211,G13PR2E1,6,Thursday,Evening,02:00,7,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+212,G13QT1E1,6,Thursday,Evening,02:00,31,['Gilbert Scott Conf Suite Rm 250'],[40]
+213,G13RE1E1,24,Thursday,Evening,02:00,7,['St Andrews Rm 237'],[30]
+214,G13RE2E1,1,Wednesday,Morning,02:00,34,['Hunter East'],[195]
+215,G13SP2E1,8,Friday,Afternoon,02:00,23,['Joseph Black A504'],[25]
+216,G13ST3E1,14,Monday,Afternoon,02:00,16,['Kelvin Blg Rm 323/324'],[50]
+217,G13ST6E1,23,Thursday,Afternoon,02:00,39,['Fore'],[64]
+218,G51DSDE1,1,Wednesday,Morning,01:45,55,['Randolph'],[85]
+219,G51HOCE1,14,Monday,Afternoon,02:00,28,['Kelvin Blg Rm 323/324'],[50]
+220,G51MC1E1,24,Thursday,Evening,02:00,65,['Hunter East'],[195]
+221,G52ALGE1,5,Thursday,Afternoon,02:00,62,['Kelvin Hall'],[500]
+222,G52OBJE1,17,Tuesday,Afternoon,02:00,61,['Bute'],[230]
+223,G53FSPE1,9,Friday,Evening,01:45,49,['Kelvin Hall'],[500]
+224,G53LCTE1,27,Friday,Evening,01:45,13,['Kelvin Hall'],[500]
+225,G53RDBE1,14,Monday,Afternoon,02:00,14,['Kelvin Blg Rm 323/324'],[50]
+226,G53VIPE1,4,Thursday,Morning,01:45,25,['Bute'],[230]
+227,G5ABELE1,27,Friday,Evening,01:45,28,['Kelvin Hall'],[500]
+228,G5BAIPE1,20,Wednesday,Afternoon,01:45,31,['Sir Charles Wilson'],[60]
+229,G5BCCNE1,1,Wednesday,Morning,02:00,81,['OTC'],[110]
+230,G5BDBSE1,24,Thursday,Evening,02:00,61,['John McIntyre Rm 201'],[100]
+231,G5BGRAE1,11,Saturday,Afternoon,01:45,53,['Rankine 630'],[55]
+232,G5BSBBE1,27,Friday,Evening,01:45,9,['Kelvin Hall'],[500]
+233,G5P002E1,27,Friday,Evening,02:00,49,['Kelvin Hall'],[500]
+234,G5P005E1,20,Wednesday,Afternoon,02:00,56,['Senate'],[80]
+235,H21B00E1,27,Friday,Evening,02:00,90,['Kelvin Hall'],[500]
+236,H21H01E1,11,Saturday,Afternoon,02:00,80,['Kelvin Gallery'],[230]
+237,H21M01E1,5,Thursday,Afternoon,02:00,92,['Hunter West'],[195]
+238,H22C20E1,27,Friday,Evening,02:00,63,['Kelvin Hall'],[500]
+239,H22G06E1,14,Monday,Afternoon,02:00,9,['Kelvin Blg Rm 323/324'],[50]
+240,H22M02E1,16,Tuesday,Morning,02:00,76,['Kelvin Gallery'],[230]
+241,H22S02E1,22,Thursday,Morning,02:00,75,['Hunter East'],[195]
+242,H22V02E1,2,Wednesday,Afternoon,02:00,75,['OTC'],[110]
+243,H23C20E1,27,Friday,Evening,02:00,47,['Kelvin Hall'],[500]
+244,H23CEOE1,27,Friday,Evening,02:00,18,['Kelvin Hall'],[500]
+245,H24C20E1,27,Friday,Evening,02:00,15,['Kelvin Hall'],[500]
+246,H2CG03E1,11,Saturday,Afternoon,02:00,43,['Kelvin Gallery'],[230]
+247,H2CH04E1,14,Monday,Afternoon,02:00,17,['Kelvin Blg Rm 323/324'],[50]
+248,H2CH05E1,4,Thursday,Morning,02:00,92,['OTC'],[110]
+249,H2CM04E1,20,Wednesday,Afternoon,02:00,81,['Kelvin Hall'],[500]
+250,H2CP01E1,1,Wednesday,Morning,02:00,71,['John McIntyre Rm 201'],[100]
+251,H2CS05E1,23,Thursday,Afternoon,02:00,39,['Hunter East'],[195]
+252,H2CS06E1,17,Tuesday,Afternoon,02:00,50,['Kelvin Hall'],[500]
+253,H2CT01E1,8,Friday,Afternoon,02:00,95,['OTC'],[110]
+254,H2CV03E1,6,Thursday,Evening,02:00,16,['Gilbert Scott Conf Suite Rm 250'],[40]
+255,H31BDAE1,27,Friday,Evening,02:00,127,['Kelvin Hall'],[500]
+256,H31DM1E1,13,Monday,Morning,02:00,125,['Kelvin Hall'],[500]
+257,H31ENCE1,3,Wednesday,Evening,01:30,97,['Hunter East'],[195]
+258,H33CONE1,27,Friday,Evening,02:00,78,['Kelvin Hall'],[500]
+259,H33MI2E1,11,Saturday,Afternoon,02:00,75,['Kelvin Gallery'],[230]
+260,H3AFM1E1,22,Thursday,Morning,02:00,102,['Hunter West'],[195]
+261,H3BDM3E1,27,Friday,Evening,02:00,118,['Kelvin Hall'],[500]
+262,H3BFM2E1,16,Tuesday,Morning,01:00,65,['Senate'],[80]
+263,H3BFM2E2,22,Thursday,Morning,01:00,65,['Hunter East'],[195]
+264,H3BMDYE1,19,Wednesday,Morning,02:00,106,['Hunter East'],[195]
+265,H3BMS2E1,7,Friday,Morning,02:00,124,['Hunter West'],[195]
+266,H3CDMSE1,19,Wednesday,Morning,03:00,49,['James Watt Design Studio B'],[69]
+267,H3CENIE1,4,Thursday,Morning,02:00,42,['Randolph'],[85]
+268,H3CFM3E1,14,Monday,Afternoon,03:00,4,['Kelvin Blg Rm 323/324'],[50]
+269,H3CFRCE1,1,Wednesday,Morning,02:00,42,['Hunter East'],[195]
+270,H3CMECE1,7,Friday,Morning,02:00,23,['Adam Smith 915'],[26]
+271,H3CNUEE1,23,Thursday,Afternoon,02:00,33,['Rankine 629'],[53]
+272,H3CPOEE1,14,Monday,Afternoon,02:00,38,['Kelvin Blg Rm 323/324'],[50]
+273,H3CTSEE1,14,Monday,Afternoon,03:00,11,['Kelvin Blg Rm 323/324'],[50]
+274,H51100E1,17,Tuesday,Afternoon,02:00,114,['Kelvin Hall'],[500]
+275,H51140E1,27,Friday,Evening,01:00,101,['Kelvin Hall'],[500]
+276,H51200E1,14,Monday,Afternoon,02:00,71,['St Andrews Gym Hall'],[110]
+277,H52110E1,9,Friday,Evening,02:00,90,['Hunter West'],[195]
+278,H53171E1,27,Friday,Evening,02:00,105,['Kelvin Hall'],[500]
+279,H5C112E1,18,Tuesday,Evening,02:00,26,['St Andrews Rm 234'],[40]
+280,H5C113E1,9,Friday,Evening,02:00,57,['OTC'],[110]
+281,H5C142E1,3,Wednesday,Evening,02:00,31,['Kelvin Blg Rm 323/324'],[50]
+282,H61120E1,6,Thursday,Evening,02:00,115,['Kelvin Gallery'],[230]
+283,H62131E1,18,Tuesday,Evening,02:00,97,['Hunter West'],[195]
+284,H62160E1,24,Thursday,Evening,02:00,99,['Kelvin Hall'],[500]
+285,H63122E1,11,Saturday,Afternoon,02:00,97,['John McIntyre Rm 201'],[100]
+286,H6C133E1,24,Thursday,Evening,02:00,34,['St Andrews Rm 227 '],[50]
+287,H6C152E1,6,Thursday,Evening,01:00,44,['Kelvin Blg Rm 323/324'],[50]
+288,H6C162E1,1,Wednesday,Morning,02:00,60,['Fore'],[64]
+289,H6P001E1,27,Friday,Evening,02:00,4,['Kelvin Hall'],[500]
+290,H6P002E1,14,Monday,Afternoon,02:00,25,['Kelvin Blg Rm 323/324'],[50]
+291,H71EMPE1,27,Friday,Evening,02:00,61,['Kelvin Hall'],[500]
+292,H71IWEE1,6,Thursday,Evening,02:00,97,['St Andrews Gym Hall'],[110]
+293,H71MIPE1,21,Wednesday,Evening,02:00,87,['St Andrews Gym Hall'],[110]
+294,H71MS1E1,14,Monday,Afternoon,02:00,28,['Kelvin Blg Rm 323/324'],[50]
+295,H72ENTE1,7,Friday,Morning,03:00,17,['Kelvin Blg Rm 323/324'],[50]
+296,H72IRNE1,14,Monday,Afternoon,02:00,68,['Kelvin Hall'],[500]
+297,H72LOGE1,2,Wednesday,Afternoon,02:00,23,['Gilbert Scott Conf Suite Rm 356'],[40]
+298,H72NNSE1,27,Friday,Evening,02:00,65,['Kelvin Hall'],[500]
+299,H7ACS1E1,11,Saturday,Afternoon,01:30,92,['Hunter East'],[195]
+300,H7BEGDE1,21,Wednesday,Evening,02:00,65,['John McIntyre Rm 201'],[100]
+301,H7BMACE1,18,Tuesday,Evening,02:00,24,['James Watt Design Studio A'],[54]
+302,H7BMOQE1,24,Thursday,Evening,02:00,120,['Hunter West'],[195]
+303,H7CAMFE1,27,Friday,Evening,02:00,30,['Kelvin Hall'],[500]
+304,H7CCNGE1,10,Saturday,Morning,02:00,25,['Kelvin Gallery'],[230]
+305,H7CEPDE1,21,Wednesday,Evening,02:00,21,['Bute'],[230]
+306,H7CFAME1,6,Thursday,Evening,02:00,43,['WILT 112'],[50]
+307,H7CFOOE1,18,Tuesday,Evening,02:00,41,['Fore'],[64]
+308,H7CHCME1,3,Wednesday,Evening,02:00,25,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30]
+309,H7CLASE1,1,Wednesday,Morning,02:00,9,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+310,H7CMSGE1,8,Friday,Afternoon,02:00,66,['Bute'],[230]
+311,H7CORGE1,1,Wednesday,Morning,02:00,22,['Kelvin Hall'],[500]
+312,H7CSERE1,5,Thursday,Afternoon,02:00,20,['Senate'],[80]
+313,H7CSIME1,24,Thursday,Evening,02:00,12,['WILTF'],[60]
+314,H7CSURE1,4,Thursday,Morning,02:00,17,['Senate'],[80]
+315,H81022E1,27,Friday,Evening,02:00,64,['Kelvin Hall'],[500]
+316,H81050E1,11,Saturday,Afternoon,01:00,62,['Kelvin Gallery'],[230]
+317,H82006E1,27,Friday,Evening,02:00,61,['Kelvin Hall'],[500]
+318,H82024E1,19,Wednesday,Morning,02:00,60,['James Watt Design Studio B'],[69]
+319,H82029E1,4,Thursday,Morning,02:00,63,['Kelvin Hall'],[500]
+320,H82046E1,9,Friday,Evening,02:00,63,['Kelvin Gallery'],[230]
+321,H83024E1,22,Thursday,Morning,02:00,67,['Kelvin Hall'],[500]
+322,H8A009E1,27,Friday,Evening,02:00,42,['Kelvin Hall'],[500]
+323,H8A011E1,5,Thursday,Afternoon,02:00,63,['John McIntyre Rm 201'],[100]
+324,H8B040E1,27,Friday,Evening,02:00,68,['Kelvin Hall'],[500]
+325,H8B045E1,6,Thursday,Evening,02:00,63,['Fore'],[64]
+326,H8C001E1,5,Thursday,Afternoon,02:00,32,['Sir Charles Wilson'],[60]
+327,H8C002E1,9,Friday,Evening,02:00,33,['Hunter East'],[195]
+328,H8C019E1,11,Saturday,Afternoon,02:00,58,['St Andrews Gym Hall'],[110]
+329,H8C039E1,16,Tuesday,Morning,02:00,69,['Hunter West'],[195]
+330,H8C043E1,26,Friday,Afternoon,02:00,34,['WILT 112'],[50]
+331,HG1EM0E1,1,Wednesday,Morning,02:00,58,['John McIntyre Rm 201'],[100]
+332,HG1J1AE1,14,Monday,Afternoon,02:00,23,['Kelvin Blg Rm 323/324'],[50]
+333,HG1J1BE1,9,Friday,Evening,02:00,24,['Bute'],[230]
+334,HG1S1CE1,27,Friday,Evening,02:00,18,['Kelvin Hall'],[500]
+335,HG2J3AE1,6,Thursday,Evening,02:00,29,['James Watt Design Studio B'],[69]
+336,HG2J3BE1,13,Monday,Morning,02:00,29,['John McIntyre Rm 208'],[40]
+337,HG2J3DE1,9,Friday,Evening,02:00,27,['St Andrews Rm 237'],[30]
+338,HG2J4AE1,11,Saturday,Afternoon,02:00,28,['Kelvin Gallery'],[230]
+339,HG2S3EE1,4,Thursday,Morning,02:00,23,['Gilbert Scott Conf Suite Rm 356'],[40]
+340,HG3J5AE1,14,Monday,Afternoon,02:30,15,['Kelvin Blg Rm 323/324'],[50]
+341,HG3J5BE1,14,Monday,Afternoon,02:00,14,['Kelvin Blg Rm 323/324'],[50]
+342,HG3J5GE1,17,Tuesday,Afternoon,02:00,8,['Kelvin Blg Rm 220'],[50]
+343,HG3S5EE1,26,Friday,Afternoon,02:30,19,['Rankine 630'],[55]
+344,HG3S5FE1,1,Wednesday,Morning,02:30,11,['Senate'],[80]
+345,HGAEM2E1,8,Friday,Afternoon,02:00,542,"['St Andrews Rm 227 ', 'John McIntyre Rm 201', 'WILTF', 'Sir Charles Wilson', 'Fore', 'James Watt Design Studio B', 'Senate', 'Randolph']","[50, 100, 60, 60, 64, 69, 80, 85]"
+346,HGBEM3E1,1,Wednesday,Morning,02:00,340,['Kelvin Hall'],[500]
+347,HGBEM4E1,21,Wednesday,Evening,02:00,17,['Kelvin Gallery'],[230]
+348,HGCEMAE1,1,Wednesday,Morning,02:00,2,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+349,HGCEMBE1,20,Wednesday,Afternoon,02:00,38,['St Andrews Gym Hall'],[110]
+350,HGCEMCE1,23,Thursday,Afternoon,02:00,6,['St Andrews Rm 234'],[40]
+351,HGCEMME1,13,Monday,Morning,02:00,90,['John McIntyre Rm 201'],[100]
+352,J1A102E1,14,Monday,Afternoon,02:00,45,['Kelvin Blg Rm 323/324'],[50]
+353,J1A110E1,21,Wednesday,Evening,02:00,43,['John McIntyre Rm 201'],[100]
+354,J1A111E1,18,Tuesday,Evening,02:00,44,['Kelvin Gallery'],[230]
+355,J1A112E1,5,Thursday,Afternoon,02:00,11,['Gilbert Scott Conf Suite Rm 251'],[15]
+356,J1A202E1,11,Saturday,Afternoon,02:00,44,['St Andrews Gym Hall'],[110]
+357,J1A203E1,26,Friday,Afternoon,01:30,48,['Rankine 630'],[55]
+358,J1B109E1,14,Monday,Afternoon,02:00,47,['Kelvin Blg Rm 323/324'],[50]
+359,J1B111E1,22,Thursday,Morning,02:00,56,['James Watt Design Studio B'],[69]
+360,J1B113E1,4,Thursday,Morning,02:00,47,['Rankine 629'],[53]
+361,J1B115E1,14,Monday,Afternoon,02:00,11,['Kelvin Blg Rm 323/324'],[50]
+362,J1B116E1,5,Thursday,Afternoon,02:00,11,['Gilbert Scott Conf Suite Rm 251'],[15]
+363,J1B117E1,11,Saturday,Afternoon,02:00,59,['Kelvin Gallery'],[230]
+364,J1B203E1,19,Wednesday,Morning,02:00,11,['Adam Smith 915'],[26]
+365,J1C106E1,14,Monday,Afternoon,02:00,20,['Kelvin Blg Rm 323/324'],[50]
+366,J1C111E1,14,Monday,Afternoon,02:00,35,['Kelvin Blg Rm 323/324'],[50]
+367,J1C112E1,17,Tuesday,Afternoon,02:00,37,['Hunter East'],[195]
+368,J1C116E1,1,Wednesday,Morning,02:00,10,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+369,J1C119E1,11,Saturday,Afternoon,02:00,40,['Kelvin Gallery'],[230]
+370,J1C122E1,17,Tuesday,Afternoon,02:00,10,['Kelvin Hall'],[500]
+371,J1C125E1,4,Thursday,Morning,03:00,11,['Gilbert Scott Conf Suite Rm 251'],[15]
+372,J1C205E1,10,Saturday,Morning,02:00,11,['James Watt Design Studio A'],[54]
+373,J1C227E1,2,Wednesday,Afternoon,02:00,17,['Kelvin Blg Rm 323/324'],[50]
+374,J51IMAE1,22,Thursday,Morning,02:00,47,['St Andrews Gym Hall'],[110]
+375,J51R01E1,17,Tuesday,Afternoon,02:00,104,['St Andrews Gym Hall'],[110]
+376,J52EMME1,14,Monday,Afternoon,02:00,36,['Kelvin Blg Rm 323/324'],[50]
+377,J5BORME1,11,Saturday,Afternoon,02:00,12,['Hunter West'],[195]
+378,J5BSMAE1,21,Wednesday,Evening,02:00,14,['Hunter West'],[195]
+379,J5BSTME1,16,Tuesday,Morning,02:00,42,['St Andrews Rm 227 '],[50]
+380,J5CCCEE1,1,Wednesday,Morning,02:00,29,['OTC'],[110]
+381,J5CCRME1,24,Thursday,Evening,02:00,25,['Senate'],[80]
+382,J5CMUSE1,8,Friday,Afternoon,02:00,46,['St Andrews Rm 227 '],[50]
+383,K1AEU1E1,5,Thursday,Afternoon,02:00,53,['Sir Charles Wilson'],[60]
+384,K1AHRSE1,20,Wednesday,Afternoon,02:00,53,['Hunter East'],[195]
+385,K1AHWAE2,16,Tuesday,Morning,00:50,58,['James Watt Design Studio B'],[69]
+386,K1APADE1,5,Thursday,Afternoon,02:00,59,['WILTF'],[60]
+387,K1ATS1E1,2,Wednesday,Afternoon,02:00,54,['Randolph'],[85]
+388,K1BACOE1,20,Wednesday,Afternoon,02:00,52,['Rankine 629'],[53]
+389,K1BBS1E1,14,Monday,Afternoon,02:00,48,['Kelvin Blg Rm 323/324'],[50]
+390,K1BCSTE1,8,Friday,Afternoon,02:00,48,['John McIntyre Rm 201'],[100]
+391,K1BTMSE1,11,Saturday,Afternoon,02:00,51,['Kelvin Gallery'],[230]
+392,K41110E1,14,Monday,Afternoon,01:30,31,['Kelvin Blg Rm 323/324'],[50]
+393,K41210E1,2,Wednesday,Afternoon,01:30,30,['Senate'],[80]
+394,K42120E1,14,Monday,Afternoon,01:30,31,['Kelvin Blg Rm 323/324'],[50]
+395,K43100E1,14,Monday,Afternoon,01:30,28,['Kelvin Blg Rm 323/324'],[50]
+396,K4C110E1,18,Tuesday,Evening,01:30,42,['Sir Charles Wilson'],[60]
+397,K4C120E1,4,Thursday,Morning,01:30,42,['WILTF'],[60]
+398,K4C140E1,11,Saturday,Afternoon,01:30,43,['James Watt Design Studio A'],[54]
+399,K4C280E1,14,Monday,Afternoon,02:00,9,['Kelvin Blg Rm 323/324'],[50]
+400,K4C290E1,14,Monday,Afternoon,02:00,8,['Kelvin Blg Rm 323/324'],[50]
+401,K4P100E1,14,Monday,Afternoon,01:30,16,['Kelvin Blg Rm 323/324'],[50]
+402,K4P300E1,1,Wednesday,Morning,02:00,21,['Fore'],[64]
+403,L11100E1,4,Thursday,Morning,03:00,160,['Hunter West'],[195]
+404,L11101E1,24,Thursday,Evening,01:30,126,['Hunter West'],[195]
+405,L11102E1,10,Saturday,Morning,01:30,63,['Hunter East'],[195]
+406,L11110E1,20,Wednesday,Afternoon,02:00,25,['Kelvin Blg Rm 220'],[50]
+407,L11111E1,14,Monday,Afternoon,02:00,32,['Kelvin Blg Rm 323/324'],[50]
+408,L11120E1,1,Wednesday,Morning,01:30,89,['Hunter East'],[195]
+409,L11130E1,14,Monday,Afternoon,01:30,14,['Kelvin Blg Rm 323/324'],[50]
+410,L11140E1,22,Thursday,Morning,01:30,32,['John McIntyre Rm 201'],[100]
+411,L11150E1,11,Saturday,Afternoon,01:30,56,['James Watt Design Studio B'],[69]
+412,L12302E1,6,Thursday,Evening,02:00,107,['Kelvin Gallery'],[230]
+413,L12303E1,3,Wednesday,Evening,01:00,137,['Hunter West'],[195]
+414,L12310E1,14,Monday,Afternoon,02:00,21,['Kelvin Blg Rm 323/324'],[50]
+415,L12320E1,14,Monday,Afternoon,03:00,31,['Kelvin Blg Rm 323/324'],[50]
+416,L12330E1,14,Monday,Afternoon,02:00,35,['Kelvin Blg Rm 323/324'],[50]
+417,L12404E1,1,Wednesday,Morning,01:00,105,['St Andrews Gym Hall'],[110]
+418,L13502E1,9,Friday,Evening,01:30,58,['OTC'],[110]
+419,L13503E1,19,Wednesday,Morning,02:00,42,['Kelvin Blg Rm 220'],[50]
+420,L13504E1,26,Friday,Afternoon,01:30,46,['St Andrews Gym Hall'],[110]
+421,L13505E1,3,Wednesday,Evening,02:00,68,['Hunter East'],[195]
+422,L13507E1,17,Tuesday,Afternoon,01:30,64,['OTC'],[110]
+423,L13508E1,6,Thursday,Evening,01:30,52,['OTC'],[110]
+424,L13509E1,14,Monday,Afternoon,01:30,33,['Kelvin Blg Rm 323/324'],[50]
+425,L13510E1,22,Thursday,Morning,02:00,11,['Gilbert Scott Conf Suite Rm 253'],[40]
+426,L13511E1,1,Wednesday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+427,L13516E1,11,Saturday,Afternoon,01:30,20,['Gilbert Scott Conf Suite Rm 356'],[40]
+428,L13520E1,22,Thursday,Morning,02:00,15,['Fore'],[64]
+429,L13521E1,25,Friday,Morning,02:00,20,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30]
+430,L31004E1,7,Friday,Morning,02:00,88,['OTC'],[110]
+431,L31005E1,21,Wednesday,Evening,02:00,68,['Kelvin Hall'],[500]
+432,L31013E1,3,Wednesday,Evening,02:00,59,['Senate'],[80]
+433,L31073E1,27,Friday,Evening,02:00,1,['Kelvin Hall'],[500]
+434,L31097E1,19,Wednesday,Morning,02:00,62,['Randolph'],[85]
+435,L31107E1,8,Friday,Afternoon,02:00,48,['Bute'],[230]
+436,L31109E1,24,Thursday,Evening,02:00,52,['Kelvin Hall'],[500]
+437,L3B015E1,14,Monday,Afternoon,02:00,34,['Kelvin Blg Rm 323/324'],[50]
+438,L3B021E1,3,Wednesday,Evening,02:00,30,['Kelvin Blg Rm 323/324'],[50]
+439,L3B026E1,20,Wednesday,Afternoon,02:00,26,['Rankine 601'],[37]
+440,L3B030E1,24,Thursday,Evening,01:30,27,['St Andrews Rm 237'],[30]
+441,L3B032E1,17,Tuesday,Afternoon,02:00,48,['Kelvin Gallery'],[230]
+442,L3B036E1,14,Monday,Afternoon,02:00,25,['Kelvin Blg Rm 323/324'],[50]
+443,L3B046E1,8,Friday,Afternoon,01:30,21,['Sir Charles Wilson'],[60]
+444,L3B049E1,6,Thursday,Evening,01:30,35,['St Andrews Gym Hall'],[110]
+445,L3B090E1,22,Thursday,Morning,02:00,32,['St Andrews Rm 227 '],[50]
+446,L3B100E1,23,Thursday,Afternoon,01:30,21,['Gilbert Scott Conf Suite Rm 250'],[40]
+447,L3C064E1,14,Monday,Afternoon,02:00,18,['Kelvin Blg Rm 323/324'],[50]
+448,L3C086E1,1,Wednesday,Morning,02:00,50,['Senate'],[80]
+449,L81112E1,6,Thursday,Evening,02:00,89,['Hunter West'],[195]
+450,L81122E1,5,Thursday,Afternoon,02:00,104,['Kelvin Hall'],[500]
+451,L82111E1,2,Wednesday,Afternoon,02:00,70,['Randolph'],[85]
+452,L82113E1,11,Saturday,Afternoon,01:30,75,['Bute'],[230]
+453,L82120E1,24,Thursday,Evening,01:30,46,['Kelvin Blg Rm 220'],[50]
+454,L82121E1,17,Tuesday,Afternoon,01:30,26,['Kelvin Hall'],[500]
+455,L82124E1,14,Monday,Afternoon,01:30,1,['Kelvin Blg Rm 323/324'],[50]
+456,L82125E1,7,Friday,Morning,02:00,83,['OTC'],[110]
+457,L82132E1,21,Wednesday,Evening,01:30,36,['John McIntyre Rm 201'],[100]
+458,L83112E1,14,Monday,Afternoon,02:00,42,['Kelvin Blg Rm 323/324'],[50]
+459,L83115E1,11,Saturday,Afternoon,02:00,52,['Sir Charles Wilson'],[60]
+460,L83118E1,18,Tuesday,Evening,02:00,24,['Rankine 601'],[37]
+461,L83120E1,20,Wednesday,Afternoon,02:00,14,['Senate'],[80]
+462,L83121E1,1,Wednesday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+463,L83122E1,7,Friday,Morning,02:00,13,['Kelvin Blg Rm 220'],[50]
+464,L83123E1,14,Monday,Afternoon,02:00,8,['Kelvin Blg Rm 323/324'],[50]
+465,L83160E1,26,Friday,Afternoon,03:00,82,['Bute'],[230]
+466,LK10FAE1,23,Thursday,Afternoon,01:00,44,['Kelvin Hall'],[500]
+467,LK10GAE1,3,Wednesday,Evening,01:00,50,['John McIntyre Rm 201'],[100]
+468,LK10IAE1,13,Monday,Morning,01:00,53,['Kelvin Hall'],[500]
+469,LK10JAE1,10,Saturday,Morning,01:00,58,['OTC'],[110]
+470,LK10KBE1,1,Wednesday,Morning,01:00,6,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+471,LK10RAE1,14,Monday,Afternoon,01:00,16,['Kelvin Blg Rm 323/324'],[50]
+472,LK10SAE1,25,Friday,Morning,01:00,74,['John McIntyre Rm 201'],[100]
+473,LK44FAE1,15,Monday,Evening,03:00,32,['OTC'],[110]
+474,LK44GAE1,11,Saturday,Afternoon,03:00,11,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30]
+475,LK44SAE1,24,Thursday,Evening,03:00,9,['Randolph'],[85]
+476,LKA1FAE1,26,Friday,Afternoon,02:00,141,['Kelvin Hall'],[500]
+477,LKA1GAE1,15,Monday,Evening,02:00,48,['Kelvin Hall'],[500]
+478,LKA1IAE1,17,Tuesday,Afternoon,02:00,11,['OTC'],[110]
+479,LKA1JAE1,21,Wednesday,Evening,02:00,6,['Kelvin Blg Rm 220'],[50]
+480,LKA1RAE1,20,Wednesday,Afternoon,02:00,9,['Hunter West'],[195]
+481,LKA1SAE1,13,Monday,Morning,02:00,21,['Joseph Black A504'],[25]
+482,LKB2FAE1,15,Monday,Evening,01:00,50,['John McIntyre Rm 201'],[100]
+483,LKB2GAE1,15,Monday,Evening,01:00,24,['Kelvin Hall'],[500]
+484,LKB2JAE1,3,Wednesday,Evening,01:00,5,['James Watt Design Studio B'],[69]
+485,LKB2SAE1,14,Monday,Afternoon,01:00,9,['Kelvin Blg Rm 323/324'],[50]
+486,LKC3FAE1,15,Monday,Evening,03:00,51,['Kelvin Hall'],[500]
+487,LKC3GAE1,22,Thursday,Morning,03:00,22,['Randolph'],[85]
+488,LKC3RAE1,14,Monday,Afternoon,03:00,1,['Kelvin Blg Rm 323/324'],[50]
+489,LKC3SAE1,1,Wednesday,Morning,03:00,3,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+490,M11341E1,14,Monday,Afternoon,01:30,13,['Kelvin Blg Rm 323/324'],[50]
+491,M11343E1,4,Thursday,Morning,01:30,14,['Senate'],[80]
+492,M11345E1,11,Saturday,Afternoon,01:30,72,['Hunter West'],[195]
+493,M11347E1,16,Tuesday,Morning,01:30,80,['Kelvin Hall'],[500]
+494,M11351E1,7,Friday,Morning,02:00,38,['Kelvin Blg Rm 323/324'],[50]
+495,M11451E1,8,Friday,Afternoon,02:00,40,['Hunter East'],[195]
+496,M12353E1,11,Saturday,Afternoon,02:00,64,['Kelvin Gallery'],[230]
+497,M12365E1,1,Wednesday,Morning,02:00,41,['Senate'],[80]
+498,M13367E1,14,Monday,Afternoon,02:00,8,['Kelvin Blg Rm 323/324'],[50]
+499,M13369E1,18,Tuesday,Evening,02:00,41,['Fore'],[64]
+500,M13468E1,14,Monday,Afternoon,02:00,1,['Kelvin Blg Rm 323/324'],[50]
+501,M1B351E1,4,Thursday,Morning,01:30,11,['Kelvin Blg Rm 323/324'],[50]
+502,M1B355E1,14,Monday,Afternoon,02:00,29,['Kelvin Blg Rm 323/324'],[50]
+503,M1B357E1,20,Wednesday,Afternoon,01:30,22,['Kelvin Hall'],[500]
+504,M1B359E1,1,Wednesday,Morning,02:00,22,['St Andrews Rm 234'],[40]
+505,M1B363E1,13,Monday,Morning,02:00,37,['Kelvin Blg Rm 220'],[50]
+506,M1B372E1,26,Friday,Afternoon,02:00,33,['WILT 112'],[50]
+507,M1B373E1,5,Thursday,Afternoon,02:00,34,['Senate'],[80]
+508,M1B374E1,10,Saturday,Morning,02:00,15,['Kelvin Gallery'],[230]
+509,M1B380E1,16,Tuesday,Morning,01:30,17,['Rankine 629'],[53]
+510,M1B382E1,22,Thursday,Morning,02:00,13,['Rankine 630'],[55]
+511,M31001E1,26,Friday,Afternoon,02:00,171,['Hunter West'],[195]
+512,M31006E1,22,Thursday,Morning,02:00,82,['Bute'],[230]
+513,M31012E1,20,Wednesday,Afternoon,02:00,168,['Bute'],[230]
+514,M33036E1,14,Monday,Afternoon,02:00,10,['Kelvin Blg Rm 323/324'],[50]
+515,M33042E1,7,Friday,Morning,02:00,97,['OTC'],[110]
+516,M33053E1,24,Thursday,Evening,02:00,28,['St Andrews Rm 234'],[40]
+517,M33059E1,11,Saturday,Afternoon,03:00,30,['St Andrews Rm 237'],[30]
+518,M33060E1,2,Wednesday,Afternoon,02:00,82,['St Andrews Gym Hall'],[110]
+519,M33064E1,20,Wednesday,Afternoon,02:00,29,['John McIntyre Rm 208'],[40]
+520,M33074E1,17,Tuesday,Afternoon,02:00,48,['Sir Charles Wilson'],[60]
+521,M3A002E1,10,Saturday,Morning,02:00,155,['Bute'],[230]
+522,M3A010E1,19,Wednesday,Morning,01:30,187,['Hunter West'],[195]
+523,M3A015E1,23,Thursday,Afternoon,01:30,176,['Bute'],[230]
+524,M3A019E1,7,Friday,Morning,01:30,42,['Kelvin Gallery'],[230]
+525,M3B030E1,24,Thursday,Evening,02:00,184,['Hunter West'],[195]
+526,M3B031E1,27,Friday,Evening,02:00,58,['Kelvin Hall'],[500]
+527,M3B034E1,14,Monday,Afternoon,02:00,21,['Kelvin Blg Rm 323/324'],[50]
+528,M3B043E1,9,Friday,Evening,02:00,51,['Kelvin Hall'],[500]
+529,M3B049E1,14,Monday,Afternoon,02:00,9,['Kelvin Blg Rm 323/324'],[50]
+530,M3B055E1,5,Thursday,Afternoon,02:00,63,['Hunter West'],[195]
+531,M3B057E1,22,Thursday,Morning,02:00,28,['John McIntyre Rm 208'],[40]
+532,M3B062E1,13,Monday,Morning,02:00,12,['John McIntyre Rm 208'],[40]
+533,M3B066E1,4,Thursday,Morning,02:00,76,['Kelvin Hall'],[500]
+534,N11102E1,15,Monday,Evening,02:00,155,['Hunter West'],[195]
+535,N11103E1,9,Friday,Evening,02:00,90,['John McIntyre Rm 201'],[100]
+536,N12203E1,5,Thursday,Afternoon,01:30,102,['Kelvin Hall'],[500]
+537,N12403E1,10,Saturday,Morning,02:00,81,['Kelvin Hall'],[500]
+538,N13301E1,22,Thursday,Morning,02:00,20,['Adam Smith 915'],[26]
+539,N13302E1,7,Friday,Morning,02:00,17,['OTC'],[110]
+540,N13303E1,4,Thursday,Morning,01:30,67,['Randolph'],[85]
+541,N13304E1,6,Thursday,Evening,01:30,125,['Kelvin Hall'],[500]
+542,N13305E1,27,Friday,Evening,02:10,28,['Kelvin Hall'],[500]
+543,N1A104E1,18,Tuesday,Evening,01:30,62,['Fore'],[64]
+544,N1A110E1,27,Friday,Evening,01:30,83,['Kelvin Hall'],[500]
+545,N1A402E1,19,Wednesday,Morning,02:00,83,['Hunter West'],[195]
+546,N1B201E1,6,Thursday,Evening,01:30,120,['Kelvin Hall'],[500]
+547,N1B202E1,4,Thursday,Morning,01:30,123,['Kelvin Hall'],[500]
+548,N1B404E1,18,Tuesday,Evening,02:00,30,['WILTF'],[60]
+549,N1B405E1,17,Tuesday,Afternoon,02:00,45,['John McIntyre Rm 201'],[100]
+550,N1B406E1,21,Wednesday,Evening,01:30,48,['Rankine 629'],[53]
+551,N1B407E1,24,Thursday,Evening,02:00,38,['St Andrews Rm 234'],[40]
+552,N1B408E1,26,Friday,Afternoon,02:00,14,['John McIntyre Rm 201'],[100]
+553,N1B409E1,13,Monday,Morning,02:00,31,['John McIntyre Rm 201'],[100]
+554,N1B410E1,27,Friday,Evening,01:30,114,['Kelvin Hall'],[500]
+555,N1B420E1,24,Thursday,Evening,01:30,19,['Rankine 601'],[37]
+556,N1B422E1,20,Wednesday,Afternoon,02:00,25,['Kelvin Hall'],[500]
+557,Q13013E1,14,Monday,Afternoon,01:30,1,['Kelvin Blg Rm 323/324'],[50]
+558,Q13017E1,1,Wednesday,Morning,01:30,2,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+559,Q31301E1,10,Saturday,Morning,02:00,78,['Kelvin Hall'],[500]
+560,Q32302E1,8,Friday,Afternoon,01:30,45,['Rankine 629'],[53]
+561,Q33211E1,23,Thursday,Afternoon,01:30,56,['Kelvin Gallery'],[230]
+562,Q33307E1,11,Saturday,Afternoon,02:00,51,['Rankine 629'],[53]
+563,Q33308E1,1,Wednesday,Morning,03:00,48,['Kelvin Hall'],[500]
+564,Q3A201E1,1,Wednesday,Morning,02:00,64,['Kelvin Hall'],[500]
+565,Q3A301E1,14,Monday,Afternoon,02:00,2,['Kelvin Blg Rm 323/324'],[50]
+566,Q3A303E1,14,Monday,Afternoon,01:30,10,['Kelvin Blg Rm 323/324'],[50]
+567,Q3A307E1,9,Friday,Evening,02:00,26,['WILTF'],[60]
+568,Q3A308E1,2,Wednesday,Afternoon,03:00,26,['Randolph'],[85]
+569,Q3B201E1,20,Wednesday,Afternoon,01:30,17,['Kelvin Hall'],[500]
+570,Q3B211E1,14,Monday,Afternoon,01:30,6,['Kelvin Blg Rm 323/324'],[50]
+571,Q4A101E1,6,Thursday,Evening,03:00,49,['John McIntyre Rm 201'],[100]
+572,Q4A106E1,14,Monday,Afternoon,03:00,11,['Kelvin Blg Rm 323/324'],[50]
+573,Q4A210E1,22,Thursday,Morning,03:00,39,['Gilbert Scott Conf Suite Rm 356'],[40]
+574,Q4A219E1,24,Thursday,Evening,03:00,7,['Rankine 629'],[53]
+575,Q4B102E1,23,Thursday,Afternoon,03:00,22,['Randolph'],[85]
+576,Q4B104E1,14,Monday,Afternoon,02:00,14,['Kelvin Blg Rm 323/324'],[50]
+577,Q81001E1,8,Friday,Afternoon,02:00,100,['Bute'],[230]
+578,Q81003E1,26,Friday,Afternoon,02:00,47,['Randolph'],[85]
+579,Q81009E1,20,Wednesday,Afternoon,01:00,16,['Rankine 630'],[55]
+580,Q81011E1,14,Monday,Afternoon,01:00,2,['Kelvin Blg Rm 323/324'],[50]
+581,Q81016E1,14,Monday,Afternoon,01:00,14,['Kelvin Blg Rm 323/324'],[50]
+582,Q82024E1,14,Monday,Afternoon,01:30,5,['Kelvin Blg Rm 323/324'],[50]
+583,Q82028E1,14,Monday,Afternoon,01:30,6,['Kelvin Blg Rm 323/324'],[50]
+584,Q82031E1,14,Monday,Afternoon,01:00,3,['Kelvin Blg Rm 323/324'],[50]
+585,Q83108E1,14,Monday,Afternoon,01:00,1,['Kelvin Blg Rm 323/324'],[50]
+586,Q83110E1,14,Monday,Afternoon,01:00,1,['Kelvin Blg Rm 323/324'],[50]
+587,Q83142E1,14,Monday,Afternoon,02:00,13,['Kelvin Blg Rm 323/324'],[50]
+588,Q83144E1,1,Wednesday,Morning,01:00,6,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+589,Q83168E1,1,Wednesday,Morning,01:00,5,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+590,Q83170E1,17,Tuesday,Afternoon,01:00,2,['Kelvin Hall'],[500]
+591,Q83172E1,4,Thursday,Morning,01:00,3,['Gilbert Scott Conf Suite Rm 251'],[15]
+592,Q83184E1,14,Monday,Afternoon,02:00,11,['Kelvin Blg Rm 323/324'],[50]
+593,Q83186E1,1,Wednesday,Morning,01:00,2,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+594,Q83198E1,1,Wednesday,Morning,02:00,1,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+595,Q8A310E1,3,Wednesday,Evening,02:00,52,['Bute'],[230]
+596,Q8B043E1,5,Thursday,Afternoon,02:00,26,['WILTF'],[60]
+597,Q8B044E1,18,Tuesday,Evening,01:00,3,['Kelvin Blg Rm 323/324'],[50]
+598,Q8B045E1,14,Monday,Afternoon,02:00,14,['Kelvin Blg Rm 323/324'],[50]
+599,Q8B056E1,9,Friday,Evening,01:00,87,['Bute'],[230]
+600,Q8B063E1,25,Friday,Morning,02:00,40,['Gilbert Scott Conf Suite Rm 253'],[40]
+601,Q8B074E1,22,Thursday,Morning,01:00,8,['Randolph'],[85]
+602,Q8B075E1,17,Tuesday,Afternoon,02:00,5,['Kelvin Blg Rm 323/324'],[50]
+603,Q8B076E1,11,Saturday,Afternoon,02:00,5,['St Andrews Rm 234'],[40]
+604,Q8B094E1,8,Friday,Afternoon,02:00,42,['John McIntyre Rm 201'],[100]
+605,Q8B096E1,14,Monday,Afternoon,02:00,1,['Kelvin Blg Rm 323/324'],[50]
+606,Q8B341E1,18,Tuesday,Evening,02:00,7,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+607,Q8P010E1,14,Monday,Afternoon,02:00,1,['Kelvin Blg Rm 323/324'],[50]
+608,R11001E1,23,Thursday,Afternoon,01:00,191,['Kelvin Hall'],[500]
+609,R11002E1,17,Tuesday,Afternoon,01:30,89,['Hunter West'],[195]
+610,R11003E1,6,Thursday,Evening,02:00,109,['Bute'],[230]
+611,R11004E1,18,Tuesday,Evening,01:00,138,['Hunter West'],[195]
+612,R12001E1,20,Wednesday,Afternoon,01:30,129,['Hunter East'],[195]
+613,R12002E1,9,Friday,Evening,01:30,54,['WILTF'],[60]
+614,R12005E1,26,Friday,Afternoon,02:00,26,['Rankine 601'],[37]
+615,R12008E1,23,Thursday,Afternoon,02:00,35,['Rankine 601'],[37]
+616,R12024E1,14,Monday,Afternoon,01:30,5,['Kelvin Blg Rm 323/324'],[50]
+617,R12025E1,1,Wednesday,Morning,02:00,16,['Bute'],[230]
+618,R12026E1,5,Thursday,Afternoon,02:00,15,['Gilbert Scott Conf Suite Rm 356'],[40]
+619,R13001E1,14,Monday,Afternoon,01:30,36,['Kelvin Blg Rm 323/324'],[50]
+620,R13003E1,9,Friday,Evening,01:30,28,['Sir Charles Wilson'],[60]
+621,R13005E1,20,Wednesday,Afternoon,01:30,27,['James Watt Design Studio A'],[54]
+622,R13006E1,4,Thursday,Morning,02:00,12,['Gilbert Scott Conf Suite Rm 251'],[15]
+623,R13007E1,24,Thursday,Evening,02:00,20,['Randolph'],[85]
+624,R13009E1,14,Monday,Afternoon,01:30,6,['Kelvin Blg Rm 323/324'],[50]
+625,R13011E1,17,Tuesday,Afternoon,02:00,21,['Kelvin Hall'],[500]
+626,R13012E1,20,Wednesday,Afternoon,01:30,26,['Kelvin Hall'],[500]
+627,R13014E1,1,Wednesday,Morning,01:30,11,['James Watt Design Studio A'],[54]
+628,R13015E1,9,Friday,Evening,02:00,9,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+629,R13016E1,6,Thursday,Evening,02:00,19,['Kelvin Blg Rm 323/324'],[50]
+630,R13017E1,17,Tuesday,Afternoon,02:00,11,['Kelvin Hall'],[500]
+631,R13021E1,1,Wednesday,Morning,01:30,26,['Hunter West'],[195]
+632,R13022E1,11,Saturday,Afternoon,01:30,19,['John McIntyre Rm 208'],[40]
+633,R13023E1,26,Friday,Afternoon,01:30,14,['Gilbert Scott Conf Suite Rm 251'],[15]
+634,R13044E1,1,Wednesday,Morning,02:00,6,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+635,R13101E1,17,Tuesday,Afternoon,02:00,2,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+636,R21101E1,2,Wednesday,Afternoon,01:30,96,['Hunter West'],[195]
+637,R21104E1,14,Monday,Afternoon,01:00,41,['Kelvin Blg Rm 323/324'],[50]
+638,R21206E1,4,Thursday,Morning,01:30,43,['Kelvin Hall'],[500]
+639,R22101E1,11,Saturday,Afternoon,01:30,66,['James Watt Design Studio B'],[69]
+640,R22102E1,1,Wednesday,Morning,01:00,24,['Senate'],[80]
+641,R22110E1,15,Monday,Evening,01:30,28,['Rankine 629'],[53]
+642,R22112E1,14,Monday,Afternoon,01:30,14,['Kelvin Blg Rm 323/324'],[50]
+643,R22203E1,19,Wednesday,Morning,01:30,20,['Kelvin Blg Rm 323/324'],[50]
+644,R22204E1,8,Friday,Afternoon,01:30,8,['Kelvin Hall'],[500]
+645,R22212E1,3,Wednesday,Evening,01:30,25,['Rankine 601'],[37]
+646,R23009E1,14,Monday,Afternoon,01:30,10,['Kelvin Blg Rm 323/324'],[50]
+647,R23102E1,17,Tuesday,Afternoon,02:00,18,['Kelvin Blg Rm 323/324'],[50]
+648,R23104E1,22,Thursday,Morning,02:00,32,['Kelvin Hall'],[500]
+649,R23105E1,3,Wednesday,Evening,01:30,7,['Rankine 629'],[53]
+650,R23106E1,19,Wednesday,Morning,01:30,7,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+651,R23107E1,10,Saturday,Morning,01:30,12,['St Andrews Rm 227 '],[50]
+652,R23111E1,8,Friday,Afternoon,01:30,22,['Adam Smith 915'],[26]
+653,R23117E1,5,Thursday,Afternoon,01:30,24,['Rankine 629'],[53]
+654,R23209E1,2,Wednesday,Afternoon,01:30,17,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30]
+655,R23216E1,20,Wednesday,Afternoon,01:30,11,['Kelvin Blg Rm 323/324'],[50]
+656,R42103E1,24,Thursday,Evening,01:30,36,['Bute'],[230]
+657,R42217E1,18,Tuesday,Evening,01:30,20,['Gilbert Scott Conf Suite Rm 253'],[40]
+658,R43146E1,14,Monday,Afternoon,02:00,4,['Kelvin Blg Rm 323/324'],[50]
+659,R43148E1,14,Monday,Afternoon,02:00,1,['Kelvin Blg Rm 323/324'],[50]
+660,R43149E1,23,Thursday,Afternoon,02:00,8,['Kelvin Blg Rm 323/324'],[50]
+661,R43152E1,14,Monday,Afternoon,02:00,4,['Kelvin Blg Rm 323/324'],[50]
+662,R43153E1,1,Wednesday,Morning,02:00,2,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+663,R43204E1,25,Friday,Morning,01:45,15,['Gilbert Scott Conf Suite Rm 251'],[15]
+664,R4A101E1,13,Monday,Morning,01:30,68,['James Watt Design Studio B'],[69]
+665,R4A117E1,25,Friday,Morning,01:30,34,['Kelvin Gallery'],[230]
+666,R4A119E1,9,Friday,Evening,01:30,8,['Kelvin Blg Rm 220'],[50]
+667,R4A210E1,3,Wednesday,Evening,01:30,18,['John McIntyre Rm 208'],[40]
+668,R4A215E1,1,Wednesday,Morning,01:30,19,['Bute'],[230]
+669,R4B107E1,15,Monday,Evening,01:30,11,['Joseph Black C407 (no lift)'],[25]
+670,R4B209E1,1,Wednesday,Morning,02:00,1,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+671,R81003E1,11,Saturday,Afternoon,01:30,28,['Rankine 629'],[53]
+672,R81015E1,21,Wednesday,Evening,02:00,19,['WILTF'],[60]
+673,R81022E1,8,Friday,Afternoon,01:00,33,['Hunter East'],[195]
+674,R82022E1,4,Thursday,Morning,01:00,18,['Joseph Black A504'],[25]
+675,R82025E1,6,Thursday,Evening,01:30,25,['St Andrews Rm 234'],[40]
+676,R82027E1,14,Monday,Afternoon,01:30,7,['Kelvin Blg Rm 323/324'],[50]
+677,R82028E1,23,Thursday,Afternoon,01:30,10,['Rankine 629'],[53]
+678,R83036E1,16,Tuesday,Morning,03:00,12,['Bute'],[230]
+679,R83038E1,7,Friday,Morning,02:00,32,['Sir Charles Wilson'],[60]
+680,R83043E1,2,Wednesday,Afternoon,02:00,25,['Rankine 629'],[53]
+681,R83044E1,21,Wednesday,Evening,02:00,9,['Kelvin Hall'],[500]
+682,R83046E1,5,Thursday,Afternoon,01:30,18,['Rankine 601'],[37]
+683,R83051E1,26,Friday,Afternoon,01:00,11,['Joseph Black A504'],[25]
+684,R83052E1,10,Saturday,Morning,01:00,23,['Kelvin Gallery'],[230]
+685,R83054E1,24,Thursday,Evening,01:00,2,['Randolph'],[85]
+686,R83056E1,14,Monday,Afternoon,01:00,1,['Kelvin Blg Rm 323/324'],[50]
+687,R8A011E1,14,Monday,Afternoon,01:00,8,['Kelvin Blg Rm 323/324'],[50]
+688,R8A013E1,26,Friday,Afternoon,01:00,4,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+689,R8B032E1,1,Wednesday,Morning,01:00,4,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+690,V11103E1,20,Wednesday,Afternoon,01:30,55,['Randolph'],[85]
+691,V11105E1,9,Friday,Evening,01:30,66,['Kelvin Hall'],[500]
+692,V11107E1,13,Monday,Morning,01:30,64,['Kelvin Gallery'],[230]
+693,V11109E1,21,Wednesday,Evening,01:30,73,['OTC'],[110]
+694,V11111E1,27,Friday,Evening,01:30,114,['Kelvin Hall'],[500]
+695,V12115E1,14,Monday,Afternoon,01:30,13,['Kelvin Blg Rm 323/324'],[50]
+696,V12116E1,22,Thursday,Morning,01:00,11,['Rankine 601'],[37]
+697,V12119E1,4,Thursday,Morning,01:30,16,['Sir Charles Wilson'],[60]
+698,V12121E1,17,Tuesday,Afternoon,01:30,14,['Gilbert Scott Conf Suite Rm 251'],[15]
+699,V12123E1,11,Saturday,Afternoon,01:30,32,['Kelvin Gallery'],[230]
+700,V12127E1,19,Wednesday,Morning,01:00,17,['Randolph'],[85]
+701,V12129E1,1,Wednesday,Morning,01:30,12,['Senate'],[80]
+702,V12131E1,1,Wednesday,Morning,01:30,21,['Bute'],[230]
+703,V12135E1,24,Thursday,Evening,01:30,28,['Rankine 630'],[55]
+704,V12139E1,14,Monday,Afternoon,01:30,9,['Kelvin Blg Rm 323/324'],[50]
+705,V12143E1,21,Wednesday,Evening,01:30,36,['James Watt Design Studio A'],[54]
+706,V12148E1,9,Friday,Evening,01:30,24,['Joseph Black A504'],[25]
+707,V13101E1,14,Monday,Afternoon,01:30,6,['Kelvin Blg Rm 323/324'],[50]
+708,V13103E1,14,Monday,Afternoon,01:30,12,['Kelvin Blg Rm 323/324'],[50]
+709,V13104E1,1,Wednesday,Morning,01:30,6,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+710,V13105E1,20,Wednesday,Afternoon,01:30,8,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+711,V13108E1,14,Monday,Afternoon,01:30,11,['Kelvin Blg Rm 323/324'],[50]
+712,V13111E1,17,Tuesday,Afternoon,01:00,13,['Gilbert Scott Conf Suite Rm 253'],[40]
+713,V13119E1,5,Thursday,Afternoon,02:00,20,['Kelvin Blg Rm 323/324'],[50]
+714,V13125E1,17,Tuesday,Afternoon,01:30,4,['Rankine 629'],[53]
+715,V13152E1,14,Monday,Afternoon,01:30,4,['Kelvin Blg Rm 323/324'],[50]
+716,V13155E1,14,Monday,Afternoon,02:00,3,['Kelvin Blg Rm 323/324'],[50]
+717,V13159E1,23,Thursday,Afternoon,02:00,10,['Kelvin Hall'],[500]
+718,V13163E1,14,Monday,Afternoon,02:00,3,['Kelvin Blg Rm 323/324'],[50]
+719,V13169E1,1,Wednesday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+720,V13173E1,1,Wednesday,Morning,02:00,4,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+721,V13177E1,1,Wednesday,Morning,02:00,10,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+722,V13181E1,1,Wednesday,Morning,02:00,5,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+723,V13185E1,7,Friday,Morning,03:00,13,['St Andrews Gym Hall'],[110]
+724,V13197E1,11,Saturday,Afternoon,02:00,9,['Kelvin Blg Rm 323/324'],[50]
+725,V13214E1,4,Thursday,Morning,02:00,16,['Joseph Black C407 (no lift)'],[25]
+726,V13296E1,8,Friday,Afternoon,01:30,14,['Gilbert Scott Conf Suite Rm 251'],[15]
+727,V41103E1,1,Wednesday,Morning,01:00,10,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+728,V41112E1,18,Tuesday,Evening,01:00,19,['Kelvin Blg Rm 323/324'],[50]
+729,V41124E1,26,Friday,Afternoon,01:00,13,['Joseph Black A504'],[25]
+730,V41133E1,4,Thursday,Morning,01:30,19,['Senate'],[80]
+731,V41142E1,19,Wednesday,Morning,01:00,65,['Hunter West'],[195]
+732,V41143E1,16,Tuesday,Morning,01:00,9,['Kelvin Gallery'],[230]
+733,V42103E1,24,Thursday,Evening,01:00,15,['Adam Smith 915'],[26]
+734,V42112E1,6,Thursday,Evening,02:00,28,['John McIntyre Rm 208'],[40]
+735,V42117E1,20,Wednesday,Afternoon,02:00,15,['Sir Charles Wilson'],[60]
+736,V42124E1,22,Thursday,Morning,02:00,28,['St Andrews Rm 234'],[40]
+737,V42133E1,10,Saturday,Morning,01:00,34,['Sir Charles Wilson'],[60]
+738,V42143E1,26,Friday,Afternoon,01:00,10,['Kelvin Blg Rm 323/324'],[50]
+739,V43103E1,4,Thursday,Morning,01:00,15,['James Watt Design Studio B'],[69]
+740,V43112E1,14,Monday,Afternoon,02:00,16,['Kelvin Blg Rm 323/324'],[50]
+741,V43117E1,18,Tuesday,Evening,02:00,6,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+742,V43124E1,11,Saturday,Afternoon,02:00,28,['Hunter East'],[195]
+743,V43125E1,25,Friday,Morning,02:00,10,['Kelvin Blg Rm 323/324'],[50]
+744,V43133E1,20,Wednesday,Afternoon,01:00,22,['Rankine 629'],[53]
+745,V43143E1,1,Wednesday,Morning,01:00,17,['Kelvin Gallery'],[230]
+746,V43239E1,22,Thursday,Morning,01:00,17,['Rankine 601'],[37]
+747,V61110E1,22,Thursday,Morning,01:30,62,['Hunter East'],[195]
+748,V61120E1,10,Saturday,Morning,01:30,60,['St Andrews Gym Hall'],[110]
+749,V62200E1,1,Wednesday,Morning,01:30,37,['Rankine 630'],[55]
+750,V6A100E1,27,Friday,Evening,01:30,96,['Kelvin Hall'],[500]
+751,V6B302E1,22,Thursday,Morning,01:30,43,['Randolph'],[85]
+752,V6B306E1,8,Friday,Afternoon,01:30,16,['Kelvin Gallery'],[230]
+753,V6B307E1,5,Thursday,Afternoon,01:30,15,['Joseph Black A504'],[25]
+754,V6B308E1,3,Wednesday,Evening,01:30,18,['Rankine 601'],[37]
+755,V6B310E1,14,Monday,Afternoon,01:30,1,['Kelvin Blg Rm 323/324'],[50]
+756,V6B313E1,17,Tuesday,Afternoon,01:30,5,['Rankine 629'],[53]
+757,V6B329E1,27,Friday,Evening,01:30,17,['Kelvin Hall'],[500]
+758,V6B333E1,14,Monday,Afternoon,01:30,5,['Kelvin Blg Rm 323/324'],[50]
+759,V6B335E1,14,Monday,Afternoon,01:30,1,['Kelvin Blg Rm 323/324'],[50]
+760,V6B336E1,26,Friday,Afternoon,01:30,24,['Bute'],[230]
+761,V71101E1,1,Wednesday,Morning,01:30,1,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+762,V72119E1,8,Friday,Afternoon,01:30,19,['Joseph Black C407 (no lift)'],[25]
+763,V72121E1,16,Tuesday,Morning,01:30,42,['Sir Charles Wilson'],[60]
+764,V72AINE1,19,Wednesday,Morning,01:30,33,['James Watt Design Studio A'],[54]
+765,V73127E1,14,Monday,Afternoon,03:00,15,['Kelvin Blg Rm 323/324'],[50]
+766,V73128E1,20,Wednesday,Afternoon,01:30,16,['St Andrews Gym Hall'],[110]
+767,V73232E1,16,Tuesday,Morning,03:00,29,['OTC'],[110]
+768,V73233E1,1,Wednesday,Morning,03:00,7,['59 Oakfield Ave Rm 302 (no lift)'],[10]
+769,V73MD1E1,10,Saturday,Morning,01:30,29,['Gilbert Scott Conf Suite Rm 250'],[40]
+770,V7A101E1,26,Friday,Afternoon,01:30,52,['Rankine 629'],[53]
+771,V7A105E1,25,Friday,Morning,01:30,40,['Hunter West'],[195]
+772,V7A107E1,27,Friday,Evening,01:30,67,['Kelvin Hall'],[500]
+773,V7A109E1,7,Friday,Morning,01:30,46,['St Andrews Rm 227 '],[50]
+774,V7A117E1,21,Wednesday,Evening,01:30,31,['St Andrews Gym Hall'],[110]
+775,V7A204E1,27,Friday,Evening,01:30,65,['Kelvin Hall'],[500]
+776,V7A211E1,27,Friday,Evening,01:30,53,['Kelvin Hall'],[500]
+777,V7A214E1,15,Monday,Evening,01:30,25,['Kelvin Blg Rm 323/324'],[50]
+778,V7A216E1,18,Tuesday,Evening,01:30,31,['John McIntyre Rm 201'],[100]
+779,V81101E1,17,Tuesday,Afternoon,01:30,32,['Kelvin Blg Rm 323/324'],[50]
+780,V81103E1,14,Monday,Afternoon,01:30,4,['Kelvin Blg Rm 323/324'],[50]
+781,V81105E1,11,Saturday,Afternoon,01:30,21,['Bute'],[230]
+782,V81107E1,10,Saturday,Morning,01:30,38,['WILTF'],[60]
+783,V81109E1,27,Friday,Evening,01:30,56,['Kelvin Hall'],[500]
+784,V81C17E1,14,Monday,Afternoon,02:00,3,['Kelvin Blg Rm 323/324'],[50]
+785,V82110E1,11,Saturday,Afternoon,01:30,50,['Kelvin Gallery'],[230]
+786,V82111E1,6,Thursday,Evening,01:30,21,['John McIntyre Rm 208'],[40]
+787,V82113E1,21,Wednesday,Evening,01:30,43,['St Andrews Gym Hall'],[110]
+788,V82115E1,1,Wednesday,Morning,01:30,50,['WILTF'],[60]
+789,V82C01E1,14,Monday,Afternoon,02:00,17,['Kelvin Blg Rm 323/324'],[50]
+790,V83119E1,5,Thursday,Afternoon,01:30,16,['OTC'],[110]
+791,V83123E1,26,Friday,Afternoon,01:30,20,['Joseph Black A504'],[25]
+792,V83138E1,17,Tuesday,Afternoon,01:30,11,['Kelvin Gallery'],[230]
+793,V83143E1,8,Friday,Afternoon,01:30,10,['Gilbert Scott Conf Suite Rm 251'],[15]
+794,W31A12E1,11,Saturday,Afternoon,01:30,24,['Joseph Black C407 (no lift)'],[25]
+795,W32C10E1,18,Tuesday,Evening,01:30,16,['Rankine 629'],[53]
+796,W32F10E1,4,Thursday,Morning,01:30,15,['Kelvin Blg Rm 220'],[50]
+797,W32H10E1,14,Monday,Afternoon,01:30,6,['Kelvin Blg Rm 323/324'],[50]
+798,W32H14E1,22,Thursday,Morning,01:30,12,['Gilbert Scott Conf Suite Rm 356'],[40]
+799,W32H16E1,7,Friday,Morning,01:30,13,['Bute'],[230]
