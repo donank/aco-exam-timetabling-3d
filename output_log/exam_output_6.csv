@@ -1,0 +1,801 @@
+,exam_code,slot_index,day,type,duration,total_students,rooms,rooms_capacity,special_requirement
+0,AA2016E1,3,Wednesday,Evening,01:30,20,['Kelvin Gallery'],[230],False
+1,AA3008E1,16,Tuesday,Morning,03:00,31,['Hunter West'],[195],False
+2,AAA011E1,21,Wednesday,Evening,01:30,14,['Gilbert Scott Conf Suite Rm 253'],[40],False
+3,AAA013E1,7,Friday,Morning,02:00,55,['St Andrews Gym Hall'],[110],False
+4,AAA022E1,15,Monday,Evening,01:30,28,['Fore'],[64],False
+5,AAA024E1,18,Tuesday,Evening,01:30,31,['John McIntyre Rm 201'],[100],False
+6,AAA033E1,27,Friday,Evening,01:30,12,['Kelvin Hall'],[500],False
+7,AAA034E1,9,Friday,Evening,01:30,26,['James Watt Design Studio A'],[54],False
+8,AAB025E1,26,Friday,Afternoon,03:00,15,['Kelvin Hall'],[500],False
+9,AAB058E1,24,Thursday,Evening,01:00,7,['Rankine 601'],[37],False
+10,B11101E1,22,Thursday,Morning,03:00,27,['Kelvin Hall'],[500],False
+11,B11102E1,11,Saturday,Afternoon,02:00,110,['Kelvin Hall'],[500],False
+12,B12301E1,19,Wednesday,Morning,02:00,16,['Rankine 629'],[53],False
+13,B12302E1,26,Friday,Afternoon,02:00,16,['Kelvin Hall'],[500],False
+14,B12303E1,1,Wednesday,Morning,02:00,16,['Kelvin Blg Rm 220'],[50],False
+15,B12320E1,22,Thursday,Morning,02:00,6,['Randolph'],[85],False
+16,B13103E1,13,Monday,Morning,02:00,8,['St Andrews Rm 237'],[30],False
+17,B31101E1,25,Friday,Morning,02:00,107,['Kelvin Gallery'],[230],False
+18,B31103E1,8,Friday,Afternoon,02:00,107,['Bute'],[230],False
+19,B31105E1,3,Wednesday,Evening,01:00,107,['OTC'],[110],False
+20,B31107E1,22,Thursday,Morning,02:00,108,['OTC'],[110],False
+21,B32321E1,18,Tuesday,Evening,01:00,119,['Hunter West'],[195],False
+22,B32322E1,21,Wednesday,Evening,01:00,110,['Kelvin Gallery'],[230],False
+23,B32325E1,1,Wednesday,Morning,02:00,110,['Kelvin Gallery'],[230],False
+24,B32326E1,24,Thursday,Evening,01:00,110,['OTC'],[110],False
+25,B32327E1,4,Thursday,Morning,02:00,110,['Kelvin Gallery'],[230],False
+26,B33541E1,21,Wednesday,Evening,01:00,93,['Hunter West'],[195],False
+27,B33544E1,15,Monday,Evening,01:00,93,['John McIntyre Rm 201'],[100],False
+28,B33545E1,10,Saturday,Morning,02:00,93,['Hunter East'],[195],False
+29,B33548E1,24,Thursday,Evening,01:00,93,['John McIntyre Rm 201'],[100],False
+30,B33549E1,1,Wednesday,Morning,02:00,93,['Kelvin Hall'],[500],False
+31,B33563E1,27,Friday,Evening,01:00,18,['Kelvin Hall'],[500],False
+32,C11101E1,2,Wednesday,Afternoon,02:00,145,['Kelvin Hall'],[500],False
+33,C11105E1,26,Friday,Afternoon,02:00,163,['Kelvin Gallery'],[230],False
+34,C12321E1,14,Monday,Afternoon,02:00,68,['Kelvin Hall'],[500],False
+35,C12324E1,7,Friday,Morning,02:00,63,['Senate'],[80],False
+36,C12325E1,15,Monday,Evening,01:30,62,['Hunter East'],[195],False
+37,C12327E1,4,Thursday,Morning,02:00,58,['Hunter West'],[195],False
+38,C12328E1,21,Wednesday,Evening,01:30,32,['James Watt Design Studio B'],[69],False
+39,C12329E1,18,Tuesday,Evening,01:30,11,['Gilbert Scott Conf Suite Rm 251'],[15],False
+40,C12331E1,27,Friday,Evening,01:30,14,['Kelvin Hall'],[500],False
+41,C12332E1,1,Wednesday,Morning,03:00,48,['Kelvin Gallery'],[230],False
+42,C12333E1,18,Tuesday,Evening,01:30,15,['Bute'],[230],False
+43,C12338E1,10,Saturday,Morning,02:00,57,['Senate'],[80],False
+44,C13562E1,7,Friday,Morning,03:00,33,['James Watt Design Studio A'],[54],False
+45,C13563E1,1,Wednesday,Morning,03:00,7,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+46,C13564E1,25,Friday,Morning,03:00,39,['John McIntyre Rm 201'],[100],False
+47,C13565E1,22,Thursday,Morning,03:00,19,['St Andrews Rm 237'],[30],False
+48,C13567E1,4,Thursday,Morning,03:00,17,['Joseph Black A504'],[25],False
+49,C13569E1,16,Tuesday,Morning,03:00,19,['Gilbert Scott Conf Suite Rm 356'],[40],False
+50,C13571E1,18,Tuesday,Evening,01:30,8,['Gilbert Scott Conf Suite Rm 253'],[40],False
+51,C13572E1,9,Friday,Evening,01:30,7,['Rankine 630'],[55],False
+52,C13573E1,13,Monday,Morning,03:00,20,['Rankine 601'],[37],False
+53,C1P001E1,19,Wednesday,Morning,02:00,6,['Sir Charles Wilson'],[60],False
+54,C41101E1,20,Wednesday,Afternoon,02:00,102,['Hunter West'],[195],False
+55,C42304E1,4,Thursday,Morning,02:00,63,['John McIntyre Rm 201'],[100],False
+56,C42306E1,25,Friday,Morning,02:00,62,['Hunter West'],[195],False
+57,C42307E1,22,Thursday,Morning,02:00,37,['Kelvin Hall'],[500],False
+58,C43511E1,1,Wednesday,Morning,03:00,38,['Rankine 629'],[53],False
+59,C43512E1,14,Monday,Afternoon,03:00,24,['Kelvin Blg Rm 323/324'],[50],False
+60,C52303E1,10,Saturday,Morning,02:00,12,['Kelvin Gallery'],[230],False
+61,C71101E1,7,Friday,Morning,02:00,205,['Kelvin Hall'],[500],False
+62,C72303E1,11,Saturday,Afternoon,03:00,50,['St Andrews Rm 227 '],[50],False
+63,C73507E1,17,Tuesday,Afternoon,03:00,40,['Gilbert Scott Conf Suite Rm 356'],[40],False
+64,C81HAAE1,27,Friday,Evening,01:00,23,['Kelvin Hall'],[500],False
+65,C81HBAE1,15,Monday,Evening,01:00,121,['Kelvin Gallery'],[230],False
+66,C81HCAE1,18,Tuesday,Evening,01:00,126,"['Hunter West', 'Kelvin Hall']","[195, 500]",False
+67,C81HDAE1,9,Friday,Evening,01:00,121,['Hunter West'],[195],False
+68,C81IAAE1,24,Thursday,Evening,01:00,67,['Senate'],[80],False
+69,C81IBAE1,18,Tuesday,Evening,01:00,25,['Adam Smith 915'],[26],False
+70,C81ICAE1,21,Wednesday,Evening,01:00,50,['Kelvin Hall'],[500],False
+71,C81IDAE1,9,Friday,Evening,01:00,54,['Randolph'],[85],False
+72,C81J1AE1,27,Friday,Evening,01:00,1,['Kelvin Hall'],[500],False
+73,C81J1AE2,9,Friday,Evening,01:00,1,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+74,C81J2AE1,18,Tuesday,Evening,01:00,18,['Gilbert Scott Conf Suite Rm 356'],[40],False
+75,C81J2AE2,3,Wednesday,Evening,01:00,18,['Joseph Black A504'],[25],False
+76,C81J3AE1,18,Tuesday,Evening,01:00,6,['John McIntyre Rm 201'],[100],False
+77,C81J3AE2,27,Friday,Evening,01:00,6,['Kelvin Hall'],[500],False
+78,C81J4AE1,27,Friday,Evening,01:00,9,['Kelvin Hall'],[500],False
+79,C81J4AE2,9,Friday,Evening,01:00,9,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+80,C81J5AE1,21,Wednesday,Evening,01:00,13,['Kelvin Gallery'],[230],False
+81,C81J5AE2,27,Friday,Evening,01:00,13,['Kelvin Hall'],[500],False
+82,C81JIAE1,24,Thursday,Evening,01:00,1,['Kelvin Gallery'],[230],False
+83,C81JIAE2,3,Wednesday,Evening,01:00,1,['Gilbert Scott Conf Suite Rm 250'],[40],False
+84,C81MJAE1,24,Thursday,Evening,01:00,6,['Rankine 601'],[37],False
+85,C81MSAE1,3,Wednesday,Evening,01:00,113,['Bute'],[230],False
+86,C82BCSE1,9,Friday,Evening,01:00,4,['Gilbert Scott Conf Suite Rm 356'],[40],False
+87,C82BUAE1,22,Thursday,Morning,02:00,97,['Hunter West'],[195],False
+88,C82CUAE1,25,Friday,Morning,02:00,95,['Kelvin Hall'],[500],False
+89,C82DUAE1,6,Thursday,Evening,01:00,12,['Joseph Black C407 (no lift)'],[25],False
+90,C82HUAE1,15,Monday,Evening,01:00,12,['Gilbert Scott Conf Suite Rm 253'],[40],False
+91,C82MCPE1,18,Tuesday,Evening,01:00,11,"['Gilbert Scott Conf Suite Rm 251', 'Joseph Black A504']","[15, 25]",False
+92,C82MHAE1,1,Wednesday,Morning,02:00,75,['St Andrews Gym Hall'],[110],False
+93,C82MJAE1,2,Wednesday,Afternoon,02:00,42,['John McIntyre Rm 201'],[100],False
+94,C82OUAE1,9,Friday,Evening,01:00,3,['Gilbert Scott Conf Suite Rm 251'],[15],False
+95,C82SUAE1,27,Friday,Evening,01:00,16,['Kelvin Hall'],[500],False
+96,C83XWHE1,7,Friday,Morning,02:00,20,['Gilbert Scott Conf Suite Rm 253'],[40],False
+97,C8COUAE1,10,Saturday,Morning,02:00,37,['Randolph'],[85],False
+98,C8CXCEE1,17,Tuesday,Afternoon,02:00,16,['Kelvin Blg Rm 323/324'],[50],False
+99,C8CXCHE1,19,Wednesday,Morning,02:00,20,['Hunter East'],[195],False
+100,C8CXDLE1,26,Friday,Afternoon,02:00,5,['Sir Charles Wilson'],[60],False
+101,C8CXESE1,14,Monday,Afternoon,02:00,11,['Kelvin Blg Rm 323/324'],[50],False
+102,C8CXPAE1,24,Thursday,Evening,01:30,19,['St Andrews Rm 234'],[40],False
+103,C8P001E1,13,Monday,Morning,03:00,22,['John McIntyre Rm 208'],[40],False
+104,C8P002E1,23,Thursday,Afternoon,03:00,22,['Kelvin Hall'],[500],False
+105,D21102E1,27,Friday,Evening,01:00,1,['Kelvin Hall'],[500],False
+106,D22227E1,23,Thursday,Afternoon,02:00,1,['Kelvin Hall'],[500],False
+107,D23315E1,20,Wednesday,Afternoon,02:00,4,['Adam Smith 915'],[26],False
+108,D23336E1,26,Friday,Afternoon,02:00,7,['WILTF'],[60],False
+109,D23342E1,23,Thursday,Afternoon,02:00,1,['Kelvin Gallery'],[230],False
+110,D23360E1,13,Monday,Morning,02:00,8,['St Andrews Rm 237'],[30],False
+111,EN00C1E1,23,Thursday,Afternoon,02:00,18,['Joseph Black C407 (no lift)'],[25],False
+112,EN00P1E1,8,Friday,Afternoon,02:00,21,['James Watt Design Studio A'],[54],False
+113,EN00P3E1,1,Wednesday,Morning,02:00,25,['Kelvin Hall'],[500],False
+114,EN00P5E1,4,Thursday,Morning,02:00,26,['Kelvin Hall'],[500],False
+115,EN00P7E1,13,Monday,Morning,02:00,22,['Kelvin Hall'],[500],False
+116,F11I01E1,15,Monday,Evening,01:00,109,['St Andrews Gym Hall'],[110],False
+117,F11I02E1,2,Wednesday,Afternoon,02:00,110,['Bute'],[230],False
+118,F11O01E1,18,Tuesday,Evening,01:00,108,['Hunter East'],[195],False
+119,F11O02E1,14,Monday,Afternoon,02:00,112,['Hunter West'],[195],False
+120,F11P01E1,9,Friday,Evening,01:00,88,['Bute'],[230],False
+121,F11P02E1,4,Thursday,Morning,02:00,129,['Hunter West'],[195],False
+122,F12I01E1,24,Thursday,Evening,01:00,20,['Sir Charles Wilson'],[60],False
+123,F12I02E1,14,Monday,Afternoon,02:00,122,"['Hunter West', 'Hunter East']","[195, 195]",False
+124,F12O01E1,4,Thursday,Morning,02:00,20,['James Watt Design Studio B'],[69],False
+125,F12O02E1,19,Wednesday,Morning,02:00,114,['Kelvin Hall'],[500],False
+126,F12P01E1,15,Monday,Evening,01:00,20,['Kelvin Gallery'],[230],False
+127,F12P02E1,25,Friday,Morning,02:00,122,['Kelvin Gallery'],[230],False
+128,F12P03E1,10,Saturday,Morning,02:00,9,['St Andrews Gym Hall'],[110],False
+129,F12X02E1,11,Saturday,Afternoon,02:00,65,['Randolph'],[85],False
+130,F12X04E1,3,Wednesday,Evening,01:30,9,['St Andrews Rm 237'],[30],False
+131,F12X04E2,24,Thursday,Evening,01:30,9,['Gilbert Scott Conf Suite Rm 253'],[40],False
+132,F12X04E3,18,Tuesday,Evening,01:30,9,['Kelvin Hall'],[500],False
+133,F12X05E1,16,Tuesday,Morning,02:00,9,['Kelvin Hall'],[500],False
+134,F13I01E1,6,Thursday,Evening,01:00,30,['Kelvin Hall'],[500],False
+135,F13I02E1,13,Monday,Morning,02:00,103,['OTC'],[110],False
+136,F13I03E1,3,Wednesday,Evening,01:00,15,['Fore'],[64],False
+137,F13I05E1,9,Friday,Evening,01:00,1,['Adam Smith 915'],[26],False
+138,F13I06E1,6,Thursday,Evening,01:00,1,['OTC'],[110],False
+139,F13O01E1,10,Saturday,Morning,02:00,29,['Gilbert Scott Conf Suite Rm 250'],[40],False
+140,F13O02E1,25,Friday,Morning,02:00,103,['Bute'],[230],False
+141,F13O03E1,27,Friday,Evening,01:00,15,['Kelvin Hall'],[500],False
+142,F13O06E1,21,Wednesday,Evening,01:00,1,['Gilbert Scott Conf Suite Rm 356'],[40],False
+143,F13P01E1,1,Wednesday,Morning,02:00,111,['Bute'],[230],False
+144,F13P02E1,7,Friday,Morning,02:00,11,['Rankine 629'],[53],False
+145,F13P03E1,24,Thursday,Evening,01:00,44,['St Andrews Rm 227 '],[50],False
+146,F13P05E1,9,Friday,Evening,01:00,8,['Kelvin Blg Rm 323/324'],[50],False
+147,F13X01E1,1,Wednesday,Morning,02:00,11,['Kelvin Hall'],[500],False
+148,F13X03E1,21,Wednesday,Evening,01:00,18,['Randolph'],[85],False
+149,F13X04E1,16,Tuesday,Morning,02:00,86,['OTC'],[110],False
+150,F311A1E1,9,Friday,Evening,01:00,52,"['James Watt Design Studio A', 'John McIntyre Rm 201']","[54, 100]",False
+151,F311B1E1,3,Wednesday,Evening,01:00,43,['St Andrews Rm 227 '],[50],False
+152,F311E1E1,24,Thursday,Evening,01:00,106,['Hunter East'],[195],False
+153,F311M0E1,6,Thursday,Evening,01:00,103,['OTC'],[110],False
+154,F311M1E1,11,Saturday,Afternoon,01:00,161,['Kelvin Hall'],[500],False
+155,F311Q1E1,1,Wednesday,Morning,01:00,157,['Kelvin Hall'],[500],False
+156,F311T1E1,26,Friday,Afternoon,01:00,175,['Kelvin Hall'],[500],False
+157,F311V1E1,15,Monday,Evening,01:00,47,['OTC'],[110],False
+158,F311X1E1,6,Thursday,Evening,01:00,37,['Gilbert Scott Conf Suite Rm 250'],[40],False
+159,F311X2E1,7,Friday,Morning,01:00,25,['Joseph Black C407 (no lift)'],[25],False
+160,F311X4E1,22,Thursday,Morning,01:00,67,['Randolph'],[85],False
+161,F311Z1E1,8,Friday,Afternoon,01:00,144,['Kelvin Hall'],[500],False
+162,F321C6E1,22,Thursday,Morning,02:00,11,['Gilbert Scott Conf Suite Rm 251'],[15],False
+163,F321E4E1,27,Friday,Evening,01:00,13,['Kelvin Hall'],[500],False
+164,F321M1E1,5,Thursday,Afternoon,02:00,94,['John McIntyre Rm 201'],[100],False
+165,F321Q2E1,19,Wednesday,Morning,02:00,98,['Hunter West'],[195],False
+166,F321Q6E1,10,Saturday,Morning,02:00,18,['WILT 112'],[50],False
+167,F321Q9E1,26,Friday,Afternoon,02:00,9,['St Andrews Rm 227 '],[50],False
+168,F321S6E1,13,Monday,Morning,02:00,18,['James Watt Design Studio A'],[54],False
+169,F321T2E1,2,Wednesday,Afternoon,02:00,95,['OTC'],[110],False
+170,F321T6E1,7,Friday,Morning,02:00,18,['James Watt Design Studio A'],[54],False
+171,F321Z3E1,17,Tuesday,Afternoon,02:00,106,['Bute'],[230],False
+172,F331M9E1,22,Thursday,Morning,02:00,8,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+173,F331N3E1,14,Monday,Afternoon,02:00,65,['Kelvin Hall'],[500],False
+174,F331N6E1,16,Tuesday,Morning,02:00,22,['James Watt Design Studio B'],[69],False
+175,F331O6E1,8,Friday,Afternoon,02:00,26,['OTC'],[110],False
+176,F331Q3E1,26,Friday,Afternoon,02:00,82,['Hunter East'],[195],False
+177,F331S2E1,4,Thursday,Morning,02:00,82,['Randolph'],[85],False
+178,F331S9E1,13,Monday,Morning,02:00,22,"['St Andrews Rm 237', 'Adam Smith 915']","[30, 26]",False
+179,F331X3E1,17,Tuesday,Afternoon,02:00,14,['Fore'],[64],False
+180,F331X5E1,21,Wednesday,Evening,01:00,5,['Gilbert Scott Conf Suite Rm 251'],[15],False
+181,F331Z4E1,11,Saturday,Afternoon,02:00,66,"['Randolph', 'James Watt Design Studio B']","[85, 69]",False
+182,F331Z8E1,5,Thursday,Afternoon,02:00,9,['St Andrews Gym Hall'],[110],False
+183,F3B1B3E1,25,Friday,Morning,02:00,40,['Kelvin Blg Rm 323/324'],[50],False
+184,F3B1X4E1,22,Thursday,Morning,02:00,78,['Senate'],[80],False
+185,G111ACE1,26,Friday,Afternoon,02:00,34,['Rankine 629'],[53],False
+186,G111CCE1,21,Wednesday,Evening,01:00,59,['Kelvin Gallery'],[230],False
+187,G111DGE1,19,Wednesday,Morning,02:00,15,['Gilbert Scott Conf Suite Rm 251'],[15],False
+188,G111GAE1,20,Wednesday,Afternoon,02:00,71,['St Andrews Gym Hall'],[110],False
+189,G111GBE1,13,Monday,Morning,02:00,222,['Kelvin Hall'],[500],False
+190,G111MCE1,27,Friday,Evening,01:30,3,['Kelvin Hall'],[500],False
+191,G111VAE1,4,Thursday,Morning,02:00,165,['Kelvin Hall'],[500],False
+192,G111VBE1,22,Thursday,Morning,02:00,24,['Kelvin Gallery'],[230],False
+193,G11AS1E1,7,Friday,Morning,02:00,69,['James Watt Design Studio B'],[69],False
+194,G11MA1E1,13,Monday,Morning,03:00,172,['Kelvin Gallery'],[230],False
+195,G11MA2E1,19,Wednesday,Morning,02:00,40,['Sir Charles Wilson'],[60],False
+196,G11PR1E1,16,Tuesday,Morning,02:00,165,"['Hunter West', 'Kelvin Hall']","[195, 500]",False
+197,G12AL1E1,22,Thursday,Morning,02:00,109,"['OTC', 'St Andrews Gym Hall']","[110, 110]",False
+198,G12AN1E1,14,Monday,Afternoon,02:00,103,['OTC'],[110],False
+199,G12ME1E1,5,Thursday,Afternoon,02:00,108,['Kelvin Hall'],[500],False
+200,G12MM1E1,20,Wednesday,Afternoon,02:00,109,['Kelvin Gallery'],[230],False
+201,G12PR1E1,10,Saturday,Morning,02:00,115,['Hunter West'],[195],False
+202,G12ST1E1,7,Friday,Morning,02:00,112,['Bute'],[230],False
+203,G13AL4E1,2,Wednesday,Afternoon,02:00,11,['Gilbert Scott Conf Suite Rm 251'],[15],False
+204,G13AN4E1,23,Thursday,Afternoon,02:00,7,['John McIntyre Rm 208'],[40],False
+205,G13AS5E1,13,Monday,Morning,02:00,19,['Senate'],[80],False
+206,G13CM2E1,20,Wednesday,Afternoon,02:00,45,['Kelvin Blg Rm 220'],[50],False
+207,G13CS2E1,17,Tuesday,Afternoon,02:00,10,['Kelvin Blg Rm 323/324'],[50],False
+208,G13LA1E1,13,Monday,Morning,02:00,4,['Joseph Black C407 (no lift)'],[25],False
+209,G13LO1E1,7,Friday,Morning,02:00,47,['Kelvin Hall'],[500],False
+210,G13MM2E1,26,Friday,Afternoon,02:00,29,['Gilbert Scott Conf Suite Rm 253'],[40],False
+211,G13PR2E1,16,Tuesday,Morning,02:00,7,['John McIntyre Rm 201'],[100],False
+212,G13QT1E1,10,Saturday,Morning,02:00,31,['WILTF'],[60],False
+213,G13RE1E1,16,Tuesday,Morning,02:00,7,['WILT 112'],[50],False
+214,G13RE2E1,1,Wednesday,Morning,02:00,34,['John McIntyre Rm 201'],[100],False
+215,G13SP2E1,23,Thursday,Afternoon,02:00,23,['Kelvin Hall'],[500],False
+216,G13ST3E1,4,Thursday,Morning,02:00,16,['Kelvin Gallery'],[230],False
+217,G13ST6E1,8,Friday,Afternoon,02:00,39,['Kelvin Gallery'],[230],False
+218,G51DSDE1,1,Wednesday,Morning,01:45,55,['OTC'],[110],False
+219,G51HOCE1,5,Thursday,Afternoon,02:00,28,['St Andrews Rm 237'],[30],False
+220,G51MC1E1,11,Saturday,Afternoon,02:00,65,['Kelvin Gallery'],[230],False
+221,G52ALGE1,26,Friday,Afternoon,02:00,62,['Senate'],[80],False
+222,G52OBJE1,17,Tuesday,Afternoon,02:00,61,"['Fore', 'Kelvin Hall']","[64, 500]",False
+223,G53FSPE1,1,Wednesday,Morning,01:45,49,['Bute'],[230],False
+224,G53LCTE1,23,Thursday,Afternoon,01:45,13,['Kelvin Gallery'],[230],False
+225,G53RDBE1,4,Thursday,Morning,02:00,14,['Kelvin Hall'],[500],False
+226,G53VIPE1,20,Wednesday,Afternoon,01:45,25,['OTC'],[110],False
+227,G5ABELE1,8,Friday,Afternoon,01:45,28,['Senate'],[80],False
+228,G5BAIPE1,22,Thursday,Morning,01:45,31,['WILT 112'],[50],False
+229,G5BCCNE1,19,Wednesday,Morning,02:00,81,['Bute'],[230],False
+230,G5BDBSE1,10,Saturday,Morning,02:00,61,['Hunter East'],[195],False
+231,G5BGRAE1,14,Monday,Afternoon,01:45,53,['Bute'],[230],False
+232,G5BSBBE1,7,Friday,Morning,01:45,9,['Gilbert Scott Conf Suite Rm 251'],[15],False
+233,G5P002E1,14,Monday,Afternoon,02:00,49,"['Kelvin Blg Rm 323/324', 'Fore']","[50, 64]",False
+234,G5P005E1,26,Friday,Afternoon,02:00,56,['Kelvin Hall'],[500],False
+235,H21B00E1,7,Friday,Morning,02:00,90,"['St Andrews Gym Hall', 'John McIntyre Rm 201']","[110, 100]",False
+236,H21H01E1,23,Thursday,Afternoon,02:00,80,['Senate'],[80],False
+237,H21M01E1,13,Monday,Morning,02:00,92,['Hunter East'],[195],False
+238,H22C20E1,8,Friday,Afternoon,02:00,63,['Fore'],[64],False
+239,H22G06E1,5,Thursday,Afternoon,02:00,9,['Joseph Black A504'],[25],False
+240,H22M02E1,4,Thursday,Morning,02:00,76,['Kelvin Hall'],[500],False
+241,H22S02E1,25,Friday,Morning,02:00,75,['OTC'],[110],False
+242,H22V02E1,1,Wednesday,Morning,02:00,75,['Kelvin Hall'],[500],False
+243,H23C20E1,20,Wednesday,Afternoon,02:00,47,['Kelvin Hall'],[500],False
+244,H23CEOE1,5,Thursday,Afternoon,02:00,18,['Rankine 630'],[55],False
+245,H24C20E1,14,Monday,Afternoon,02:00,15,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+246,H2CG03E1,26,Friday,Afternoon,02:00,43,['Kelvin Hall'],[500],False
+247,H2CH04E1,1,Wednesday,Morning,02:00,17,['Gilbert Scott Conf Suite Rm 253'],[40],False
+248,H2CH05E1,17,Tuesday,Afternoon,02:00,92,['Bute'],[230],False
+249,H2CM04E1,23,Thursday,Afternoon,02:00,81,['Kelvin Hall'],[500],False
+250,H2CP01E1,8,Friday,Afternoon,02:00,71,['Bute'],[230],False
+251,H2CS05E1,10,Saturday,Morning,02:00,39,"['WILTF', 'St Andrews Rm 227 ']","[60, 50]",False
+252,H2CS06E1,4,Thursday,Morning,02:00,50,['Bute'],[230],False
+253,H2CT01E1,16,Tuesday,Morning,02:00,95,['St Andrews Gym Hall'],[110],False
+254,H2CV03E1,11,Saturday,Afternoon,02:00,16,['Kelvin Blg Rm 323/324'],[50],False
+255,H31BDAE1,4,Thursday,Morning,02:00,127,['Kelvin Hall'],[500],False
+256,H31DM1E1,8,Friday,Afternoon,02:00,125,['Kelvin Hall'],[500],False
+257,H31ENCE1,15,Monday,Evening,01:30,97,"['St Andrews Gym Hall', 'Kelvin Hall']","[110, 500]",False
+258,H33CONE1,14,Monday,Afternoon,02:00,78,['Kelvin Gallery'],[230],False
+259,H33MI2E1,7,Friday,Morning,02:00,75,['Kelvin Hall'],[500],False
+260,H3AFM1E1,25,Friday,Morning,02:00,102,"['OTC', 'St Andrews Gym Hall']","[110, 110]",False
+261,H3BDM3E1,17,Tuesday,Afternoon,02:00,118,['Kelvin Hall'],[500],False
+262,H3BFM2E1,24,Thursday,Evening,01:00,65,['Bute'],[230],False
+263,H3BFM2E2,3,Wednesday,Evening,01:00,65,"['OTC', 'James Watt Design Studio B']","[110, 69]",False
+264,H3BMDYE1,11,Saturday,Afternoon,02:00,106,['Kelvin Hall'],[500],False
+265,H3BMS2E1,20,Wednesday,Afternoon,02:00,124,['Bute'],[230],False
+266,H3CDMSE1,20,Wednesday,Afternoon,03:00,49,"['St Andrews Gym Hall', 'Kelvin Blg Rm 323/324']","[110, 50]",False
+267,H3CENIE1,22,Thursday,Morning,02:00,42,['WILTF'],[60],False
+268,H3CFM3E1,17,Tuesday,Afternoon,03:00,4,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+269,H3CFRCE1,1,Wednesday,Morning,02:00,42,['Sir Charles Wilson'],[60],False
+270,H3CMECE1,17,Tuesday,Afternoon,02:00,23,['Randolph'],[85],False
+271,H3CNUEE1,26,Friday,Afternoon,02:00,33,['Kelvin Hall'],[500],False
+272,H3CPOEE1,4,Thursday,Morning,02:00,38,['Kelvin Gallery'],[230],False
+273,H3CTSEE1,5,Thursday,Afternoon,03:00,11,['Kelvin Blg Rm 220'],[50],False
+274,H51100E1,17,Tuesday,Afternoon,02:00,114,['Kelvin Gallery'],[230],False
+275,H51140E1,27,Friday,Evening,01:00,101,['Kelvin Hall'],[500],False
+276,H51200E1,1,Wednesday,Morning,02:00,71,['Hunter East'],[195],False
+277,H52110E1,14,Monday,Afternoon,02:00,90,['John McIntyre Rm 201'],[100],False
+278,H53171E1,17,Tuesday,Afternoon,02:00,105,['Kelvin Hall'],[500],False
+279,H5C112E1,20,Wednesday,Afternoon,02:00,26,['Kelvin Gallery'],[230],False
+280,H5C113E1,5,Thursday,Afternoon,02:00,57,['Kelvin Hall'],[500],False
+281,H5C142E1,8,Friday,Afternoon,02:00,31,['Gilbert Scott Conf Suite Rm 250'],[40],False
+282,H61120E1,11,Saturday,Afternoon,02:00,115,['Bute'],[230],False
+283,H62131E1,4,Thursday,Morning,02:00,97,['Bute'],[230],False
+284,H62160E1,11,Saturday,Afternoon,02:00,99,['St Andrews Gym Hall'],[110],False
+285,H63122E1,14,Monday,Afternoon,02:00,97,['Kelvin Hall'],[500],False
+286,H6C133E1,20,Wednesday,Afternoon,02:00,34,['Hunter East'],[195],False
+287,H6C152E1,27,Friday,Evening,01:00,44,['Kelvin Hall'],[500],False
+288,H6C162E1,23,Thursday,Afternoon,02:00,60,['Fore'],[64],False
+289,H6P001E1,10,Saturday,Morning,02:00,4,['Rankine 601'],[37],False
+290,H6P002E1,1,Wednesday,Morning,02:00,25,['Bute'],[230],False
+291,H71EMPE1,14,Monday,Afternoon,02:00,61,"['Fore', 'Kelvin Gallery']","[64, 230]",False
+292,H71IWEE1,25,Friday,Morning,02:00,97,"['John McIntyre Rm 201', 'Hunter West']","[100, 195]",False
+293,H71MIPE1,1,Wednesday,Morning,02:00,87,['Kelvin Hall'],[500],False
+294,H71MS1E1,7,Friday,Morning,02:00,28,['Bute'],[230],False
+295,H72ENTE1,13,Monday,Morning,03:00,17,['Kelvin Hall'],[500],False
+296,H72IRNE1,5,Thursday,Afternoon,02:00,68,['James Watt Design Studio B'],[69],False
+297,H72LOGE1,2,Wednesday,Afternoon,02:00,23,['Bute'],[230],False
+298,H72NNSE1,11,Saturday,Afternoon,02:00,65,['John McIntyre Rm 201'],[100],False
+299,H7ACS1E1,21,Wednesday,Evening,01:30,92,['John McIntyre Rm 201'],[100],False
+300,H7BEGDE1,8,Friday,Afternoon,02:00,65,['Randolph'],[85],False
+301,H7BMACE1,14,Monday,Afternoon,02:00,24,['James Watt Design Studio B'],[69],False
+302,H7BMOQE1,23,Thursday,Afternoon,02:00,120,['Bute'],[230],False
+303,H7CAMFE1,20,Wednesday,Afternoon,02:00,30,['St Andrews Rm 237'],[30],False
+304,H7CCNGE1,11,Saturday,Afternoon,02:00,25,['Rankine 629'],[53],False
+305,H7CEPDE1,1,Wednesday,Morning,02:00,21,['James Watt Design Studio B'],[69],False
+306,H7CFAME1,17,Tuesday,Afternoon,02:00,43,['Rankine 629'],[53],False
+307,H7CFOOE1,26,Friday,Afternoon,02:00,41,['St Andrews Gym Hall'],[110],False
+308,H7CHCME1,8,Friday,Afternoon,02:00,25,['James Watt Design Studio B'],[69],False
+309,H7CLASE1,10,Saturday,Morning,02:00,9,['Kelvin Blg Rm 220'],[50],False
+310,H7CMSGE1,5,Thursday,Afternoon,02:00,66,['Kelvin Hall'],[500],False
+311,H7CORGE1,13,Monday,Morning,02:00,22,['WILTF'],[60],False
+312,H7CSERE1,20,Wednesday,Afternoon,02:00,20,['Joseph Black C407 (no lift)'],[25],False
+313,H7CSIME1,23,Thursday,Afternoon,02:00,12,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+314,H7CSURE1,8,Friday,Afternoon,02:00,17,['John McIntyre Rm 208'],[40],False
+315,H81022E1,20,Wednesday,Afternoon,02:00,64,['Senate'],[80],False
+316,H81050E1,9,Friday,Evening,01:00,62,['Senate'],[80],False
+317,H82006E1,5,Thursday,Afternoon,02:00,61,['Fore'],[64],False
+318,H82024E1,11,Saturday,Afternoon,02:00,60,['Senate'],[80],False
+319,H82029E1,22,Thursday,Morning,02:00,63,['James Watt Design Studio B'],[69],False
+320,H82046E1,8,Friday,Afternoon,02:00,63,['Kelvin Hall'],[500],False
+321,H83024E1,1,Wednesday,Morning,02:00,67,['Kelvin Gallery'],[230],False
+322,H8A009E1,10,Saturday,Morning,02:00,42,['Rankine 630'],[55],False
+323,H8A011E1,23,Thursday,Afternoon,02:00,63,['Kelvin Hall'],[500],False
+324,H8B040E1,25,Friday,Morning,02:00,68,"['Kelvin Gallery', 'Kelvin Hall']","[230, 500]",False
+325,H8B045E1,14,Monday,Afternoon,02:00,63,['Hunter East'],[195],False
+326,H8C001E1,16,Tuesday,Morning,02:00,32,['Fore'],[64],False
+327,H8C002E1,13,Monday,Morning,02:00,33,['Kelvin Blg Rm 323/324'],[50],False
+328,H8C019E1,7,Friday,Morning,02:00,58,['Kelvin Gallery'],[230],False
+329,H8C039E1,20,Wednesday,Afternoon,02:00,69,['Hunter West'],[195],False
+330,H8C043E1,19,Wednesday,Morning,02:00,34,['Randolph'],[85],False
+331,HG1EM0E1,19,Wednesday,Morning,02:00,58,['Kelvin Gallery'],[230],False
+332,HG1J1AE1,7,Friday,Morning,02:00,23,"['Senate', 'Randolph']","[80, 85]",False
+333,HG1J1BE1,2,Wednesday,Afternoon,02:00,24,['Senate'],[80],False
+334,HG1S1CE1,11,Saturday,Afternoon,02:00,18,['OTC'],[110],False
+335,HG2J3AE1,20,Wednesday,Afternoon,02:00,29,['Kelvin Hall'],[500],False
+336,HG2J3BE1,17,Tuesday,Afternoon,02:00,29,['Kelvin Hall'],[500],False
+337,HG2J3DE1,26,Friday,Afternoon,02:00,27,['John McIntyre Rm 201'],[100],False
+338,HG2J4AE1,14,Monday,Afternoon,02:00,28,['Kelvin Blg Rm 220'],[50],False
+339,HG2S3EE1,5,Thursday,Afternoon,02:00,23,['Joseph Black C407 (no lift)'],[25],False
+340,HG3J5AE1,4,Thursday,Morning,02:30,15,['Kelvin Blg Rm 220'],[50],False
+341,HG3J5BE1,19,Wednesday,Morning,02:00,14,['Gilbert Scott Conf Suite Rm 250'],[40],False
+342,HG3J5GE1,1,Wednesday,Morning,02:00,8,"['59 Oakfield Ave Rm 302 (no lift)', 'John McIntyre Rm 201']","[10, 100]",False
+343,HG3S5EE1,13,Monday,Morning,02:30,19,['Kelvin Gallery'],[230],False
+344,HG3S5FE1,14,Monday,Afternoon,02:30,11,['Kelvin Gallery'],[230],False
+345,HGAEM2E1,19,Wednesday,Morning,02:00,542,"['59 Oakfield Ave Rm 302 (no lift)', 'Randolph', 'Rankine 630', 'WILTF', 'Sir Charles Wilson', 'Fore', 'James Watt Design Studio B', 'Senate', 'John McIntyre Rm 201', 'Rankine 629', 'OTC']","[10, 85, 55, 60, 60, 64, 69, 80, 100, 53, 110]",False
+346,HGBEM3E1,13,Monday,Morning,02:00,340,"['Kelvin Hall', 'WILTF', 'Gilbert Scott Conf Suite Rm 253', 'Gilbert Scott Conf Suite Rm 356']","[500, 60, 40, 40]",False
+347,HGBEM4E1,17,Tuesday,Afternoon,02:00,17,['Randolph'],[85],False
+348,HGCEMAE1,10,Saturday,Morning,02:00,2,['St Andrews Rm 237'],[30],False
+349,HGCEMBE1,11,Saturday,Afternoon,02:00,38,['Gilbert Scott Conf Suite Rm 356'],[40],False
+350,HGCEMCE1,26,Friday,Afternoon,02:00,6,['Joseph Black C407 (no lift)'],[25],False
+351,HGCEMME1,3,Wednesday,Evening,02:00,90,['Kelvin Hall'],[500],False
+352,J1A102E1,1,Wednesday,Morning,02:00,45,['Kelvin Hall'],[500],False
+353,J1A110E1,8,Friday,Afternoon,02:00,43,['WILT 112'],[50],False
+354,J1A111E1,23,Thursday,Afternoon,02:00,44,['WILT 112'],[50],False
+355,J1A112E1,23,Thursday,Afternoon,02:00,11,['Rankine 630'],[55],False
+356,J1A202E1,26,Friday,Afternoon,02:00,44,['Fore'],[64],False
+357,J1A203E1,6,Thursday,Evening,01:30,48,['Kelvin Gallery'],[230],False
+358,J1B109E1,26,Friday,Afternoon,02:00,47,['James Watt Design Studio A'],[54],False
+359,J1B111E1,4,Thursday,Morning,02:00,56,['WILTF'],[60],False
+360,J1B113E1,1,Wednesday,Morning,02:00,47,"['Rankine 629', 'Kelvin Blg Rm 220']","[53, 50]",False
+361,J1B115E1,22,Thursday,Morning,02:00,11,['Adam Smith 915'],[26],False
+362,J1B116E1,25,Friday,Morning,02:00,11,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+363,J1B117E1,16,Tuesday,Morning,02:00,59,"['St Andrews Gym Hall', 'Bute']","[110, 230]",False
+364,J1B203E1,7,Friday,Morning,02:00,11,['Hunter West'],[195],False
+365,J1C106E1,17,Tuesday,Afternoon,02:00,20,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+366,J1C111E1,26,Friday,Afternoon,02:00,35,['Rankine 601'],[37],False
+367,J1C112E1,14,Monday,Afternoon,02:00,37,['St Andrews Rm 227 '],[50],False
+368,J1C116E1,25,Friday,Morning,02:00,10,['Rankine 601'],[37],False
+369,J1C119E1,10,Saturday,Morning,02:00,40,['James Watt Design Studio A'],[54],False
+370,J1C122E1,7,Friday,Morning,02:00,10,['St Andrews Rm 234'],[40],False
+371,J1C125E1,14,Monday,Afternoon,03:00,11,"['OTC', 'Gilbert Scott Conf Suite Rm 251']","[110, 15]",False
+372,J1C205E1,10,Saturday,Morning,02:00,11,['Kelvin Hall'],[500],False
+373,J1C227E1,22,Thursday,Morning,02:00,17,['James Watt Design Studio A'],[54],False
+374,J51IMAE1,23,Thursday,Afternoon,02:00,47,"['Rankine 630', 'St Andrews Rm 227 ']","[55, 50]",False
+375,J51R01E1,16,Tuesday,Morning,02:00,104,['Hunter East'],[195],False
+376,J52EMME1,1,Wednesday,Morning,02:00,36,['Gilbert Scott Conf Suite Rm 356'],[40],False
+377,J5BORME1,1,Wednesday,Morning,02:00,12,['St Andrews Rm 237'],[30],False
+378,J5BSMAE1,25,Friday,Morning,02:00,14,['Sir Charles Wilson'],[60],False
+379,J5BSTME1,7,Friday,Morning,02:00,42,['Rankine 630'],[55],False
+380,J5CCCEE1,14,Monday,Afternoon,02:00,29,['Gilbert Scott Conf Suite Rm 250'],[40],False
+381,J5CCRME1,19,Wednesday,Morning,02:00,25,['Kelvin Gallery'],[230],False
+382,J5CMUSE1,16,Tuesday,Morning,02:00,46,"['OTC', 'Hunter East']","[110, 195]",False
+383,K1AEU1E1,26,Friday,Afternoon,02:00,53,['WILTF'],[60],False
+384,K1AHRSE1,4,Thursday,Morning,02:00,53,['James Watt Design Studio A'],[54],False
+385,K1AHWAE2,21,Wednesday,Evening,00:50,58,"['Kelvin Gallery', 'Randolph']","[230, 85]",False
+386,K1APADE1,17,Tuesday,Afternoon,02:00,59,['Sir Charles Wilson'],[60],False
+387,K1ATS1E1,7,Friday,Morning,02:00,54,['Hunter West'],[195],False
+388,K1BACOE1,4,Thursday,Morning,02:00,52,['Rankine 629'],[53],False
+389,K1BBS1E1,1,Wednesday,Morning,02:00,48,['WILT 112'],[50],False
+390,K1BCSTE1,13,Monday,Morning,02:00,48,['Rankine 629'],[53],False
+391,K1BTMSE1,19,Wednesday,Morning,02:00,51,['James Watt Design Studio A'],[54],False
+392,K41110E1,15,Monday,Evening,01:30,31,['Kelvin Blg Rm 220'],[50],False
+393,K41210E1,9,Friday,Evening,01:30,30,['James Watt Design Studio B'],[69],False
+394,K42120E1,3,Wednesday,Evening,01:30,31,['Kelvin Blg Rm 323/324'],[50],False
+395,K43100E1,6,Thursday,Evening,01:30,28,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+396,K4C110E1,24,Thursday,Evening,01:30,42,['Rankine 629'],[53],False
+397,K4C120E1,9,Friday,Evening,01:30,42,['Kelvin Hall'],[500],False
+398,K4C140E1,18,Tuesday,Evening,01:30,43,['Kelvin Hall'],[500],False
+399,K4C280E1,20,Wednesday,Afternoon,02:00,9,['OTC'],[110],False
+400,K4C290E1,7,Friday,Morning,02:00,8,['Hunter West'],[195],False
+401,K4P100E1,21,Wednesday,Evening,01:30,16,['Kelvin Hall'],[500],False
+402,K4P300E1,17,Tuesday,Afternoon,02:00,21,['Gilbert Scott Conf Suite Rm 253'],[40],False
+403,L11100E1,26,Friday,Afternoon,03:00,160,"['Hunter East', 'Kelvin Hall']","[195, 500]",False
+404,L11101E1,3,Wednesday,Evening,01:30,126,['Kelvin Gallery'],[230],False
+405,L11102E1,6,Thursday,Evening,01:30,63,['John McIntyre Rm 201'],[100],False
+406,L11110E1,20,Wednesday,Afternoon,02:00,25,['John McIntyre Rm 208'],[40],False
+407,L11111E1,2,Wednesday,Afternoon,02:00,32,['Randolph'],[85],False
+408,L11120E1,27,Friday,Evening,01:30,89,['Kelvin Hall'],[500],False
+409,L11130E1,24,Thursday,Evening,01:30,14,['Rankine 630'],[55],False
+410,L11140E1,24,Thursday,Evening,01:30,32,['WILTF'],[60],False
+411,L11150E1,18,Tuesday,Evening,01:30,56,['Kelvin Gallery'],[230],False
+412,L12302E1,22,Thursday,Morning,02:00,107,"['St Andrews Gym Hall', 'Hunter East']","[110, 195]",False
+413,L12303E1,27,Friday,Evening,01:00,137,"['Kelvin Hall', 'Hunter East']","[500, 195]",False
+414,L12310E1,2,Wednesday,Afternoon,02:00,21,['Joseph Black A504'],[25],False
+415,L12320E1,7,Friday,Morning,03:00,31,['Kelvin Hall'],[500],False
+416,L12330E1,4,Thursday,Morning,02:00,35,['John McIntyre Rm 201'],[100],False
+417,L12404E1,24,Thursday,Evening,01:00,105,['Kelvin Hall'],[500],False
+418,L13502E1,27,Friday,Evening,01:30,58,['James Watt Design Studio B'],[69],False
+419,L13503E1,1,Wednesday,Morning,02:00,42,['John McIntyre Rm 201'],[100],False
+420,L13504E1,15,Monday,Evening,01:30,46,['James Watt Design Studio A'],[54],False
+421,L13505E1,10,Saturday,Morning,02:00,68,"['Senate', 'James Watt Design Studio B']","[80, 69]",False
+422,L13507E1,24,Thursday,Evening,01:30,64,['Randolph'],[85],False
+423,L13508E1,21,Wednesday,Evening,01:30,52,"['John McIntyre Rm 201', 'Rankine 629']","[100, 53]",False
+424,L13509E1,6,Thursday,Evening,01:30,33,['Bute'],[230],False
+425,L13510E1,4,Thursday,Morning,02:00,11,['Kelvin Gallery'],[230],False
+426,L13511E1,17,Tuesday,Afternoon,02:00,8,['Rankine 629'],[53],False
+427,L13516E1,18,Tuesday,Evening,01:30,20,['Rankine 629'],[53],False
+428,L13520E1,14,Monday,Afternoon,02:00,15,['James Watt Design Studio A'],[54],False
+429,L13521E1,4,Thursday,Morning,02:00,20,['Rankine 630'],[55],False
+430,L31004E1,23,Thursday,Afternoon,02:00,88,['St Andrews Gym Hall'],[110],False
+431,L31005E1,13,Monday,Morning,02:00,68,['Hunter West'],[195],False
+432,L31013E1,1,Wednesday,Morning,02:00,59,"['OTC', 'Hunter West']","[110, 195]",False
+433,L31073E1,10,Saturday,Morning,02:00,1,['St Andrews Rm 227 '],[50],False
+434,L31097E1,11,Saturday,Afternoon,02:00,62,['Kelvin Gallery'],[230],False
+435,L31107E1,5,Thursday,Afternoon,02:00,48,"['James Watt Design Studio B', 'Sir Charles Wilson']","[69, 60]",False
+436,L31109E1,16,Tuesday,Morning,02:00,52,['Randolph'],[85],False
+437,L3B015E1,17,Tuesday,Afternoon,02:00,34,"['Gilbert Scott Conf Suite Rm 253', 'St Andrews Rm 234']","[40, 40]",False
+438,L3B021E1,14,Monday,Afternoon,02:00,30,['John McIntyre Rm 208'],[40],False
+439,L3B026E1,10,Saturday,Morning,02:00,26,"['Gilbert Scott Conf Suite Rm 250', 'Gilbert Scott Conf Suite Rm 356']","[40, 40]",False
+440,L3B030E1,3,Wednesday,Evening,01:30,27,['St Andrews Gym Hall'],[110],False
+441,L3B032E1,26,Friday,Afternoon,02:00,48,['James Watt Design Studio B'],[69],False
+442,L3B036E1,23,Thursday,Afternoon,02:00,25,['Bute'],[230],False
+443,L3B046E1,6,Thursday,Evening,01:30,21,"['Gilbert Scott Conf Suite Rm 355 (no lift)', 'Rankine 601']","[30, 37]",False
+444,L3B049E1,21,Wednesday,Evening,01:30,35,['Hunter East'],[195],False
+445,L3B090E1,1,Wednesday,Morning,02:00,32,"['WILT 112', 'James Watt Design Studio B']","[50, 69]",False
+446,L3B100E1,21,Wednesday,Evening,01:30,21,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+447,L3C064E1,17,Tuesday,Afternoon,02:00,18,['Hunter East'],[195],False
+448,L3C086E1,13,Monday,Morning,02:00,50,"['Kelvin Gallery', 'James Watt Design Studio B']","[230, 69]",False
+449,L81112E1,2,Wednesday,Afternoon,02:00,89,['Hunter West'],[195],False
+450,L81122E1,19,Wednesday,Morning,02:00,104,['Kelvin Gallery'],[230],False
+451,L82111E1,23,Thursday,Afternoon,02:00,70,['Kelvin Gallery'],[230],False
+452,L82113E1,27,Friday,Evening,01:30,75,['Randolph'],[85],False
+453,L82120E1,3,Wednesday,Evening,01:30,46,['Rankine 629'],[53],False
+454,L82121E1,11,Saturday,Afternoon,01:30,26,['Kelvin Gallery'],[230],False
+455,L82124E1,6,Thursday,Evening,01:30,1,['Kelvin Blg Rm 323/324'],[50],False
+456,L82125E1,1,Wednesday,Morning,02:00,83,"['Kelvin Gallery', 'Bute', 'Hunter East']","[230, 230, 195]",False
+457,L82132E1,9,Friday,Evening,01:30,36,['Kelvin Blg Rm 220'],[50],False
+458,L83112E1,4,Thursday,Morning,02:00,42,"['John McIntyre Rm 201', 'OTC']","[100, 110]",False
+459,L83115E1,7,Friday,Morning,02:00,52,"['John McIntyre Rm 201', 'Rankine 629']","[100, 53]",False
+460,L83118E1,20,Wednesday,Afternoon,02:00,24,['WILT 112'],[50],False
+461,L83120E1,22,Thursday,Morning,02:00,14,['Kelvin Hall'],[500],False
+462,L83121E1,10,Saturday,Morning,02:00,8,['WILT 112'],[50],False
+463,L83122E1,10,Saturday,Morning,02:00,13,['Rankine 601'],[37],False
+464,L83123E1,17,Tuesday,Afternoon,02:00,8,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+465,L83160E1,13,Monday,Morning,03:00,82,['Randolph'],[85],False
+466,LK10FAE1,24,Thursday,Evening,01:00,44,"['St Andrews Rm 227 ', 'St Andrews Gym Hall']","[50, 110]",False
+467,LK10GAE1,6,Thursday,Evening,01:00,50,['Kelvin Hall'],[500],False
+468,LK10IAE1,26,Friday,Afternoon,01:00,53,['Sir Charles Wilson'],[60],False
+469,LK10JAE1,18,Tuesday,Evening,01:00,58,['Fore'],[64],False
+470,LK10KBE1,9,Friday,Evening,01:00,6,['St Andrews Gym Hall'],[110],False
+471,LK10RAE1,21,Wednesday,Evening,01:00,16,"['Rankine 629', 'Adam Smith 915']","[53, 26]",False
+472,LK10SAE1,20,Wednesday,Afternoon,01:00,74,['Kelvin Hall'],[500],False
+473,LK44FAE1,7,Friday,Morning,03:00,32,['Gilbert Scott Conf Suite Rm 356'],[40],False
+474,LK44GAE1,7,Friday,Morning,03:00,11,['Sir Charles Wilson'],[60],False
+475,LK44SAE1,11,Saturday,Afternoon,03:00,9,['Gilbert Scott Conf Suite Rm 251'],[15],False
+476,LKA1FAE1,11,Saturday,Afternoon,02:00,141,"['Joseph Black C407 (no lift)', 'Gilbert Scott Conf Suite Rm 251', '59 Oakfield Ave Rm 302 (no lift)', 'Joseph Black A504', 'Adam Smith 915', 'St Andrews Rm 237', 'Hunter East']","[25, 15, 10, 25, 26, 30, 195]",False
+477,LKA1GAE1,10,Saturday,Morning,02:00,48,"['Kelvin Blg Rm 220', 'James Watt Design Studio A']","[50, 54]",False
+478,LKA1IAE1,10,Saturday,Morning,02:00,11,['Hunter East'],[195],False
+479,LKA1JAE1,17,Tuesday,Afternoon,02:00,6,['Adam Smith 915'],[26],False
+480,LKA1RAE1,10,Saturday,Morning,02:00,9,['St Andrews Rm 237'],[30],False
+481,LKA1SAE1,4,Thursday,Morning,02:00,21,"['Rankine 629', 'Joseph Black A504', 'Rankine 630']","[53, 25, 55]",False
+482,LKB2FAE1,22,Thursday,Morning,01:00,50,['Sir Charles Wilson'],[60],False
+483,LKB2GAE1,18,Tuesday,Evening,01:00,24,['Bute'],[230],False
+484,LKB2JAE1,27,Friday,Evening,01:00,5,['Gilbert Scott Conf Suite Rm 251'],[15],False
+485,LKB2SAE1,18,Tuesday,Evening,01:00,9,['Kelvin Hall'],[500],False
+486,LKC3FAE1,9,Friday,Evening,03:00,51,"['John McIntyre Rm 201', 'Rankine 629']","[100, 53]",False
+487,LKC3GAE1,22,Thursday,Morning,03:00,22,['Kelvin Hall'],[500],False
+488,LKC3RAE1,7,Friday,Morning,03:00,1,['WILTF'],[60],False
+489,LKC3SAE1,17,Tuesday,Afternoon,03:00,3,['WILTF'],[60],False
+490,M11341E1,6,Thursday,Evening,01:30,13,['Gilbert Scott Conf Suite Rm 251'],[15],False
+491,M11343E1,21,Wednesday,Evening,01:30,14,"['Gilbert Scott Conf Suite Rm 251', 'Joseph Black A504']","[15, 25]",False
+492,M11345E1,17,Tuesday,Afternoon,01:30,72,['OTC'],[110],False
+493,M11347E1,1,Wednesday,Morning,01:30,80,"['Kelvin Hall', 'Hunter East', 'Hunter West']","[500, 195, 195]",False
+494,M11351E1,8,Friday,Afternoon,02:00,38,['Kelvin Gallery'],[230],False
+495,M11451E1,13,Monday,Morning,02:00,40,"['Kelvin Blg Rm 323/324', 'Sir Charles Wilson']","[50, 60]",False
+496,M12353E1,25,Friday,Morning,02:00,64,['Kelvin Hall'],[500],False
+497,M12365E1,5,Thursday,Afternoon,02:00,41,['Senate'],[80],False
+498,M13367E1,11,Saturday,Afternoon,02:00,8,['Fore'],[64],False
+499,M13369E1,16,Tuesday,Morning,02:00,41,['Sir Charles Wilson'],[60],False
+500,M13468E1,22,Thursday,Morning,02:00,1,['Kelvin Hall'],[500],False
+501,M1B351E1,27,Friday,Evening,01:30,11,['Adam Smith 915'],[26],False
+502,M1B355E1,1,Wednesday,Morning,02:00,29,"['James Watt Design Studio B', 'John McIntyre Rm 208']","[69, 40]",False
+503,M1B357E1,9,Friday,Evening,01:30,22,['St Andrews Rm 234'],[40],False
+504,M1B359E1,19,Wednesday,Morning,02:00,22,['Rankine 601'],[37],False
+505,M1B363E1,8,Friday,Afternoon,02:00,37,['St Andrews Rm 227 '],[50],False
+506,M1B372E1,2,Wednesday,Afternoon,02:00,33,"['OTC', 'St Andrews Gym Hall']","[110, 110]",False
+507,M1B373E1,13,Monday,Morning,02:00,34,"['Randolph', 'Bute']","[85, 230]",False
+508,M1B374E1,14,Monday,Afternoon,02:00,15,['WILTF'],[60],False
+509,M1B380E1,21,Wednesday,Evening,01:30,17,"['Joseph Black A504', 'Kelvin Hall']","[25, 500]",False
+510,M1B382E1,17,Tuesday,Afternoon,02:00,13,['Rankine 630'],[55],False
+511,M31001E1,11,Saturday,Afternoon,02:00,171,['Hunter West'],[195],False
+512,M31006E1,13,Monday,Morning,02:00,82,['Hunter East'],[195],False
+513,M31012E1,14,Monday,Afternoon,02:00,168,['Kelvin Hall'],[500],False
+514,M33036E1,17,Tuesday,Afternoon,02:00,10,['Kelvin Hall'],[500],False
+515,M33042E1,14,Monday,Afternoon,02:00,97,"['Hunter East', 'Kelvin Gallery', 'Kelvin Hall']","[195, 230, 500]",False
+516,M33053E1,11,Saturday,Afternoon,02:00,28,['Kelvin Blg Rm 220'],[50],False
+517,M33059E1,10,Saturday,Morning,03:00,30,"['Rankine 630', 'Randolph']","[55, 85]",False
+518,M33060E1,1,Wednesday,Morning,02:00,82,"['St Andrews Gym Hall', 'Hunter West']","[110, 195]",False
+519,M33064E1,23,Thursday,Afternoon,02:00,29,['Kelvin Gallery'],[230],False
+520,M33074E1,19,Wednesday,Morning,02:00,48,['Kelvin Blg Rm 323/324'],[50],False
+521,M3A002E1,2,Wednesday,Afternoon,02:00,155,"['Bute', 'Hunter East']","[230, 195]",False
+522,M3A010E1,15,Monday,Evening,01:30,187,['Kelvin Hall'],[500],False
+523,M3A015E1,27,Friday,Evening,01:30,176,['Bute'],[230],False
+524,M3A019E1,9,Friday,Evening,01:30,42,['Kelvin Gallery'],[230],False
+525,M3B030E1,3,Wednesday,Evening,02:00,184,['Kelvin Hall'],[500],False
+526,M3B031E1,25,Friday,Morning,02:00,58,['Senate'],[80],False
+527,M3B034E1,17,Tuesday,Afternoon,02:00,21,['OTC'],[110],False
+528,M3B043E1,22,Thursday,Morning,02:00,51,"['Randolph', 'Senate', 'Kelvin Hall']","[85, 80, 500]",False
+529,M3B049E1,7,Friday,Morning,02:00,9,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+530,M3B055E1,4,Thursday,Morning,02:00,63,['Bute'],[230],False
+531,M3B057E1,7,Friday,Morning,02:00,28,['Kelvin Blg Rm 220'],[50],False
+532,M3B062E1,16,Tuesday,Morning,02:00,12,['Bute'],[230],False
+533,M3B066E1,27,Friday,Evening,02:00,76,['Kelvin Gallery'],[230],False
+534,N11102E1,8,Friday,Afternoon,02:00,155,['Hunter East'],[195],False
+535,N11103E1,5,Thursday,Afternoon,02:00,90,['Kelvin Gallery'],[230],False
+536,N12203E1,15,Monday,Evening,01:30,102,"['OTC', 'Kelvin Hall']","[110, 500]",False
+537,N12403E1,1,Wednesday,Morning,02:00,81,['Randolph'],[85],False
+538,N13301E1,14,Monday,Afternoon,02:00,20,['Adam Smith 915'],[26],False
+539,N13302E1,4,Thursday,Morning,02:00,17,"['Hunter West', 'Bute']","[195, 230]",False
+540,N13303E1,3,Wednesday,Evening,01:30,67,['Hunter East'],[195],False
+541,N13304E1,2,Wednesday,Afternoon,01:30,125,"['Hunter West', 'Kelvin Hall']","[195, 500]",False
+542,N13305E1,11,Saturday,Afternoon,02:10,28,['Kelvin Gallery'],[230],False
+543,N1A104E1,13,Monday,Morning,01:30,62,"['Sir Charles Wilson', 'Rankine 630']","[60, 55]",False
+544,N1A110E1,22,Thursday,Morning,01:30,83,['Kelvin Hall'],[500],False
+545,N1A402E1,6,Thursday,Evening,02:00,83,['Kelvin Hall'],[500],False
+546,N1B201E1,2,Wednesday,Afternoon,01:30,120,['Kelvin Hall'],[500],False
+547,N1B202E1,16,Tuesday,Morning,01:30,123,['Kelvin Hall'],[500],False
+548,N1B404E1,17,Tuesday,Afternoon,02:00,30,['Randolph'],[85],False
+549,N1B405E1,5,Thursday,Afternoon,02:00,45,"['Sir Charles Wilson', 'WILT 112']","[60, 50]",False
+550,N1B406E1,21,Wednesday,Evening,01:30,48,['Fore'],[64],False
+551,N1B407E1,26,Friday,Afternoon,02:00,38,"['Gilbert Scott Conf Suite Rm 253', 'Randolph']","[40, 85]",False
+552,N1B408E1,10,Saturday,Morning,02:00,14,['Gilbert Scott Conf Suite Rm 251'],[15],False
+553,N1B409E1,19,Wednesday,Morning,02:00,31,['Kelvin Gallery'],[230],False
+554,N1B410E1,3,Wednesday,Evening,01:30,114,"['Kelvin Blg Rm 323/324', 'St Andrews Rm 227 ', 'WILT 112', 'John McIntyre Rm 208']","[50, 50, 50, 40]",False
+555,N1B420E1,18,Tuesday,Evening,01:30,19,"['Fore', 'St Andrews Rm 234']","[64, 40]",False
+556,N1B422E1,8,Friday,Afternoon,02:00,25,"['Fore', 'Rankine 629']","[64, 53]",False
+557,Q13013E1,21,Wednesday,Evening,01:30,1,['Hunter East'],[195],False
+558,Q13017E1,6,Thursday,Evening,01:30,2,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+559,Q31301E1,4,Thursday,Morning,02:00,78,"['Kelvin Gallery', 'Senate']","[230, 80]",False
+560,Q32302E1,15,Monday,Evening,01:30,45,"['John McIntyre Rm 201', 'Fore', 'Bute']","[100, 64, 230]",False
+561,Q33211E1,3,Wednesday,Evening,01:30,56,"['James Watt Design Studio B', 'Fore', 'Sir Charles Wilson']","[69, 64, 60]",False
+562,Q33307E1,1,Wednesday,Morning,02:00,51,"['John McIntyre Rm 201', 'WILTF']","[100, 60]",False
+563,Q33308E1,13,Monday,Morning,03:00,48,['St Andrews Rm 227 '],[50],False
+564,Q3A201E1,20,Wednesday,Afternoon,02:00,64,['Bute'],[230],False
+565,Q3A301E1,11,Saturday,Afternoon,02:00,2,['Kelvin Hall'],[500],False
+566,Q3A303E1,18,Tuesday,Evening,01:30,10,['Joseph Black A504'],[25],False
+567,Q3A307E1,20,Wednesday,Afternoon,02:00,26,['Hunter East'],[195],False
+568,Q3A308E1,26,Friday,Afternoon,03:00,26,['Adam Smith 915'],[26],False
+569,Q3B201E1,24,Thursday,Evening,01:30,17,['Kelvin Gallery'],[230],False
+570,Q3B211E1,18,Tuesday,Evening,01:30,6,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+571,Q4A101E1,27,Friday,Evening,03:00,49,['Kelvin Blg Rm 220'],[50],False
+572,Q4A106E1,14,Monday,Afternoon,03:00,11,['WILTF'],[60],False
+573,Q4A210E1,7,Friday,Morning,03:00,39,['Kelvin Gallery'],[230],False
+574,Q4A219E1,8,Friday,Afternoon,03:00,7,['WILT 112'],[50],False
+575,Q4B102E1,19,Wednesday,Morning,03:00,22,['John McIntyre Rm 208'],[40],False
+576,Q4B104E1,26,Friday,Afternoon,02:00,14,['Bute'],[230],False
+577,Q81001E1,5,Thursday,Afternoon,02:00,100,['Kelvin Hall'],[500],False
+578,Q81003E1,23,Thursday,Afternoon,02:00,47,['John McIntyre Rm 201'],[100],False
+579,Q81009E1,18,Tuesday,Evening,01:00,16,['Kelvin Blg Rm 220'],[50],False
+580,Q81011E1,27,Friday,Evening,01:00,2,['Kelvin Gallery'],[230],False
+581,Q81016E1,27,Friday,Evening,01:00,14,"['Gilbert Scott Conf Suite Rm 251', 'Kelvin Gallery']","[15, 230]",False
+582,Q82024E1,15,Monday,Evening,01:30,5,['Gilbert Scott Conf Suite Rm 250'],[40],False
+583,Q82028E1,6,Thursday,Evening,01:30,6,"['Gilbert Scott Conf Suite Rm 250', '59 Oakfield Ave Rm 302 (no lift)']","[40, 10]",False
+584,Q82031E1,9,Friday,Evening,01:00,3,['Gilbert Scott Conf Suite Rm 251'],[15],False
+585,Q83108E1,24,Thursday,Evening,01:00,1,['Joseph Black A504'],[25],False
+586,Q83110E1,15,Monday,Evening,01:00,1,['Rankine 630'],[55],False
+587,Q83142E1,1,Wednesday,Morning,02:00,13,"['WILTF', 'Randolph']","[60, 85]",False
+588,Q83144E1,18,Tuesday,Evening,01:00,6,['Sir Charles Wilson'],[60],False
+589,Q83168E1,6,Thursday,Evening,01:00,5,['Joseph Black A504'],[25],False
+590,Q83170E1,24,Thursday,Evening,01:00,2,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+591,Q83172E1,15,Monday,Evening,01:00,3,['Bute'],[230],False
+592,Q83184E1,2,Wednesday,Afternoon,02:00,11,['Senate'],[80],False
+593,Q83186E1,6,Thursday,Evening,01:00,2,['Joseph Black C407 (no lift)'],[25],False
+594,Q83198E1,19,Wednesday,Morning,02:00,1,['Kelvin Blg Rm 220'],[50],False
+595,Q8A310E1,13,Monday,Morning,02:00,52,['Hunter West'],[195],False
+596,Q8B043E1,26,Friday,Afternoon,02:00,26,['St Andrews Rm 237'],[30],False
+597,Q8B044E1,24,Thursday,Evening,01:00,3,['James Watt Design Studio B'],[69],False
+598,Q8B045E1,17,Tuesday,Afternoon,02:00,14,['Gilbert Scott Conf Suite Rm 250'],[40],False
+599,Q8B056E1,23,Thursday,Afternoon,01:00,87,['Kelvin Gallery'],[230],False
+600,Q8B063E1,4,Thursday,Morning,02:00,40,"['Randolph', 'Sir Charles Wilson']","[85, 60]",False
+601,Q8B074E1,27,Friday,Evening,01:00,8,['Adam Smith 915'],[26],False
+602,Q8B075E1,10,Saturday,Morning,02:00,5,['Rankine 629'],[53],False
+603,Q8B076E1,1,Wednesday,Morning,02:00,5,['John McIntyre Rm 208'],[40],False
+604,Q8B094E1,11,Saturday,Afternoon,02:00,42,['OTC'],[110],False
+605,Q8B096E1,2,Wednesday,Afternoon,02:00,1,['Sir Charles Wilson'],[60],False
+606,Q8B341E1,19,Wednesday,Morning,02:00,7,['Joseph Black C407 (no lift)'],[25],False
+607,Q8P010E1,20,Wednesday,Afternoon,02:00,1,['Kelvin Gallery'],[230],False
+608,R11001E1,25,Friday,Morning,01:00,191,"['Hunter West', 'Hunter East']","[195, 195]",False
+609,R11002E1,9,Friday,Evening,01:30,89,['Hunter East'],[195],False
+610,R11003E1,11,Saturday,Afternoon,02:00,109,['Kelvin Hall'],[500],False
+611,R11004E1,24,Thursday,Evening,01:00,138,['Hunter West'],[195],False
+612,R12001E1,23,Thursday,Afternoon,01:30,129,['Hunter West'],[195],False
+613,R12002E1,27,Friday,Evening,01:30,54,['Sir Charles Wilson'],[60],False
+614,R12005E1,19,Wednesday,Morning,02:00,26,"['Rankine 601', 'Kelvin Blg Rm 323/324', 'Kelvin Hall']","[37, 50, 500]",False
+615,R12008E1,4,Thursday,Morning,02:00,35,['Hunter East'],[195],False
+616,R12024E1,15,Monday,Evening,01:30,5,['James Watt Design Studio A'],[54],False
+617,R12025E1,8,Friday,Afternoon,02:00,16,['Gilbert Scott Conf Suite Rm 253'],[40],False
+618,R12026E1,17,Tuesday,Afternoon,02:00,15,"['St Andrews Rm 234', 'Kelvin Blg Rm 220']","[40, 50]",False
+619,R13001E1,15,Monday,Evening,01:30,36,['Rankine 601'],[37],False
+620,R13003E1,9,Friday,Evening,01:30,28,['Gilbert Scott Conf Suite Rm 250'],[40],False
+621,R13005E1,18,Tuesday,Evening,01:30,27,['Rankine 630'],[55],False
+622,R13006E1,22,Thursday,Morning,02:00,12,['Adam Smith 915'],[26],False
+623,R13007E1,1,Wednesday,Morning,02:00,20,['Gilbert Scott Conf Suite Rm 253'],[40],False
+624,R13009E1,6,Thursday,Evening,01:30,6,['St Andrews Gym Hall'],[110],False
+625,R13011E1,11,Saturday,Afternoon,02:00,21,['Hunter East'],[195],False
+626,R13012E1,24,Thursday,Evening,01:30,26,['James Watt Design Studio A'],[54],False
+627,R13014E1,27,Friday,Evening,01:30,11,['Kelvin Gallery'],[230],False
+628,R13015E1,4,Thursday,Morning,02:00,9,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+629,R13016E1,20,Wednesday,Afternoon,02:00,19,['Bute'],[230],False
+630,R13017E1,7,Friday,Morning,02:00,11,['Randolph'],[85],False
+631,R13021E1,27,Friday,Evening,01:30,26,['Gilbert Scott Conf Suite Rm 356'],[40],False
+632,R13022E1,21,Wednesday,Evening,01:30,19,['Hunter East'],[195],False
+633,R13023E1,3,Wednesday,Evening,01:30,14,['St Andrews Rm 237'],[30],False
+634,R13044E1,26,Friday,Afternoon,02:00,6,['St Andrews Rm 234'],[40],False
+635,R13101E1,4,Thursday,Morning,02:00,2,['Gilbert Scott Conf Suite Rm 250'],[40],False
+636,R21101E1,21,Wednesday,Evening,01:30,96,['Bute'],[230],False
+637,R21104E1,15,Monday,Evening,01:00,41,['Kelvin Gallery'],[230],False
+638,R21206E1,6,Thursday,Evening,01:30,43,['Hunter West'],[195],False
+639,R22101E1,6,Thursday,Evening,01:30,66,['Hunter East'],[195],False
+640,R22102E1,1,Wednesday,Morning,01:00,24,['Rankine 630'],[55],False
+641,R22110E1,18,Tuesday,Evening,01:30,28,['Gilbert Scott Conf Suite Rm 250'],[40],False
+642,R22112E1,18,Tuesday,Evening,01:30,14,['St Andrews Rm 227 '],[50],False
+643,R22203E1,24,Thursday,Evening,01:30,20,['Joseph Black C407 (no lift)'],[25],False
+644,R22204E1,27,Friday,Evening,01:30,8,['Kelvin Gallery'],[230],False
+645,R22212E1,3,Wednesday,Evening,01:30,25,['Kelvin Gallery'],[230],False
+646,R23009E1,15,Monday,Evening,01:30,10,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+647,R23102E1,11,Saturday,Afternoon,02:00,18,['OTC'],[110],False
+648,R23104E1,10,Saturday,Morning,02:00,32,"['Rankine 601', 'St Andrews Rm 234']","[37, 40]",False
+649,R23105E1,27,Friday,Evening,01:30,7,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+650,R23106E1,3,Wednesday,Evening,01:30,7,['Rankine 629'],[53],False
+651,R23107E1,3,Wednesday,Evening,01:30,12,['Kelvin Hall'],[500],False
+652,R23111E1,24,Thursday,Evening,01:30,22,['Kelvin Blg Rm 220'],[50],False
+653,R23117E1,13,Monday,Morning,01:30,24,"['Hunter East', 'Gilbert Scott Conf Suite Rm 250']","[195, 40]",False
+654,R23209E1,27,Friday,Evening,01:30,17,['St Andrews Rm 234'],[40],False
+655,R23216E1,6,Thursday,Evening,01:30,11,['James Watt Design Studio B'],[69],False
+656,R42103E1,20,Wednesday,Afternoon,01:30,36,['St Andrews Rm 234'],[40],False
+657,R42217E1,1,Wednesday,Morning,01:30,20,['St Andrews Rm 227 '],[50],False
+658,R43146E1,14,Monday,Afternoon,02:00,4,['Sir Charles Wilson'],[60],False
+659,R43148E1,10,Saturday,Morning,02:00,1,['St Andrews Rm 237'],[30],False
+660,R43149E1,8,Friday,Afternoon,02:00,8,['Gilbert Scott Conf Suite Rm 356'],[40],False
+661,R43152E1,2,Wednesday,Afternoon,02:00,4,['Rankine 601'],[37],False
+662,R43153E1,5,Thursday,Afternoon,02:00,2,['John McIntyre Rm 201'],[100],False
+663,R43204E1,22,Thursday,Morning,01:45,15,['John McIntyre Rm 201'],[100],False
+664,R4A101E1,16,Tuesday,Morning,01:30,68,['John McIntyre Rm 201'],[100],False
+665,R4A117E1,3,Wednesday,Evening,01:30,34,['Kelvin Hall'],[500],False
+666,R4A119E1,27,Friday,Evening,01:30,8,['Kelvin Gallery'],[230],False
+667,R4A210E1,15,Monday,Evening,01:30,18,['St Andrews Rm 237'],[30],False
+668,R4A215E1,21,Wednesday,Evening,01:30,19,['Hunter West'],[195],False
+669,R4B107E1,24,Thursday,Evening,01:30,11,['Bute'],[230],False
+670,R4B209E1,4,Thursday,Morning,02:00,1,['Gilbert Scott Conf Suite Rm 251'],[15],False
+671,R81003E1,1,Wednesday,Morning,01:30,28,['St Andrews Rm 227 '],[50],False
+672,R81015E1,13,Monday,Morning,02:00,19,['Bute'],[230],False
+673,R81022E1,25,Friday,Morning,01:00,33,['Kelvin Blg Rm 220'],[50],False
+674,R82022E1,21,Wednesday,Evening,01:00,18,['Senate'],[80],False
+675,R82025E1,3,Wednesday,Evening,01:30,25,['Gilbert Scott Conf Suite Rm 253'],[40],False
+676,R82027E1,18,Tuesday,Evening,01:30,7,['John McIntyre Rm 208'],[40],False
+677,R82028E1,9,Friday,Evening,01:30,10,['St Andrews Gym Hall'],[110],False
+678,R83036E1,13,Monday,Morning,03:00,12,"['Rankine 629', 'Gilbert Scott Conf Suite Rm 251']","[53, 15]",False
+679,R83038E1,16,Tuesday,Morning,02:00,32,['Gilbert Scott Conf Suite Rm 250'],[40],False
+680,R83043E1,1,Wednesday,Morning,02:00,25,"['St Andrews Rm 237', 'John McIntyre Rm 208', 'Fore']","[30, 40, 64]",False
+681,R83044E1,7,Friday,Morning,02:00,9,['St Andrews Rm 227 '],[50],False
+682,R83046E1,24,Thursday,Evening,01:30,18,['St Andrews Rm 237'],[30],False
+683,R83051E1,27,Friday,Evening,01:00,11,['Gilbert Scott Conf Suite Rm 250'],[40],False
+684,R83052E1,6,Thursday,Evening,01:00,23,['Gilbert Scott Conf Suite Rm 356'],[40],False
+685,R83054E1,24,Thursday,Evening,01:00,2,['John McIntyre Rm 201'],[100],False
+686,R83056E1,27,Friday,Evening,01:00,1,['Gilbert Scott Conf Suite Rm 250'],[40],False
+687,R8A011E1,18,Tuesday,Evening,01:00,8,['Rankine 601'],[37],False
+688,R8A013E1,6,Thursday,Evening,01:00,4,['Gilbert Scott Conf Suite Rm 253'],[40],False
+689,R8B032E1,9,Friday,Evening,01:00,4,['Senate'],[80],False
+690,V11103E1,24,Thursday,Evening,01:30,55,['Kelvin Hall'],[500],False
+691,V11105E1,3,Wednesday,Evening,01:30,66,['St Andrews Gym Hall'],[110],False
+692,V11107E1,26,Friday,Afternoon,01:30,64,"['Fore', 'James Watt Design Studio B', 'Randolph']","[64, 69, 85]",False
+693,V11109E1,19,Wednesday,Morning,01:30,73,['St Andrews Gym Hall'],[110],False
+694,V11111E1,7,Friday,Morning,01:30,114,['Kelvin Hall'],[500],False
+695,V12115E1,3,Wednesday,Evening,01:30,13,['Rankine 601'],[37],False
+696,V12116E1,15,Monday,Evening,01:00,11,['Senate'],[80],False
+697,V12119E1,15,Monday,Evening,01:30,16,['Sir Charles Wilson'],[60],False
+698,V12121E1,24,Thursday,Evening,01:30,14,['Gilbert Scott Conf Suite Rm 251'],[15],False
+699,V12123E1,15,Monday,Evening,01:30,32,['Kelvin Blg Rm 323/324'],[50],False
+700,V12127E1,6,Thursday,Evening,01:00,17,['Kelvin Gallery'],[230],False
+701,V12129E1,9,Friday,Evening,01:30,12,['Kelvin Hall'],[500],False
+702,V12131E1,6,Thursday,Evening,01:30,21,['John McIntyre Rm 201'],[100],False
+703,V12135E1,1,Wednesday,Morning,01:30,28,"['St Andrews Rm 227 ', 'St Andrews Rm 234']","[50, 40]",False
+704,V12139E1,18,Tuesday,Evening,01:30,9,['Gilbert Scott Conf Suite Rm 250'],[40],False
+705,V12143E1,13,Monday,Morning,01:30,36,['WILT 112'],[50],False
+706,V12148E1,4,Thursday,Morning,01:30,24,['John McIntyre Rm 208'],[40],False
+707,V13101E1,21,Wednesday,Evening,01:30,6,['Gilbert Scott Conf Suite Rm 250'],[40],False
+708,V13103E1,9,Friday,Evening,01:30,12,['Adam Smith 915'],[26],False
+709,V13104E1,24,Thursday,Evening,01:30,6,['John McIntyre Rm 208'],[40],False
+710,V13105E1,3,Wednesday,Evening,01:30,8,['Joseph Black C407 (no lift)'],[25],False
+711,V13108E1,27,Friday,Evening,01:30,11,['Rankine 601'],[37],False
+712,V13111E1,21,Wednesday,Evening,01:00,13,['Hunter West'],[195],False
+713,V13119E1,22,Thursday,Morning,02:00,20,['Rankine 601'],[37],False
+714,V13125E1,27,Friday,Evening,01:30,4,"['59 Oakfield Ave Rm 302 (no lift)', 'Kelvin Gallery']","[10, 230]",False
+715,V13152E1,27,Friday,Evening,01:30,4,['Kelvin Gallery'],[230],False
+716,V13155E1,8,Friday,Afternoon,02:00,3,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+717,V13159E1,5,Thursday,Afternoon,02:00,10,['Hunter West'],[195],False
+718,V13163E1,16,Tuesday,Morning,02:00,3,['Sir Charles Wilson'],[60],False
+719,V13169E1,26,Friday,Afternoon,02:00,8,['Joseph Black C407 (no lift)'],[25],False
+720,V13173E1,13,Monday,Morning,02:00,4,['John McIntyre Rm 201'],[100],False
+721,V13177E1,5,Thursday,Afternoon,02:00,10,['59 Oakfield Ave Rm 302 (no lift)'],[10],False
+722,V13181E1,7,Friday,Morning,02:00,5,['Kelvin Gallery'],[230],False
+723,V13185E1,11,Saturday,Afternoon,03:00,13,['Sir Charles Wilson'],[60],False
+724,V13197E1,16,Tuesday,Morning,02:00,9,['James Watt Design Studio B'],[69],False
+725,V13214E1,1,Wednesday,Morning,02:00,16,['Sir Charles Wilson'],[60],False
+726,V13296E1,24,Thursday,Evening,01:30,14,['Gilbert Scott Conf Suite Rm 355 (no lift)'],[30],False
+727,V41103E1,24,Thursday,Evening,01:00,10,['Sir Charles Wilson'],[60],False
+728,V41112E1,6,Thursday,Evening,01:00,19,['Kelvin Hall'],[500],False
+729,V41124E1,9,Friday,Evening,01:00,13,['Rankine 630'],[55],False
+730,V41133E1,15,Monday,Evening,01:30,19,['Kelvin Hall'],[500],False
+731,V41142E1,14,Monday,Afternoon,01:00,65,"['Kelvin Hall', 'Bute']","[500, 230]",False
+732,V41143E1,21,Wednesday,Evening,01:00,9,['Randolph'],[85],False
+733,V42103E1,18,Tuesday,Evening,01:00,15,['John McIntyre Rm 208'],[40],False
+734,V42112E1,20,Wednesday,Afternoon,02:00,28,['WILTF'],[60],False
+735,V42117E1,11,Saturday,Afternoon,02:00,15,['Gilbert Scott Conf Suite Rm 250'],[40],False
+736,V42124E1,7,Friday,Morning,02:00,28,['St Andrews Rm 234'],[40],False
+737,V42133E1,16,Tuesday,Morning,01:00,34,['Kelvin Gallery'],[230],False
+738,V42143E1,27,Friday,Evening,01:00,10,['Gilbert Scott Conf Suite Rm 356'],[40],False
+739,V43103E1,9,Friday,Evening,01:00,15,"['Rankine 629', 'Sir Charles Wilson']","[53, 60]",False
+740,V43112E1,17,Tuesday,Afternoon,02:00,16,['WILTF'],[60],False
+741,V43117E1,2,Wednesday,Afternoon,02:00,6,['St Andrews Rm 234'],[40],False
+742,V43124E1,7,Friday,Morning,02:00,28,['WILT 112'],[50],False
+743,V43125E1,26,Friday,Afternoon,02:00,10,['Kelvin Blg Rm 220'],[50],False
+744,V43133E1,15,Monday,Evening,01:00,22,['Gilbert Scott Conf Suite Rm 253'],[40],False
+745,V43143E1,18,Tuesday,Evening,01:00,17,['Joseph Black C407 (no lift)'],[25],False
+746,V43239E1,6,Thursday,Evening,01:00,17,['St Andrews Rm 234'],[40],False
+747,V61110E1,6,Thursday,Evening,01:30,62,['Randolph'],[85],False
+748,V61120E1,10,Saturday,Morning,01:30,60,"['James Watt Design Studio B', 'Kelvin Hall']","[69, 500]",False
+749,V62200E1,21,Wednesday,Evening,01:30,37,['St Andrews Gym Hall'],[110],False
+750,V6A100E1,8,Friday,Afternoon,01:30,96,"['Hunter East', 'John McIntyre Rm 201']","[195, 100]",False
+751,V6B302E1,13,Monday,Morning,01:30,43,"['James Watt Design Studio B', 'St Andrews Gym Hall']","[69, 110]",False
+752,V6B306E1,18,Tuesday,Evening,01:30,16,['James Watt Design Studio A'],[54],False
+753,V6B307E1,15,Monday,Evening,01:30,15,['Gilbert Scott Conf Suite Rm 251'],[15],False
+754,V6B308E1,9,Friday,Evening,01:30,18,['Rankine 630'],[55],False
+755,V6B310E1,24,Thursday,Evening,01:30,1,['Joseph Black A504'],[25],False
+756,V6B313E1,3,Wednesday,Evening,01:30,5,['St Andrews Rm 234'],[40],False
+757,V6B329E1,3,Wednesday,Evening,01:30,17,['Joseph Black C407 (no lift)'],[25],False
+758,V6B333E1,6,Thursday,Evening,01:30,5,['Rankine 601'],[37],False
+759,V6B335E1,6,Thursday,Evening,01:30,1,['John McIntyre Rm 208'],[40],False
+760,V6B336E1,27,Friday,Evening,01:30,24,['Gilbert Scott Conf Suite Rm 253'],[40],False
+761,V71101E1,6,Thursday,Evening,01:30,1,['St Andrews Rm 234'],[40],False
+762,V72119E1,27,Friday,Evening,01:30,19,['Joseph Black A504'],[25],False
+763,V72121E1,19,Wednesday,Morning,01:30,42,['St Andrews Rm 227 '],[50],False
+764,V72AINE1,11,Saturday,Afternoon,01:30,33,"['OTC', 'Kelvin Blg Rm 220']","[110, 50]",False
+765,V73127E1,2,Wednesday,Afternoon,03:00,15,['Kelvin Blg Rm 323/324'],[50],False
+766,V73128E1,6,Thursday,Evening,01:30,16,['Adam Smith 915'],[26],False
+767,V73232E1,4,Thursday,Morning,03:00,29,['St Andrews Gym Hall'],[110],False
+768,V73233E1,20,Wednesday,Afternoon,03:00,7,['Kelvin Gallery'],[230],False
+769,V73MD1E1,18,Tuesday,Evening,01:30,29,"['Gilbert Scott Conf Suite Rm 355 (no lift)', 'Randolph']","[30, 85]",False
+770,V7A101E1,23,Thursday,Afternoon,01:30,52,['James Watt Design Studio A'],[54],False
+771,V7A105E1,6,Thursday,Evening,01:30,40,['St Andrews Rm 227 '],[50],False
+772,V7A107E1,17,Tuesday,Afternoon,01:30,67,"['59 Oakfield Ave Rm 302 (no lift)', 'Gilbert Scott Conf Suite Rm 251', 'Joseph Black A504', 'OTC', 'John McIntyre Rm 201']","[10, 15, 25, 110, 100]",False
+773,V7A109E1,16,Tuesday,Morning,01:30,46,['Kelvin Hall'],[500],False
+774,V7A117E1,1,Wednesday,Morning,01:30,31,['Rankine 630'],[55],False
+775,V7A204E1,10,Saturday,Morning,01:30,65,['St Andrews Gym Hall'],[110],False
+776,V7A211E1,2,Wednesday,Afternoon,01:30,53,"['Senate', 'Randolph']","[80, 85]",False
+777,V7A214E1,3,Wednesday,Evening,01:30,25,['St Andrews Rm 234'],[40],False
+778,V7A216E1,2,Wednesday,Afternoon,01:30,31,['Kelvin Hall'],[500],False
+779,V81101E1,21,Wednesday,Evening,01:30,32,['Rankine 630'],[55],False
+780,V81103E1,27,Friday,Evening,01:30,4,['Kelvin Gallery'],[230],False
+781,V81105E1,3,Wednesday,Evening,01:30,21,['Randolph'],[85],False
+782,V81107E1,1,Wednesday,Morning,01:30,38,['Senate'],[80],False
+783,V81109E1,15,Monday,Evening,01:30,56,['Senate'],[80],False
+784,V81C17E1,5,Thursday,Afternoon,02:00,3,['John McIntyre Rm 201'],[100],False
+785,V82110E1,21,Wednesday,Evening,01:30,50,['Sir Charles Wilson'],[60],False
+786,V82111E1,3,Wednesday,Evening,01:30,21,['Rankine 630'],[55],False
+787,V82113E1,13,Monday,Morning,01:30,43,['John McIntyre Rm 201'],[100],False
+788,V82115E1,24,Thursday,Evening,01:30,50,['Kelvin Gallery'],[230],False
+789,V82C01E1,5,Thursday,Afternoon,02:00,17,['St Andrews Gym Hall'],[110],False
+790,V83119E1,9,Friday,Evening,01:30,16,['Rankine 630'],[55],False
+791,V83123E1,18,Tuesday,Evening,01:30,20,['St Andrews Rm 234'],[40],False
+792,V83138E1,15,Monday,Evening,01:30,11,['WILTF'],[60],False
+793,V83143E1,24,Thursday,Evening,01:30,10,"['Joseph Black C407 (no lift)', 'Kelvin Blg Rm 323/324']","[25, 50]",False
+794,W31A12E1,11,Saturday,Afternoon,01:30,24,['Sir Charles Wilson'],[60],False
+795,W32C10E1,15,Monday,Evening,01:30,16,"['Gilbert Scott Conf Suite Rm 253', 'Kelvin Blg Rm 323/324']","[40, 50]",False
+796,W32F10E1,21,Wednesday,Evening,01:30,15,['St Andrews Rm 227 '],[50],False
+797,W32H10E1,6,Thursday,Evening,01:30,6,['James Watt Design Studio A'],[54],False
+798,W32H14E1,9,Friday,Evening,01:30,12,"['Gilbert Scott Conf Suite Rm 251', 'Gilbert Scott Conf Suite Rm 356']","[15, 40]",False
+799,W32H16E1,24,Thursday,Evening,01:30,13,"['Gilbert Scott Conf Suite Rm 251', 'Rankine 629', 'Adam Smith 915']","[15, 53, 26]",False
